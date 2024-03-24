@@ -9,9 +9,9 @@ class CamSweep(c: RTConfig) extends Component {
     val io = new Bundle {
         val pix_x      = in(SInt(12 bits))
         val pix_y      = in(SInt(11 bits))
-        val pixel_in    = in(PixelStream())
+        // val pixel_in    = in(PixelStream())
 
-        val pixel_out   = out(PixelStream())
+        // val pixel_out   = out(PixelStream())
         val ray         = out(Ray(c))
     }
 
@@ -31,7 +31,8 @@ class CamSweep(c: RTConfig) extends Component {
     // x,y of camera in integer...
     //------------------------------------------------------------
 
-    val pix_vld = RegNext(io.pixel_in.req) init(False)
+    // val pix_vld = RegNext(io.pixel_in.req) init(False)
+    val pix_vld = True
 
     //------------------------------------------------------------
     // Convert to Float
@@ -93,12 +94,12 @@ class CamSweep(c: RTConfig) extends Component {
     io.ray.direction.y <> dir_y
     io.ray.direction.z.fromDouble(1.0)
 
-    val (pixel_in_delayed_vld, pixel_in_delayed, dir_x_delayed) = MatchLatency(
-                                                                io.pixel_in.req,
-                                                                io.pixel_in.req,   io.pixel_in,
-                                                                dir_x_vld,         dir_x)
+    // val (pixel_in_delayed_vld, pixel_in_delayed, dir_x_delayed) = MatchLatency(
+    //                                                             io.pixel_in.req,
+    //                                                             io.pixel_in.req,   io.pixel_in,
+    //                                                             dir_x_vld,         dir_x)
 
-    io.pixel_out <> pixel_in_delayed
+    // io.pixel_out <> pixel_in_delayed
 
 }
 
