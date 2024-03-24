@@ -15,7 +15,6 @@ class PanoCore extends Component {
         val vo                  = out(VgaData())
 
         val led_green           = out(Bool)
-        val led_blue            = out(Bool)
     }
 
 
