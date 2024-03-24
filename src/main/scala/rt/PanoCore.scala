@@ -243,8 +243,8 @@ class PanoCore extends Component {
         val rot_y_sin   = Fpxx(rtConfig.fpxxConfig)
         val rot_y_cos   = Fpxx(rtConfig.fpxxConfig)
 
-        // 10 degrees
-        rot_y_sin.fromDouble(0.17096188876030122)
+        // -10 degrees
+        rot_y_sin.fromDouble(-0.17096188876030122)
         rot_y_cos.fromDouble(0.98527764238894122)
 
         val ray_dir_rot_y_vld   = Bool
