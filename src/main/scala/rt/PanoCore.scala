@@ -62,7 +62,29 @@ class PanoCore extends Component {
         val cam_sweep_pixel = PixelStream()
         val ray             = Ray(rtConfig)
 
+        val width  = 640
+        val height = 480
+
+        val pix_x = Reg(SInt(12 bits))
+        val pix_y = Reg(SInt(11 bits))
+
+        when(vi_gen_pixel_out.vsync || (vi_gen_pixel_out.req && vi_gen_pixel_out.eof)){
+            pix_x   := S(-width/2, 12 bits)
+            pix_y   := S(height/2, 11 bits)
+        }
+        .elsewhen(vi_gen_pixel_out.req){
+            when(vi_gen_pixel_out.eol){
+                pix_x   := S(-width/2, 12 bits)
+                pix_y   := pix_y - 1
+            }
+            .otherwise{
+                pix_x   := pix_x + 1
+            }
+        }
+
         val u_cam_sweep = new CamSweep(rtConfig)
+        u_cam_sweep.io.pix_x        <> pix_x
+        u_cam_sweep.io.pix_y        <> pix_y
         u_cam_sweep.io.pixel_in     <> vi_gen_pixel_out
         u_cam_sweep.io.pixel_out    <> cam_sweep_pixel
         u_cam_sweep.io.ray          <> ray
