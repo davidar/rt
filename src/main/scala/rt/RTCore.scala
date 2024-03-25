@@ -9,7 +9,7 @@ import spinal.lib.GrayCounter
 import math._
 
 
-class PanoCore extends Component {
+class RTCore extends Component {
 
     val io = new Bundle {
         val pix_x     = in(SInt(12 bits))

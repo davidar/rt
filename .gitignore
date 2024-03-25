@@ -2,7 +2,7 @@
 *.log
 *.bak
 .*.swp
-*.bin
+# *.bin
 
 # sbt specific
 .cache/
@@ -31,7 +31,7 @@ bin/
 
 #User
 /*.vhd
-/*.v
+# /*.v
 *.cf
 *.json
 *.vcd

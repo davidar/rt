@@ -72,7 +72,7 @@ class PanoCoreWrapper extends Component {
         }
     }
 
-    val u_pano_core = new PanoCore()
+    val u_pano_core = new RTCore()
     u_pano_core.io.pix_x     <> pix_x
     u_pano_core.io.pix_y     <> pix_y
     u_pano_core.io.pixel_in  <> vi_gen_pixel_out

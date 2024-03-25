@@ -13,7 +13,7 @@ object PanoTester {
         val io = new Bundle {
         }
 
-        val u_pano_core = new PanoCore
+        val u_pano_core = new PanoCoreWrapper
     }
 }
 
