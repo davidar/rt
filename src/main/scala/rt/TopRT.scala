@@ -8,7 +8,7 @@ object TopRT{
 
         val config = SpinalConfig()
         config.generateVerilog({
-            val toplevel = new PanoCoreWrapper()
+            val toplevel = new PanoCore()
             toplevel
         })
         println("DONE")
