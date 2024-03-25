@@ -1,3 +1,5 @@
+.PHONY: all sim syn waves
+all: syn
 
 sim:
 	sbt "testOnly rt.PanoTester"
@@ -7,4 +9,3 @@ syn:
 
 waves:
 	gtkwave -o simWorkspace/PanoCoreDut/test.vcd &
-    

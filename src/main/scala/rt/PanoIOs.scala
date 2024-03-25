@@ -41,6 +41,13 @@ case class PixelStream() extends Bundle {
     val eol     = Bool
     val eof     = Bool
     val pixel   = Pixel()
+
+    val vtg_valid   = Bool
+    // val vtg_ready   = Bool
+    val vtg_last    = Bool
+    val vtg_de      = Bool
+    val vtg_hsync   = Bool
+    val vtg_vsync   = Bool
 }
 
 

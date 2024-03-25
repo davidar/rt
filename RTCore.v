@@ -1,5 +1,5 @@
 // Generator : SpinalHDL v1.3.0    git head : a4aa217960e9fd6394cc93913205fac49fac47d4
-// Date      : 25/03/2024, 20:27:38
+// Date      : 25/03/2024, 21:44:25
 // Component : RTCore
 
 
@@ -952,12 +952,6 @@ endmodule
 //FpxxAdd_33_ remplaced by FpxxAdd
 
 
-//FpxxAdd_34_ remplaced by FpxxAdd
-
-
-//FpxxAdd_35_ remplaced by FpxxAdd
-
-
 //FpxxMul_21_ remplaced by FpxxMul
 
 
@@ -967,10 +961,10 @@ endmodule
 //FpxxMul_23_ remplaced by FpxxMul
 
 
-//FpxxAdd_36_ remplaced by FpxxAdd
+//FpxxAdd_34_ remplaced by FpxxAdd
 
 
-//FpxxAdd_37_ remplaced by FpxxAdd
+//FpxxAdd_35_ remplaced by FpxxAdd
 
 
 //FpxxMul_24_ remplaced by FpxxMul
@@ -1042,10 +1036,10 @@ endmodule
 //FpxxMul_29_ remplaced by FpxxMul
 
 
-//FpxxAdd_38_ remplaced by FpxxAdd
+//FpxxAdd_36_ remplaced by FpxxAdd
 
 
-//FpxxAdd_39_ remplaced by FpxxAdd
+//FpxxAdd_37_ remplaced by FpxxAdd
 
 
 //FpxxMul_30_ remplaced by FpxxMul
@@ -1057,6 +1051,12 @@ endmodule
 //FpxxMul_32_ remplaced by FpxxMul
 
 
+//FpxxAdd_38_ remplaced by FpxxAdd
+
+
+//FpxxAdd_39_ remplaced by FpxxAdd
+
+
 //FpxxAdd_40_ remplaced by FpxxAdd
 
 
@@ -1064,12 +1064,6 @@ endmodule
 
 
 //FpxxAdd_42_ remplaced by FpxxAdd
-
-
-//FpxxAdd_43_ remplaced by FpxxAdd
-
-
-//FpxxAdd_44_ remplaced by FpxxAdd
 
 module MulVecScalar (
       input   io_op_vld,
@@ -1605,10 +1599,10 @@ endmodule
 //FpxxMul_35_ remplaced by FpxxMul
 
 
-//FpxxAdd_45_ remplaced by FpxxAdd
+//FpxxAdd_43_ remplaced by FpxxAdd
 
 
-//FpxxAdd_46_ remplaced by FpxxAdd
+//FpxxAdd_44_ remplaced by FpxxAdd
 
 
 //FpxxMul_36_ remplaced by FpxxMul
@@ -1638,10 +1632,10 @@ endmodule
 //FpxxMul_41_ remplaced by FpxxMul
 
 
-//FpxxAdd_47_ remplaced by FpxxAdd
+//FpxxAdd_45_ remplaced by FpxxAdd
 
 
-//FpxxAdd_48_ remplaced by FpxxAdd
+//FpxxAdd_46_ remplaced by FpxxAdd
 
 
 //FpxxSub_9_ remplaced by FpxxSub
@@ -1662,10 +1656,10 @@ endmodule
 //FpxxMul_44_ remplaced by FpxxMul
 
 
-//FpxxAdd_49_ remplaced by FpxxAdd
+//FpxxAdd_47_ remplaced by FpxxAdd
 
 
-//FpxxAdd_50_ remplaced by FpxxAdd
+//FpxxAdd_48_ remplaced by FpxxAdd
 
 
 //MulVecScalar_2_ remplaced by MulVecScalar
@@ -1692,10 +1686,10 @@ endmodule
 //FpxxMul_47_ remplaced by FpxxMul
 
 
-//FpxxAdd_51_ remplaced by FpxxAdd
+//FpxxAdd_49_ remplaced by FpxxAdd
 
 
-//FpxxAdd_52_ remplaced by FpxxAdd
+//FpxxAdd_50_ remplaced by FpxxAdd
 
 
 //FpxxMul_48_ remplaced by FpxxMul
@@ -1707,6 +1701,12 @@ endmodule
 //FpxxMul_50_ remplaced by FpxxMul
 
 
+//FpxxAdd_51_ remplaced by FpxxAdd
+
+
+//FpxxAdd_52_ remplaced by FpxxAdd
+
+
 //FpxxAdd_53_ remplaced by FpxxAdd
 
 
@@ -1714,12 +1714,6 @@ endmodule
 
 
 //FpxxAdd_55_ remplaced by FpxxAdd
-
-
-//FpxxAdd_56_ remplaced by FpxxAdd
-
-
-//FpxxAdd_57_ remplaced by FpxxAdd
 
 
 //MulVecScalar_3_ remplaced by MulVecScalar
@@ -1886,10 +1880,10 @@ endmodule
 //FpxxMul_53_ remplaced by FpxxMul
 
 
-//FpxxAdd_58_ remplaced by FpxxAdd
+//FpxxAdd_56_ remplaced by FpxxAdd
 
 
-//FpxxAdd_59_ remplaced by FpxxAdd
+//FpxxAdd_57_ remplaced by FpxxAdd
 
 
 //FpxxMul_54_ remplaced by FpxxMul
@@ -2661,42 +2655,6 @@ endmodule
 //FpxxMul_58_ remplaced by FpxxMul
 
 
-//FpxxMul_59_ remplaced by FpxxMul
-
-
-//FpxxMul_60_ remplaced by FpxxMul
-
-
-//FpxxMul_61_ remplaced by FpxxMul
-
-
-//FpxxMul_62_ remplaced by FpxxMul
-
-
-//FpxxSub_21_ remplaced by FpxxSub
-
-
-//FpxxAdd_60_ remplaced by FpxxAdd
-
-
-//FpxxMul_63_ remplaced by FpxxMul
-
-
-//FpxxMul_64_ remplaced by FpxxMul
-
-
-//FpxxMul_65_ remplaced by FpxxMul
-
-
-//FpxxMul_66_ remplaced by FpxxMul
-
-
-//FpxxAdd_61_ remplaced by FpxxAdd
-
-
-//FpxxSub_22_ remplaced by FpxxSub
-
-
 //DotProduct_2_ remplaced by DotProduct
 
 module FpxxRSqrt_2_ (
@@ -2944,13 +2902,13 @@ endmodule
 //DotProduct_4_ remplaced by DotProduct
 
 
-//FpxxMul_67_ remplaced by FpxxMul
+//FpxxMul_59_ remplaced by FpxxMul
 
 
-//FpxxSub_23_ remplaced by FpxxSub
+//FpxxSub_21_ remplaced by FpxxSub
 
 
-//FpxxSub_24_ remplaced by FpxxSub
+//FpxxSub_22_ remplaced by FpxxSub
 
 module FpxxSqrt (
       input   p0_vld,
@@ -3085,10 +3043,10 @@ module FpxxSqrt (
 endmodule
 
 
-//FpxxSub_25_ remplaced by FpxxSub
+//FpxxSub_23_ remplaced by FpxxSub
 
 
-//FpxxAdd_62_ remplaced by FpxxAdd
+//FpxxAdd_58_ remplaced by FpxxAdd
 
 module Intersection (
       input   io_op_vld,
@@ -3960,13 +3918,13 @@ endmodule
 //DotProduct_9_ remplaced by DotProduct
 
 
-//FpxxMul_68_ remplaced by FpxxMul
+//FpxxMul_60_ remplaced by FpxxMul
 
 
-//FpxxSub_26_ remplaced by FpxxSub
+//FpxxSub_24_ remplaced by FpxxSub
 
 
-//FpxxSub_27_ remplaced by FpxxSub
+//FpxxSub_25_ remplaced by FpxxSub
 
 module FpxxSqrt_1_ (
       input   p0_vld,
@@ -4101,10 +4059,10 @@ module FpxxSqrt_1_ (
 endmodule
 
 
-//FpxxSub_28_ remplaced by FpxxSub
+//FpxxSub_26_ remplaced by FpxxSub
 
 
-//FpxxAdd_63_ remplaced by FpxxAdd
+//FpxxAdd_59_ remplaced by FpxxAdd
 
 
 //Intersection_2_ remplaced by Intersection
@@ -4386,19 +4344,19 @@ endmodule
 //SubVecVec_6_ remplaced by SubVecVec
 
 
-//FpxxMul_69_ remplaced by FpxxMul
+//FpxxMul_61_ remplaced by FpxxMul
 
 
-//FpxxMul_70_ remplaced by FpxxMul
+//FpxxMul_62_ remplaced by FpxxMul
 
 
-//FpxxMul_71_ remplaced by FpxxMul
+//FpxxMul_63_ remplaced by FpxxMul
 
 
-//FpxxAdd_64_ remplaced by FpxxAdd
+//FpxxAdd_60_ remplaced by FpxxAdd
 
 
-//FpxxAdd_65_ remplaced by FpxxAdd
+//FpxxAdd_61_ remplaced by FpxxAdd
 
 module CamSweep (
       input  [11:0] io_pix_x,
@@ -4410,6 +4368,11 @@ module CamSweep (
       input  [7:0] io_pixel_in_pixel_r,
       input  [7:0] io_pixel_in_pixel_g,
       input  [7:0] io_pixel_in_pixel_b,
+      input   io_pixel_in_vtg_valid,
+      input   io_pixel_in_vtg_last,
+      input   io_pixel_in_vtg_de,
+      input   io_pixel_in_vtg_hsync,
+      input   io_pixel_in_vtg_vsync,
       output  io_pixel_out_vsync,
       output  io_pixel_out_req,
       output  io_pixel_out_eol,
@@ -4417,6 +4380,11 @@ module CamSweep (
       output [7:0] io_pixel_out_pixel_r,
       output [7:0] io_pixel_out_pixel_g,
       output [7:0] io_pixel_out_pixel_b,
+      output  io_pixel_out_vtg_valid,
+      output  io_pixel_out_vtg_last,
+      output  io_pixel_out_vtg_de,
+      output  io_pixel_out_vtg_hsync,
+      output  io_pixel_out_vtg_vsync,
       output  io_ray_origin_x_sign,
       output [5:0] io_ray_origin_x_exp,
       output [12:0] io_ray_origin_x_mant,
@@ -4485,6 +4453,11 @@ module CamSweep (
   reg [7:0] io_pixel_in_delay_1_pixel_r;
   reg [7:0] io_pixel_in_delay_1_pixel_g;
   reg [7:0] io_pixel_in_delay_1_pixel_b;
+  reg  io_pixel_in_delay_1_vtg_valid;
+  reg  io_pixel_in_delay_1_vtg_last;
+  reg  io_pixel_in_delay_1_vtg_de;
+  reg  io_pixel_in_delay_1_vtg_hsync;
+  reg  io_pixel_in_delay_1_vtg_vsync;
   reg  io_pixel_in_delay_2_vsync;
   reg  io_pixel_in_delay_2_req;
   reg  io_pixel_in_delay_2_eol;
@@ -4492,6 +4465,11 @@ module CamSweep (
   reg [7:0] io_pixel_in_delay_2_pixel_r;
   reg [7:0] io_pixel_in_delay_2_pixel_g;
   reg [7:0] io_pixel_in_delay_2_pixel_b;
+  reg  io_pixel_in_delay_2_vtg_valid;
+  reg  io_pixel_in_delay_2_vtg_last;
+  reg  io_pixel_in_delay_2_vtg_de;
+  reg  io_pixel_in_delay_2_vtg_hsync;
+  reg  io_pixel_in_delay_2_vtg_vsync;
   reg  io_pixel_in_delay_3_vsync;
   reg  io_pixel_in_delay_3_req;
   reg  io_pixel_in_delay_3_eol;
@@ -4499,6 +4477,11 @@ module CamSweep (
   reg [7:0] io_pixel_in_delay_3_pixel_r;
   reg [7:0] io_pixel_in_delay_3_pixel_g;
   reg [7:0] io_pixel_in_delay_3_pixel_b;
+  reg  io_pixel_in_delay_3_vtg_valid;
+  reg  io_pixel_in_delay_3_vtg_last;
+  reg  io_pixel_in_delay_3_vtg_de;
+  reg  io_pixel_in_delay_3_vtg_hsync;
+  reg  io_pixel_in_delay_3_vtg_vsync;
   reg  io_pixel_in_delay_4_vsync;
   reg  io_pixel_in_delay_4_req;
   reg  io_pixel_in_delay_4_eol;
@@ -4506,6 +4489,11 @@ module CamSweep (
   reg [7:0] io_pixel_in_delay_4_pixel_r;
   reg [7:0] io_pixel_in_delay_4_pixel_g;
   reg [7:0] io_pixel_in_delay_4_pixel_b;
+  reg  io_pixel_in_delay_4_vtg_valid;
+  reg  io_pixel_in_delay_4_vtg_last;
+  reg  io_pixel_in_delay_4_vtg_de;
+  reg  io_pixel_in_delay_4_vtg_hsync;
+  reg  io_pixel_in_delay_4_vtg_vsync;
   reg  pixel_in_delayed_vsync;
   reg  pixel_in_delayed_req;
   reg  pixel_in_delayed_eol;
@@ -4513,6 +4501,11 @@ module CamSweep (
   reg [7:0] pixel_in_delayed_pixel_r;
   reg [7:0] pixel_in_delayed_pixel_g;
   reg [7:0] pixel_in_delayed_pixel_b;
+  reg  pixel_in_delayed_vtg_valid;
+  reg  pixel_in_delayed_vtg_last;
+  reg  pixel_in_delayed_vtg_de;
+  reg  pixel_in_delayed_vtg_hsync;
+  reg  pixel_in_delayed_vtg_vsync;
   SInt2Fpxx u_pix_x_fp ( 
     .p0_vld(pix_vld),
     .op_p0(io_pix_x),
@@ -4612,6 +4605,11 @@ module CamSweep (
   assign io_pixel_out_pixel_r = pixel_in_delayed_pixel_r;
   assign io_pixel_out_pixel_g = pixel_in_delayed_pixel_g;
   assign io_pixel_out_pixel_b = pixel_in_delayed_pixel_b;
+  assign io_pixel_out_vtg_valid = pixel_in_delayed_vtg_valid;
+  assign io_pixel_out_vtg_last = pixel_in_delayed_vtg_last;
+  assign io_pixel_out_vtg_de = pixel_in_delayed_vtg_de;
+  assign io_pixel_out_vtg_hsync = pixel_in_delayed_vtg_hsync;
+  assign io_pixel_out_vtg_vsync = pixel_in_delayed_vtg_vsync;
   always @ (posedge clk or posedge reset) begin
     if (reset) begin
       pix_vld <= 1'b0;
@@ -4628,6 +4626,11 @@ module CamSweep (
     io_pixel_in_delay_1_pixel_r <= io_pixel_in_pixel_r;
     io_pixel_in_delay_1_pixel_g <= io_pixel_in_pixel_g;
     io_pixel_in_delay_1_pixel_b <= io_pixel_in_pixel_b;
+    io_pixel_in_delay_1_vtg_valid <= io_pixel_in_vtg_valid;
+    io_pixel_in_delay_1_vtg_last <= io_pixel_in_vtg_last;
+    io_pixel_in_delay_1_vtg_de <= io_pixel_in_vtg_de;
+    io_pixel_in_delay_1_vtg_hsync <= io_pixel_in_vtg_hsync;
+    io_pixel_in_delay_1_vtg_vsync <= io_pixel_in_vtg_vsync;
     io_pixel_in_delay_2_vsync <= io_pixel_in_delay_1_vsync;
     io_pixel_in_delay_2_req <= io_pixel_in_delay_1_req;
     io_pixel_in_delay_2_eol <= io_pixel_in_delay_1_eol;
@@ -4635,6 +4638,11 @@ module CamSweep (
     io_pixel_in_delay_2_pixel_r <= io_pixel_in_delay_1_pixel_r;
     io_pixel_in_delay_2_pixel_g <= io_pixel_in_delay_1_pixel_g;
     io_pixel_in_delay_2_pixel_b <= io_pixel_in_delay_1_pixel_b;
+    io_pixel_in_delay_2_vtg_valid <= io_pixel_in_delay_1_vtg_valid;
+    io_pixel_in_delay_2_vtg_last <= io_pixel_in_delay_1_vtg_last;
+    io_pixel_in_delay_2_vtg_de <= io_pixel_in_delay_1_vtg_de;
+    io_pixel_in_delay_2_vtg_hsync <= io_pixel_in_delay_1_vtg_hsync;
+    io_pixel_in_delay_2_vtg_vsync <= io_pixel_in_delay_1_vtg_vsync;
     io_pixel_in_delay_3_vsync <= io_pixel_in_delay_2_vsync;
     io_pixel_in_delay_3_req <= io_pixel_in_delay_2_req;
     io_pixel_in_delay_3_eol <= io_pixel_in_delay_2_eol;
@@ -4642,6 +4650,11 @@ module CamSweep (
     io_pixel_in_delay_3_pixel_r <= io_pixel_in_delay_2_pixel_r;
     io_pixel_in_delay_3_pixel_g <= io_pixel_in_delay_2_pixel_g;
     io_pixel_in_delay_3_pixel_b <= io_pixel_in_delay_2_pixel_b;
+    io_pixel_in_delay_3_vtg_valid <= io_pixel_in_delay_2_vtg_valid;
+    io_pixel_in_delay_3_vtg_last <= io_pixel_in_delay_2_vtg_last;
+    io_pixel_in_delay_3_vtg_de <= io_pixel_in_delay_2_vtg_de;
+    io_pixel_in_delay_3_vtg_hsync <= io_pixel_in_delay_2_vtg_hsync;
+    io_pixel_in_delay_3_vtg_vsync <= io_pixel_in_delay_2_vtg_vsync;
     io_pixel_in_delay_4_vsync <= io_pixel_in_delay_3_vsync;
     io_pixel_in_delay_4_req <= io_pixel_in_delay_3_req;
     io_pixel_in_delay_4_eol <= io_pixel_in_delay_3_eol;
@@ -4649,6 +4662,11 @@ module CamSweep (
     io_pixel_in_delay_4_pixel_r <= io_pixel_in_delay_3_pixel_r;
     io_pixel_in_delay_4_pixel_g <= io_pixel_in_delay_3_pixel_g;
     io_pixel_in_delay_4_pixel_b <= io_pixel_in_delay_3_pixel_b;
+    io_pixel_in_delay_4_vtg_valid <= io_pixel_in_delay_3_vtg_valid;
+    io_pixel_in_delay_4_vtg_last <= io_pixel_in_delay_3_vtg_last;
+    io_pixel_in_delay_4_vtg_de <= io_pixel_in_delay_3_vtg_de;
+    io_pixel_in_delay_4_vtg_hsync <= io_pixel_in_delay_3_vtg_hsync;
+    io_pixel_in_delay_4_vtg_vsync <= io_pixel_in_delay_3_vtg_vsync;
     pixel_in_delayed_vsync <= io_pixel_in_delay_4_vsync;
     pixel_in_delayed_req <= io_pixel_in_delay_4_req;
     pixel_in_delayed_eol <= io_pixel_in_delay_4_eol;
@@ -4656,6 +4674,11 @@ module CamSweep (
     pixel_in_delayed_pixel_r <= io_pixel_in_delay_4_pixel_r;
     pixel_in_delayed_pixel_g <= io_pixel_in_delay_4_pixel_g;
     pixel_in_delayed_pixel_b <= io_pixel_in_delay_4_pixel_b;
+    pixel_in_delayed_vtg_valid <= io_pixel_in_delay_4_vtg_valid;
+    pixel_in_delayed_vtg_last <= io_pixel_in_delay_4_vtg_last;
+    pixel_in_delayed_vtg_de <= io_pixel_in_delay_4_vtg_de;
+    pixel_in_delayed_vtg_hsync <= io_pixel_in_delay_4_vtg_hsync;
+    pixel_in_delayed_vtg_vsync <= io_pixel_in_delay_4_vtg_vsync;
   end
 
 endmodule
@@ -5151,449 +5174,13 @@ module SInt2Fpxx_2_ (
 endmodule
 
 
-//FpxxMul_72_ remplaced by FpxxMul
+//FpxxMul_64_ remplaced by FpxxMul
 
 
-//FpxxAdd_66_ remplaced by FpxxAdd
+//FpxxAdd_62_ remplaced by FpxxAdd
 
 
-//FpxxAdd_67_ remplaced by FpxxAdd
-
-module RotateX (
-      input   io_op_vld,
-      input   io_op_x_sign,
-      input  [5:0] io_op_x_exp,
-      input  [12:0] io_op_x_mant,
-      input   io_op_y_sign,
-      input  [5:0] io_op_y_exp,
-      input  [12:0] io_op_y_mant,
-      input   io_op_z_sign,
-      input  [5:0] io_op_z_exp,
-      input  [12:0] io_op_z_mant,
-      input   io_sin_sign,
-      input  [5:0] io_sin_exp,
-      input  [12:0] io_sin_mant,
-      input   io_cos_sign,
-      input  [5:0] io_cos_exp,
-      input  [12:0] io_cos_mant,
-      output  io_result_vld,
-      output  io_result_x_sign,
-      output [5:0] io_result_x_exp,
-      output [12:0] io_result_x_mant,
-      output  io_result_y_sign,
-      output [5:0] io_result_y_exp,
-      output [12:0] io_result_y_mant,
-      output  io_result_z_sign,
-      output [5:0] io_result_z_exp,
-      output [12:0] io_result_z_mant,
-      input   clk,
-      input   reset);
-  wire  u_cy_io_result_vld;
-  wire  u_cy_io_result_sign;
-  wire [5:0] u_cy_io_result_exp;
-  wire [12:0] u_cy_io_result_mant;
-  wire  u_sy_io_result_vld;
-  wire  u_sy_io_result_sign;
-  wire [5:0] u_sy_io_result_exp;
-  wire [12:0] u_sy_io_result_mant;
-  wire  u_cz_io_result_vld;
-  wire  u_cz_io_result_sign;
-  wire [5:0] u_cz_io_result_exp;
-  wire [12:0] u_cz_io_result_mant;
-  wire  u_sz_io_result_vld;
-  wire  u_sz_io_result_sign;
-  wire [5:0] u_sz_io_result_exp;
-  wire [12:0] u_sz_io_result_mant;
-  wire  u_cy_sz_io_result_vld;
-  wire  u_cy_sz_io_result_sign;
-  wire [5:0] u_cy_sz_io_result_exp;
-  wire [12:0] u_cy_sz_io_result_mant;
-  wire  u_sy_cz_io_result_vld;
-  wire  u_sy_cz_io_result_sign;
-  wire [5:0] u_sy_cz_io_result_exp;
-  wire [12:0] u_sy_cz_io_result_mant;
-  wire  cy_vld;
-  wire  cy_sign;
-  wire [5:0] cy_exp;
-  wire [12:0] cy_mant;
-  wire  sy_vld;
-  wire  sy_sign;
-  wire [5:0] sy_exp;
-  wire [12:0] sy_mant;
-  wire  cz_vld;
-  wire  cz_sign;
-  wire [5:0] cz_exp;
-  wire [12:0] cz_mant;
-  wire  sz_vld;
-  wire  sz_sign;
-  wire [5:0] sz_exp;
-  wire [12:0] sz_mant;
-  wire  cy_sz_vld;
-  wire  sy_cz_vld;
-  wire  cy_sz_sign;
-  wire [5:0] cy_sz_exp;
-  wire [12:0] cy_sz_mant;
-  wire  sy_cz_sign;
-  wire [5:0] sy_cz_exp;
-  wire [12:0] sy_cz_mant;
-  reg  io_op_x_delay_1_sign;
-  reg [5:0] io_op_x_delay_1_exp;
-  reg [12:0] io_op_x_delay_1_mant;
-  reg  x_delayed_sign;
-  reg [5:0] x_delayed_exp;
-  reg [12:0] x_delayed_mant;
-  FpxxMul u_cy ( 
-    .p0_vld(io_op_vld),
-    .op_a_p0_sign(io_op_y_sign),
-    .exp_a_p0(io_op_y_exp),
-    .op_a_p0_mant(io_op_y_mant),
-    .op_b_p0_sign(io_cos_sign),
-    .exp_b_p0(io_cos_exp),
-    .op_b_p0_mant(io_cos_mant),
-    .io_result_vld(u_cy_io_result_vld),
-    .io_result_sign(u_cy_io_result_sign),
-    .io_result_exp(u_cy_io_result_exp),
-    .io_result_mant(u_cy_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxMul u_sy ( 
-    .p0_vld(io_op_vld),
-    .op_a_p0_sign(io_op_y_sign),
-    .exp_a_p0(io_op_y_exp),
-    .op_a_p0_mant(io_op_y_mant),
-    .op_b_p0_sign(io_sin_sign),
-    .exp_b_p0(io_sin_exp),
-    .op_b_p0_mant(io_sin_mant),
-    .io_result_vld(u_sy_io_result_vld),
-    .io_result_sign(u_sy_io_result_sign),
-    .io_result_exp(u_sy_io_result_exp),
-    .io_result_mant(u_sy_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxMul u_cz ( 
-    .p0_vld(io_op_vld),
-    .op_a_p0_sign(io_op_z_sign),
-    .exp_a_p0(io_op_z_exp),
-    .op_a_p0_mant(io_op_z_mant),
-    .op_b_p0_sign(io_cos_sign),
-    .exp_b_p0(io_cos_exp),
-    .op_b_p0_mant(io_cos_mant),
-    .io_result_vld(u_cz_io_result_vld),
-    .io_result_sign(u_cz_io_result_sign),
-    .io_result_exp(u_cz_io_result_exp),
-    .io_result_mant(u_cz_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxMul u_sz ( 
-    .p0_vld(io_op_vld),
-    .op_a_p0_sign(io_op_z_sign),
-    .exp_a_p0(io_op_z_exp),
-    .op_a_p0_mant(io_op_z_mant),
-    .op_b_p0_sign(io_sin_sign),
-    .exp_b_p0(io_sin_exp),
-    .op_b_p0_mant(io_sin_mant),
-    .io_result_vld(u_sz_io_result_vld),
-    .io_result_sign(u_sz_io_result_sign),
-    .io_result_exp(u_sz_io_result_exp),
-    .io_result_mant(u_sz_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxSub u_cy_sz ( 
-    .io_op_vld(cy_vld),
-    .io_op_a_sign(cy_sign),
-    .io_op_a_exp(cy_exp),
-    .io_op_a_mant(cy_mant),
-    .io_op_b_sign(sz_sign),
-    .io_op_b_exp(sz_exp),
-    .io_op_b_mant(sz_mant),
-    .io_result_vld(u_cy_sz_io_result_vld),
-    .io_result_sign(u_cy_sz_io_result_sign),
-    .io_result_exp(u_cy_sz_io_result_exp),
-    .io_result_mant(u_cy_sz_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxAdd u_sy_cz ( 
-    .p0_vld(sy_vld),
-    .op_a_p0_sign(sy_sign),
-    .op_a_p0_exp(sy_exp),
-    .op_a_p0_mant(sy_mant),
-    .op_b_p0_sign(cz_sign),
-    .op_b_p0_exp(cz_exp),
-    .op_b_p0_mant(cz_mant),
-    .io_result_vld(u_sy_cz_io_result_vld),
-    .io_result_sign(u_sy_cz_io_result_sign),
-    .io_result_exp(u_sy_cz_io_result_exp),
-    .io_result_mant(u_sy_cz_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  assign cy_vld = u_cy_io_result_vld;
-  assign cy_sign = u_cy_io_result_sign;
-  assign cy_exp = u_cy_io_result_exp;
-  assign cy_mant = u_cy_io_result_mant;
-  assign sy_vld = u_sy_io_result_vld;
-  assign sy_sign = u_sy_io_result_sign;
-  assign sy_exp = u_sy_io_result_exp;
-  assign sy_mant = u_sy_io_result_mant;
-  assign cz_vld = u_cz_io_result_vld;
-  assign cz_sign = u_cz_io_result_sign;
-  assign cz_exp = u_cz_io_result_exp;
-  assign cz_mant = u_cz_io_result_mant;
-  assign sz_vld = u_sz_io_result_vld;
-  assign sz_sign = u_sz_io_result_sign;
-  assign sz_exp = u_sz_io_result_exp;
-  assign sz_mant = u_sz_io_result_mant;
-  assign cy_sz_vld = u_cy_sz_io_result_vld;
-  assign cy_sz_sign = u_cy_sz_io_result_sign;
-  assign cy_sz_exp = u_cy_sz_io_result_exp;
-  assign cy_sz_mant = u_cy_sz_io_result_mant;
-  assign sy_cz_vld = u_sy_cz_io_result_vld;
-  assign sy_cz_sign = u_sy_cz_io_result_sign;
-  assign sy_cz_exp = u_sy_cz_io_result_exp;
-  assign sy_cz_mant = u_sy_cz_io_result_mant;
-  assign io_result_vld = cy_vld;
-  assign io_result_x_sign = x_delayed_sign;
-  assign io_result_x_exp = x_delayed_exp;
-  assign io_result_x_mant = x_delayed_mant;
-  assign io_result_y_sign = cy_sz_sign;
-  assign io_result_y_exp = cy_sz_exp;
-  assign io_result_y_mant = cy_sz_mant;
-  assign io_result_z_sign = sy_cz_sign;
-  assign io_result_z_exp = sy_cz_exp;
-  assign io_result_z_mant = sy_cz_mant;
-  always @ (posedge clk) begin
-    io_op_x_delay_1_sign <= io_op_x_sign;
-    io_op_x_delay_1_exp <= io_op_x_exp;
-    io_op_x_delay_1_mant <= io_op_x_mant;
-    x_delayed_sign <= io_op_x_delay_1_sign;
-    x_delayed_exp <= io_op_x_delay_1_exp;
-    x_delayed_mant <= io_op_x_delay_1_mant;
-  end
-
-endmodule
-
-module RotateY (
-      input   io_op_vld,
-      input   io_op_x_sign,
-      input  [5:0] io_op_x_exp,
-      input  [12:0] io_op_x_mant,
-      input   io_op_y_sign,
-      input  [5:0] io_op_y_exp,
-      input  [12:0] io_op_y_mant,
-      input   io_op_z_sign,
-      input  [5:0] io_op_z_exp,
-      input  [12:0] io_op_z_mant,
-      input   io_sin_sign,
-      input  [5:0] io_sin_exp,
-      input  [12:0] io_sin_mant,
-      input   io_cos_sign,
-      input  [5:0] io_cos_exp,
-      input  [12:0] io_cos_mant,
-      output  io_result_vld,
-      output  io_result_x_sign,
-      output [5:0] io_result_x_exp,
-      output [12:0] io_result_x_mant,
-      output  io_result_y_sign,
-      output [5:0] io_result_y_exp,
-      output [12:0] io_result_y_mant,
-      output  io_result_z_sign,
-      output [5:0] io_result_z_exp,
-      output [12:0] io_result_z_mant,
-      input   clk,
-      input   reset);
-  wire  u_cx_io_result_vld;
-  wire  u_cx_io_result_sign;
-  wire [5:0] u_cx_io_result_exp;
-  wire [12:0] u_cx_io_result_mant;
-  wire  u_sx_io_result_vld;
-  wire  u_sx_io_result_sign;
-  wire [5:0] u_sx_io_result_exp;
-  wire [12:0] u_sx_io_result_mant;
-  wire  u_cz_io_result_vld;
-  wire  u_cz_io_result_sign;
-  wire [5:0] u_cz_io_result_exp;
-  wire [12:0] u_cz_io_result_mant;
-  wire  u_sz_io_result_vld;
-  wire  u_sz_io_result_sign;
-  wire [5:0] u_sz_io_result_exp;
-  wire [12:0] u_sz_io_result_mant;
-  wire  u_cx_sz_io_result_vld;
-  wire  u_cx_sz_io_result_sign;
-  wire [5:0] u_cx_sz_io_result_exp;
-  wire [12:0] u_cx_sz_io_result_mant;
-  wire  u_cz_sx_io_result_vld;
-  wire  u_cz_sx_io_result_sign;
-  wire [5:0] u_cz_sx_io_result_exp;
-  wire [12:0] u_cz_sx_io_result_mant;
-  wire  cx_vld;
-  wire  cx_sign;
-  wire [5:0] cx_exp;
-  wire [12:0] cx_mant;
-  wire  sx_vld;
-  wire  sx_sign;
-  wire [5:0] sx_exp;
-  wire [12:0] sx_mant;
-  wire  cz_vld;
-  wire  cz_sign;
-  wire [5:0] cz_exp;
-  wire [12:0] cz_mant;
-  wire  sz_vld;
-  wire  sz_sign;
-  wire [5:0] sz_exp;
-  wire [12:0] sz_mant;
-  wire  cx_sz_vld;
-  wire  cz_sx_vld;
-  wire  cx_sz_sign;
-  wire [5:0] cx_sz_exp;
-  wire [12:0] cx_sz_mant;
-  wire  cz_sx_sign;
-  wire [5:0] cz_sx_exp;
-  wire [12:0] cz_sx_mant;
-  reg  io_op_y_delay_1_sign;
-  reg [5:0] io_op_y_delay_1_exp;
-  reg [12:0] io_op_y_delay_1_mant;
-  reg  y_delayed_sign;
-  reg [5:0] y_delayed_exp;
-  reg [12:0] y_delayed_mant;
-  FpxxMul u_cx ( 
-    .p0_vld(io_op_vld),
-    .op_a_p0_sign(io_op_x_sign),
-    .exp_a_p0(io_op_x_exp),
-    .op_a_p0_mant(io_op_x_mant),
-    .op_b_p0_sign(io_cos_sign),
-    .exp_b_p0(io_cos_exp),
-    .op_b_p0_mant(io_cos_mant),
-    .io_result_vld(u_cx_io_result_vld),
-    .io_result_sign(u_cx_io_result_sign),
-    .io_result_exp(u_cx_io_result_exp),
-    .io_result_mant(u_cx_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxMul u_sx ( 
-    .p0_vld(io_op_vld),
-    .op_a_p0_sign(io_op_x_sign),
-    .exp_a_p0(io_op_x_exp),
-    .op_a_p0_mant(io_op_x_mant),
-    .op_b_p0_sign(io_sin_sign),
-    .exp_b_p0(io_sin_exp),
-    .op_b_p0_mant(io_sin_mant),
-    .io_result_vld(u_sx_io_result_vld),
-    .io_result_sign(u_sx_io_result_sign),
-    .io_result_exp(u_sx_io_result_exp),
-    .io_result_mant(u_sx_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxMul u_cz ( 
-    .p0_vld(io_op_vld),
-    .op_a_p0_sign(io_op_z_sign),
-    .exp_a_p0(io_op_z_exp),
-    .op_a_p0_mant(io_op_z_mant),
-    .op_b_p0_sign(io_cos_sign),
-    .exp_b_p0(io_cos_exp),
-    .op_b_p0_mant(io_cos_mant),
-    .io_result_vld(u_cz_io_result_vld),
-    .io_result_sign(u_cz_io_result_sign),
-    .io_result_exp(u_cz_io_result_exp),
-    .io_result_mant(u_cz_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxMul u_sz ( 
-    .p0_vld(io_op_vld),
-    .op_a_p0_sign(io_op_z_sign),
-    .exp_a_p0(io_op_z_exp),
-    .op_a_p0_mant(io_op_z_mant),
-    .op_b_p0_sign(io_sin_sign),
-    .exp_b_p0(io_sin_exp),
-    .op_b_p0_mant(io_sin_mant),
-    .io_result_vld(u_sz_io_result_vld),
-    .io_result_sign(u_sz_io_result_sign),
-    .io_result_exp(u_sz_io_result_exp),
-    .io_result_mant(u_sz_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxAdd u_cx_sz ( 
-    .p0_vld(cx_vld),
-    .op_a_p0_sign(cx_sign),
-    .op_a_p0_exp(cx_exp),
-    .op_a_p0_mant(cx_mant),
-    .op_b_p0_sign(sz_sign),
-    .op_b_p0_exp(sz_exp),
-    .op_b_p0_mant(sz_mant),
-    .io_result_vld(u_cx_sz_io_result_vld),
-    .io_result_sign(u_cx_sz_io_result_sign),
-    .io_result_exp(u_cx_sz_io_result_exp),
-    .io_result_mant(u_cx_sz_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  FpxxSub u_cz_sx ( 
-    .io_op_vld(cz_vld),
-    .io_op_a_sign(cz_sign),
-    .io_op_a_exp(cz_exp),
-    .io_op_a_mant(cz_mant),
-    .io_op_b_sign(sx_sign),
-    .io_op_b_exp(sx_exp),
-    .io_op_b_mant(sx_mant),
-    .io_result_vld(u_cz_sx_io_result_vld),
-    .io_result_sign(u_cz_sx_io_result_sign),
-    .io_result_exp(u_cz_sx_io_result_exp),
-    .io_result_mant(u_cz_sx_io_result_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  assign cx_vld = u_cx_io_result_vld;
-  assign cx_sign = u_cx_io_result_sign;
-  assign cx_exp = u_cx_io_result_exp;
-  assign cx_mant = u_cx_io_result_mant;
-  assign sx_vld = u_sx_io_result_vld;
-  assign sx_sign = u_sx_io_result_sign;
-  assign sx_exp = u_sx_io_result_exp;
-  assign sx_mant = u_sx_io_result_mant;
-  assign cz_vld = u_cz_io_result_vld;
-  assign cz_sign = u_cz_io_result_sign;
-  assign cz_exp = u_cz_io_result_exp;
-  assign cz_mant = u_cz_io_result_mant;
-  assign sz_vld = u_sz_io_result_vld;
-  assign sz_sign = u_sz_io_result_sign;
-  assign sz_exp = u_sz_io_result_exp;
-  assign sz_mant = u_sz_io_result_mant;
-  assign cx_sz_vld = u_cx_sz_io_result_vld;
-  assign cx_sz_sign = u_cx_sz_io_result_sign;
-  assign cx_sz_exp = u_cx_sz_io_result_exp;
-  assign cx_sz_mant = u_cx_sz_io_result_mant;
-  assign cz_sx_vld = u_cz_sx_io_result_vld;
-  assign cz_sx_sign = u_cz_sx_io_result_sign;
-  assign cz_sx_exp = u_cz_sx_io_result_exp;
-  assign cz_sx_mant = u_cz_sx_io_result_mant;
-  assign io_result_vld = cx_vld;
-  assign io_result_x_sign = cx_sz_sign;
-  assign io_result_x_exp = cx_sz_exp;
-  assign io_result_x_mant = cx_sz_mant;
-  assign io_result_y_sign = y_delayed_sign;
-  assign io_result_y_exp = y_delayed_exp;
-  assign io_result_y_mant = y_delayed_mant;
-  assign io_result_z_sign = cz_sx_sign;
-  assign io_result_z_exp = cz_sx_exp;
-  assign io_result_z_mant = cz_sx_mant;
-  always @ (posedge clk) begin
-    io_op_y_delay_1_sign <= io_op_y_sign;
-    io_op_y_delay_1_exp <= io_op_y_exp;
-    io_op_y_delay_1_mant <= io_op_y_mant;
-    y_delayed_sign <= io_op_y_delay_1_sign;
-    y_delayed_exp <= io_op_y_delay_1_exp;
-    y_delayed_mant <= io_op_y_delay_1_mant;
-  end
-
-endmodule
+//FpxxAdd_63_ remplaced by FpxxAdd
 
 module Normalize_2_ (
       input   io_op_vld,
@@ -14653,6 +14240,11 @@ module RTCore (
       input  [7:0] io_pixel_in_pixel_r,
       input  [7:0] io_pixel_in_pixel_g,
       input  [7:0] io_pixel_in_pixel_b,
+      input   io_pixel_in_vtg_valid,
+      input   io_pixel_in_vtg_last,
+      input   io_pixel_in_vtg_de,
+      input   io_pixel_in_vtg_hsync,
+      input   io_pixel_in_vtg_vsync,
       output  io_pixel_out_vsync,
       output  io_pixel_out_req,
       output  io_pixel_out_eol,
@@ -14660,6 +14252,11 @@ module RTCore (
       output [7:0] io_pixel_out_pixel_r,
       output [7:0] io_pixel_out_pixel_g,
       output [7:0] io_pixel_out_pixel_b,
+      output  io_pixel_out_vtg_valid,
+      output  io_pixel_out_vtg_last,
+      output  io_pixel_out_vtg_de,
+      output  io_pixel_out_vtg_hsync,
+      output  io_pixel_out_vtg_vsync,
       input   clk,
       input   reset);
   wire  _zz_10_;
@@ -14670,6 +14267,11 @@ module RTCore (
   wire [7:0] rt_u_cam_sweep_io_pixel_out_pixel_r;
   wire [7:0] rt_u_cam_sweep_io_pixel_out_pixel_g;
   wire [7:0] rt_u_cam_sweep_io_pixel_out_pixel_b;
+  wire  rt_u_cam_sweep_io_pixel_out_vtg_valid;
+  wire  rt_u_cam_sweep_io_pixel_out_vtg_last;
+  wire  rt_u_cam_sweep_io_pixel_out_vtg_de;
+  wire  rt_u_cam_sweep_io_pixel_out_vtg_hsync;
+  wire  rt_u_cam_sweep_io_pixel_out_vtg_vsync;
   wire  rt_u_cam_sweep_io_ray_origin_x_sign;
   wire [5:0] rt_u_cam_sweep_io_ray_origin_x_exp;
   wire [12:0] rt_u_cam_sweep_io_ray_origin_x_mant;
@@ -14704,26 +14306,6 @@ module RTCore (
   wire  rt_calc_sphere_pos_u_sphere_x_nxt_io_result_sign;
   wire [5:0] rt_calc_sphere_pos_u_sphere_x_nxt_io_result_exp;
   wire [12:0] rt_calc_sphere_pos_u_sphere_x_nxt_io_result_mant;
-  wire  rt_u_ray_dir_rot_x_io_result_vld;
-  wire  rt_u_ray_dir_rot_x_io_result_x_sign;
-  wire [5:0] rt_u_ray_dir_rot_x_io_result_x_exp;
-  wire [12:0] rt_u_ray_dir_rot_x_io_result_x_mant;
-  wire  rt_u_ray_dir_rot_x_io_result_y_sign;
-  wire [5:0] rt_u_ray_dir_rot_x_io_result_y_exp;
-  wire [12:0] rt_u_ray_dir_rot_x_io_result_y_mant;
-  wire  rt_u_ray_dir_rot_x_io_result_z_sign;
-  wire [5:0] rt_u_ray_dir_rot_x_io_result_z_exp;
-  wire [12:0] rt_u_ray_dir_rot_x_io_result_z_mant;
-  wire  rt_u_ray_dir_rot_y_io_result_vld;
-  wire  rt_u_ray_dir_rot_y_io_result_x_sign;
-  wire [5:0] rt_u_ray_dir_rot_y_io_result_x_exp;
-  wire [12:0] rt_u_ray_dir_rot_y_io_result_x_mant;
-  wire  rt_u_ray_dir_rot_y_io_result_y_sign;
-  wire [5:0] rt_u_ray_dir_rot_y_io_result_y_exp;
-  wire [12:0] rt_u_ray_dir_rot_y_io_result_y_mant;
-  wire  rt_u_ray_dir_rot_y_io_result_z_sign;
-  wire [5:0] rt_u_ray_dir_rot_y_io_result_z_exp;
-  wire [12:0] rt_u_ray_dir_rot_y_io_result_z_mant;
   wire  rt_u_normalize_ray_io_result_vld;
   wire  rt_u_normalize_ray_io_result_x_sign;
   wire [5:0] rt_u_normalize_ray_io_result_x_exp;
@@ -14939,6 +14521,11 @@ module RTCore (
   wire [7:0] rt_cam_sweep_pixel_pixel_r;
   wire [7:0] rt_cam_sweep_pixel_pixel_g;
   wire [7:0] rt_cam_sweep_pixel_pixel_b;
+  wire  rt_cam_sweep_pixel_vtg_valid;
+  wire  rt_cam_sweep_pixel_vtg_last;
+  wire  rt_cam_sweep_pixel_vtg_de;
+  wire  rt_cam_sweep_pixel_vtg_hsync;
+  wire  rt_cam_sweep_pixel_vtg_vsync;
   reg  rt_ray_origin_x_sign;
   reg [5:0] rt_ray_origin_x_exp;
   reg [12:0] rt_ray_origin_x_mant;
@@ -15042,38 +14629,6 @@ module RTCore (
   reg  rt_sphere_center_y_regNext_sign;
   reg [5:0] rt_sphere_center_y_regNext_exp;
   reg [12:0] rt_sphere_center_y_regNext_mant;
-  wire  rt_rot_x_sin_sign;
-  wire [5:0] rt_rot_x_sin_exp;
-  wire [12:0] rt_rot_x_sin_mant;
-  wire  rt_rot_x_cos_sign;
-  wire [5:0] rt_rot_x_cos_exp;
-  wire [12:0] rt_rot_x_cos_mant;
-  wire  rt_ray_dir_rot_x_vld;
-  wire  rt_ray_dir_rot_x_x_sign;
-  wire [5:0] rt_ray_dir_rot_x_x_exp;
-  wire [12:0] rt_ray_dir_rot_x_x_mant;
-  wire  rt_ray_dir_rot_x_y_sign;
-  wire [5:0] rt_ray_dir_rot_x_y_exp;
-  wire [12:0] rt_ray_dir_rot_x_y_mant;
-  wire  rt_ray_dir_rot_x_z_sign;
-  wire [5:0] rt_ray_dir_rot_x_z_exp;
-  wire [12:0] rt_ray_dir_rot_x_z_mant;
-  wire  rt_rot_y_sin_sign;
-  wire [5:0] rt_rot_y_sin_exp;
-  wire [12:0] rt_rot_y_sin_mant;
-  wire  rt_rot_y_cos_sign;
-  wire [5:0] rt_rot_y_cos_exp;
-  wire [12:0] rt_rot_y_cos_mant;
-  wire  rt_ray_dir_rot_y_vld;
-  wire  rt_ray_dir_rot_y_x_sign;
-  wire [5:0] rt_ray_dir_rot_y_x_exp;
-  wire [12:0] rt_ray_dir_rot_y_x_mant;
-  wire  rt_ray_dir_rot_y_y_sign;
-  wire [5:0] rt_ray_dir_rot_y_y_exp;
-  wire [12:0] rt_ray_dir_rot_y_y_mant;
-  wire  rt_ray_dir_rot_y_z_sign;
-  wire [5:0] rt_ray_dir_rot_y_z_exp;
-  wire [12:0] rt_ray_dir_rot_y_z_mant;
   wire  rt_ray_normalized_vld;
   wire  rt_ray_normalized_origin_x_sign;
   wire [5:0] rt_ray_normalized_origin_x_exp;
@@ -15297,6 +14852,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_1_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_1_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_1_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_1_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_1_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_1_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_1_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_1_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_2_vsync;
   reg  rt_cam_sweep_pixel_delay_2_req;
   reg  rt_cam_sweep_pixel_delay_2_eol;
@@ -15304,6 +14864,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_2_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_2_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_2_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_2_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_2_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_2_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_2_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_2_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_3_vsync;
   reg  rt_cam_sweep_pixel_delay_3_req;
   reg  rt_cam_sweep_pixel_delay_3_eol;
@@ -15311,6 +14876,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_3_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_3_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_3_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_3_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_3_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_3_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_3_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_3_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_4_vsync;
   reg  rt_cam_sweep_pixel_delay_4_req;
   reg  rt_cam_sweep_pixel_delay_4_eol;
@@ -15318,6 +14888,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_4_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_4_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_4_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_4_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_4_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_4_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_4_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_4_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_5_vsync;
   reg  rt_cam_sweep_pixel_delay_5_req;
   reg  rt_cam_sweep_pixel_delay_5_eol;
@@ -15325,6 +14900,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_5_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_5_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_5_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_5_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_5_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_5_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_5_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_5_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_6_vsync;
   reg  rt_cam_sweep_pixel_delay_6_req;
   reg  rt_cam_sweep_pixel_delay_6_eol;
@@ -15332,6 +14912,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_6_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_6_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_6_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_6_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_6_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_6_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_6_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_6_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_7_vsync;
   reg  rt_cam_sweep_pixel_delay_7_req;
   reg  rt_cam_sweep_pixel_delay_7_eol;
@@ -15339,6 +14924,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_7_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_7_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_7_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_7_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_7_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_7_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_7_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_7_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_8_vsync;
   reg  rt_cam_sweep_pixel_delay_8_req;
   reg  rt_cam_sweep_pixel_delay_8_eol;
@@ -15346,6 +14936,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_8_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_8_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_8_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_8_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_8_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_8_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_8_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_8_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_9_vsync;
   reg  rt_cam_sweep_pixel_delay_9_req;
   reg  rt_cam_sweep_pixel_delay_9_eol;
@@ -15353,6 +14948,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_9_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_9_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_9_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_9_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_9_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_9_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_9_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_9_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_10_vsync;
   reg  rt_cam_sweep_pixel_delay_10_req;
   reg  rt_cam_sweep_pixel_delay_10_eol;
@@ -15360,6 +14960,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_10_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_10_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_10_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_10_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_10_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_10_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_10_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_10_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_11_vsync;
   reg  rt_cam_sweep_pixel_delay_11_req;
   reg  rt_cam_sweep_pixel_delay_11_eol;
@@ -15367,6 +14972,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_11_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_11_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_11_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_11_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_11_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_11_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_11_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_11_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_12_vsync;
   reg  rt_cam_sweep_pixel_delay_12_req;
   reg  rt_cam_sweep_pixel_delay_12_eol;
@@ -15374,6 +14984,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_12_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_12_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_12_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_12_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_12_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_12_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_12_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_12_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_13_vsync;
   reg  rt_cam_sweep_pixel_delay_13_req;
   reg  rt_cam_sweep_pixel_delay_13_eol;
@@ -15381,6 +14996,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_13_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_13_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_13_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_13_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_13_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_13_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_13_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_13_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_14_vsync;
   reg  rt_cam_sweep_pixel_delay_14_req;
   reg  rt_cam_sweep_pixel_delay_14_eol;
@@ -15388,6 +15008,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_14_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_14_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_14_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_14_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_14_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_14_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_14_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_14_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_15_vsync;
   reg  rt_cam_sweep_pixel_delay_15_req;
   reg  rt_cam_sweep_pixel_delay_15_eol;
@@ -15395,6 +15020,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_15_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_15_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_15_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_15_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_15_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_15_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_15_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_15_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_16_vsync;
   reg  rt_cam_sweep_pixel_delay_16_req;
   reg  rt_cam_sweep_pixel_delay_16_eol;
@@ -15402,6 +15032,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_16_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_16_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_16_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_16_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_16_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_16_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_16_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_16_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_17_vsync;
   reg  rt_cam_sweep_pixel_delay_17_req;
   reg  rt_cam_sweep_pixel_delay_17_eol;
@@ -15409,6 +15044,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_17_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_17_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_17_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_17_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_17_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_17_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_17_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_17_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_18_vsync;
   reg  rt_cam_sweep_pixel_delay_18_req;
   reg  rt_cam_sweep_pixel_delay_18_eol;
@@ -15416,6 +15056,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_18_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_18_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_18_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_18_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_18_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_18_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_18_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_18_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_19_vsync;
   reg  rt_cam_sweep_pixel_delay_19_req;
   reg  rt_cam_sweep_pixel_delay_19_eol;
@@ -15423,6 +15068,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_19_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_19_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_19_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_19_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_19_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_19_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_19_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_19_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_20_vsync;
   reg  rt_cam_sweep_pixel_delay_20_req;
   reg  rt_cam_sweep_pixel_delay_20_eol;
@@ -15430,6 +15080,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_20_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_20_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_20_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_20_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_20_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_20_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_20_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_20_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_21_vsync;
   reg  rt_cam_sweep_pixel_delay_21_req;
   reg  rt_cam_sweep_pixel_delay_21_eol;
@@ -15437,6 +15092,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_21_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_21_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_21_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_21_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_21_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_21_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_21_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_21_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_22_vsync;
   reg  rt_cam_sweep_pixel_delay_22_req;
   reg  rt_cam_sweep_pixel_delay_22_eol;
@@ -15444,6 +15104,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_22_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_22_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_22_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_22_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_22_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_22_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_22_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_22_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_23_vsync;
   reg  rt_cam_sweep_pixel_delay_23_req;
   reg  rt_cam_sweep_pixel_delay_23_eol;
@@ -15451,6 +15116,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_23_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_23_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_23_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_23_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_23_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_23_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_23_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_23_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_24_vsync;
   reg  rt_cam_sweep_pixel_delay_24_req;
   reg  rt_cam_sweep_pixel_delay_24_eol;
@@ -15458,6 +15128,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_24_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_24_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_24_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_24_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_24_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_24_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_24_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_24_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_25_vsync;
   reg  rt_cam_sweep_pixel_delay_25_req;
   reg  rt_cam_sweep_pixel_delay_25_eol;
@@ -15465,6 +15140,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_25_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_25_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_25_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_25_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_25_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_25_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_25_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_25_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_26_vsync;
   reg  rt_cam_sweep_pixel_delay_26_req;
   reg  rt_cam_sweep_pixel_delay_26_eol;
@@ -15472,6 +15152,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_26_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_26_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_26_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_26_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_26_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_26_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_26_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_26_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_27_vsync;
   reg  rt_cam_sweep_pixel_delay_27_req;
   reg  rt_cam_sweep_pixel_delay_27_eol;
@@ -15479,6 +15164,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_27_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_27_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_27_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_27_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_27_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_27_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_27_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_27_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_28_vsync;
   reg  rt_cam_sweep_pixel_delay_28_req;
   reg  rt_cam_sweep_pixel_delay_28_eol;
@@ -15486,6 +15176,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_28_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_28_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_28_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_28_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_28_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_28_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_28_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_28_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_29_vsync;
   reg  rt_cam_sweep_pixel_delay_29_req;
   reg  rt_cam_sweep_pixel_delay_29_eol;
@@ -15493,6 +15188,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_29_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_29_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_29_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_29_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_29_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_29_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_29_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_29_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_30_vsync;
   reg  rt_cam_sweep_pixel_delay_30_req;
   reg  rt_cam_sweep_pixel_delay_30_eol;
@@ -15500,6 +15200,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_30_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_30_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_30_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_30_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_30_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_30_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_30_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_30_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_31_vsync;
   reg  rt_cam_sweep_pixel_delay_31_req;
   reg  rt_cam_sweep_pixel_delay_31_eol;
@@ -15507,6 +15212,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_31_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_31_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_31_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_31_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_31_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_31_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_31_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_31_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_32_vsync;
   reg  rt_cam_sweep_pixel_delay_32_req;
   reg  rt_cam_sweep_pixel_delay_32_eol;
@@ -15514,6 +15224,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_32_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_32_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_32_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_32_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_32_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_32_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_32_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_32_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_33_vsync;
   reg  rt_cam_sweep_pixel_delay_33_req;
   reg  rt_cam_sweep_pixel_delay_33_eol;
@@ -15521,6 +15236,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_33_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_33_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_33_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_33_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_33_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_33_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_33_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_33_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_34_vsync;
   reg  rt_cam_sweep_pixel_delay_34_req;
   reg  rt_cam_sweep_pixel_delay_34_eol;
@@ -15528,6 +15248,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_34_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_34_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_34_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_34_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_34_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_34_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_34_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_34_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_35_vsync;
   reg  rt_cam_sweep_pixel_delay_35_req;
   reg  rt_cam_sweep_pixel_delay_35_eol;
@@ -15535,6 +15260,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_35_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_35_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_35_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_35_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_35_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_35_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_35_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_35_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_36_vsync;
   reg  rt_cam_sweep_pixel_delay_36_req;
   reg  rt_cam_sweep_pixel_delay_36_eol;
@@ -15542,6 +15272,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_36_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_36_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_36_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_36_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_36_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_36_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_36_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_36_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_37_vsync;
   reg  rt_cam_sweep_pixel_delay_37_req;
   reg  rt_cam_sweep_pixel_delay_37_eol;
@@ -15549,6 +15284,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_37_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_37_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_37_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_37_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_37_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_37_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_37_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_37_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_38_vsync;
   reg  rt_cam_sweep_pixel_delay_38_req;
   reg  rt_cam_sweep_pixel_delay_38_eol;
@@ -15556,6 +15296,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_38_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_38_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_38_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_38_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_38_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_38_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_38_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_38_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_39_vsync;
   reg  rt_cam_sweep_pixel_delay_39_req;
   reg  rt_cam_sweep_pixel_delay_39_eol;
@@ -15563,6 +15308,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_39_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_39_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_39_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_39_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_39_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_39_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_39_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_39_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_40_vsync;
   reg  rt_cam_sweep_pixel_delay_40_req;
   reg  rt_cam_sweep_pixel_delay_40_eol;
@@ -15570,6 +15320,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_40_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_40_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_40_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_40_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_40_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_40_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_40_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_40_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_41_vsync;
   reg  rt_cam_sweep_pixel_delay_41_req;
   reg  rt_cam_sweep_pixel_delay_41_eol;
@@ -15577,6 +15332,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_41_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_41_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_41_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_41_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_41_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_41_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_41_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_41_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_42_vsync;
   reg  rt_cam_sweep_pixel_delay_42_req;
   reg  rt_cam_sweep_pixel_delay_42_eol;
@@ -15584,6 +15344,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_42_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_42_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_42_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_42_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_42_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_42_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_42_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_42_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_43_vsync;
   reg  rt_cam_sweep_pixel_delay_43_req;
   reg  rt_cam_sweep_pixel_delay_43_eol;
@@ -15591,6 +15356,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_43_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_43_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_43_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_43_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_43_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_43_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_43_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_43_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_44_vsync;
   reg  rt_cam_sweep_pixel_delay_44_req;
   reg  rt_cam_sweep_pixel_delay_44_eol;
@@ -15598,6 +15368,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_44_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_44_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_44_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_44_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_44_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_44_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_44_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_44_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_45_vsync;
   reg  rt_cam_sweep_pixel_delay_45_req;
   reg  rt_cam_sweep_pixel_delay_45_eol;
@@ -15605,6 +15380,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_45_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_45_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_45_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_45_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_45_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_45_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_45_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_45_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_46_vsync;
   reg  rt_cam_sweep_pixel_delay_46_req;
   reg  rt_cam_sweep_pixel_delay_46_eol;
@@ -15612,6 +15392,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_46_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_46_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_46_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_46_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_46_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_46_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_46_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_46_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_47_vsync;
   reg  rt_cam_sweep_pixel_delay_47_req;
   reg  rt_cam_sweep_pixel_delay_47_eol;
@@ -15619,6 +15404,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_47_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_47_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_47_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_47_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_47_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_47_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_47_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_47_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_48_vsync;
   reg  rt_cam_sweep_pixel_delay_48_req;
   reg  rt_cam_sweep_pixel_delay_48_eol;
@@ -15626,6 +15416,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_48_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_48_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_48_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_48_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_48_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_48_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_48_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_48_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_49_vsync;
   reg  rt_cam_sweep_pixel_delay_49_req;
   reg  rt_cam_sweep_pixel_delay_49_eol;
@@ -15633,6 +15428,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_49_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_49_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_49_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_49_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_49_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_49_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_49_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_49_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_50_vsync;
   reg  rt_cam_sweep_pixel_delay_50_req;
   reg  rt_cam_sweep_pixel_delay_50_eol;
@@ -15640,6 +15440,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_50_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_50_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_50_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_50_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_50_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_50_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_50_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_50_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_51_vsync;
   reg  rt_cam_sweep_pixel_delay_51_req;
   reg  rt_cam_sweep_pixel_delay_51_eol;
@@ -15647,6 +15452,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_51_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_51_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_51_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_51_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_51_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_51_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_51_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_51_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_52_vsync;
   reg  rt_cam_sweep_pixel_delay_52_req;
   reg  rt_cam_sweep_pixel_delay_52_eol;
@@ -15654,6 +15464,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_52_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_52_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_52_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_52_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_52_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_52_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_52_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_52_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_53_vsync;
   reg  rt_cam_sweep_pixel_delay_53_req;
   reg  rt_cam_sweep_pixel_delay_53_eol;
@@ -15661,6 +15476,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_53_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_53_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_53_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_53_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_53_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_53_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_53_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_53_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_54_vsync;
   reg  rt_cam_sweep_pixel_delay_54_req;
   reg  rt_cam_sweep_pixel_delay_54_eol;
@@ -15668,6 +15488,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_54_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_54_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_54_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_54_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_54_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_54_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_54_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_54_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_55_vsync;
   reg  rt_cam_sweep_pixel_delay_55_req;
   reg  rt_cam_sweep_pixel_delay_55_eol;
@@ -15675,6 +15500,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_55_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_55_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_55_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_55_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_55_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_55_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_55_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_55_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_56_vsync;
   reg  rt_cam_sweep_pixel_delay_56_req;
   reg  rt_cam_sweep_pixel_delay_56_eol;
@@ -15682,6 +15512,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_56_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_56_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_56_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_56_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_56_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_56_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_56_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_56_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_57_vsync;
   reg  rt_cam_sweep_pixel_delay_57_req;
   reg  rt_cam_sweep_pixel_delay_57_eol;
@@ -15689,6 +15524,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_57_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_57_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_57_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_57_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_57_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_57_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_57_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_57_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_58_vsync;
   reg  rt_cam_sweep_pixel_delay_58_req;
   reg  rt_cam_sweep_pixel_delay_58_eol;
@@ -15696,6 +15536,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_58_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_58_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_58_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_58_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_58_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_58_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_58_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_58_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_59_vsync;
   reg  rt_cam_sweep_pixel_delay_59_req;
   reg  rt_cam_sweep_pixel_delay_59_eol;
@@ -15703,6 +15548,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_59_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_59_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_59_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_59_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_59_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_59_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_59_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_59_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_60_vsync;
   reg  rt_cam_sweep_pixel_delay_60_req;
   reg  rt_cam_sweep_pixel_delay_60_eol;
@@ -15710,6 +15560,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_60_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_60_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_60_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_60_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_60_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_60_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_60_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_60_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_61_vsync;
   reg  rt_cam_sweep_pixel_delay_61_req;
   reg  rt_cam_sweep_pixel_delay_61_eol;
@@ -15717,6 +15572,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_61_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_61_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_61_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_61_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_61_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_61_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_61_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_61_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_62_vsync;
   reg  rt_cam_sweep_pixel_delay_62_req;
   reg  rt_cam_sweep_pixel_delay_62_eol;
@@ -15724,6 +15584,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_62_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_62_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_62_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_62_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_62_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_62_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_62_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_62_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_63_vsync;
   reg  rt_cam_sweep_pixel_delay_63_req;
   reg  rt_cam_sweep_pixel_delay_63_eol;
@@ -15731,6 +15596,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_63_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_63_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_63_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_63_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_63_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_63_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_63_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_63_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_64_vsync;
   reg  rt_cam_sweep_pixel_delay_64_req;
   reg  rt_cam_sweep_pixel_delay_64_eol;
@@ -15738,6 +15608,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_64_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_64_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_64_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_64_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_64_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_64_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_64_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_64_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_65_vsync;
   reg  rt_cam_sweep_pixel_delay_65_req;
   reg  rt_cam_sweep_pixel_delay_65_eol;
@@ -15745,6 +15620,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_65_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_65_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_65_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_65_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_65_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_65_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_65_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_65_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_66_vsync;
   reg  rt_cam_sweep_pixel_delay_66_req;
   reg  rt_cam_sweep_pixel_delay_66_eol;
@@ -15752,6 +15632,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_66_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_66_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_66_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_66_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_66_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_66_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_66_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_66_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_67_vsync;
   reg  rt_cam_sweep_pixel_delay_67_req;
   reg  rt_cam_sweep_pixel_delay_67_eol;
@@ -15759,6 +15644,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_67_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_67_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_67_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_67_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_67_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_67_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_67_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_67_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_68_vsync;
   reg  rt_cam_sweep_pixel_delay_68_req;
   reg  rt_cam_sweep_pixel_delay_68_eol;
@@ -15766,6 +15656,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_68_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_68_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_68_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_68_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_68_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_68_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_68_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_68_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_69_vsync;
   reg  rt_cam_sweep_pixel_delay_69_req;
   reg  rt_cam_sweep_pixel_delay_69_eol;
@@ -15773,6 +15668,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_69_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_69_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_69_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_69_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_69_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_69_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_69_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_69_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_70_vsync;
   reg  rt_cam_sweep_pixel_delay_70_req;
   reg  rt_cam_sweep_pixel_delay_70_eol;
@@ -15780,6 +15680,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_70_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_70_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_70_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_70_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_70_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_70_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_70_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_70_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_71_vsync;
   reg  rt_cam_sweep_pixel_delay_71_req;
   reg  rt_cam_sweep_pixel_delay_71_eol;
@@ -15787,6 +15692,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_71_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_71_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_71_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_71_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_71_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_71_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_71_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_71_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_72_vsync;
   reg  rt_cam_sweep_pixel_delay_72_req;
   reg  rt_cam_sweep_pixel_delay_72_eol;
@@ -15794,6 +15704,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_72_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_72_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_72_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_72_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_72_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_72_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_72_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_72_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_73_vsync;
   reg  rt_cam_sweep_pixel_delay_73_req;
   reg  rt_cam_sweep_pixel_delay_73_eol;
@@ -15801,6 +15716,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_73_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_73_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_73_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_73_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_73_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_73_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_73_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_73_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_74_vsync;
   reg  rt_cam_sweep_pixel_delay_74_req;
   reg  rt_cam_sweep_pixel_delay_74_eol;
@@ -15808,6 +15728,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_74_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_74_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_74_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_74_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_74_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_74_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_74_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_74_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_75_vsync;
   reg  rt_cam_sweep_pixel_delay_75_req;
   reg  rt_cam_sweep_pixel_delay_75_eol;
@@ -15815,6 +15740,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_75_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_75_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_75_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_75_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_75_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_75_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_75_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_75_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_76_vsync;
   reg  rt_cam_sweep_pixel_delay_76_req;
   reg  rt_cam_sweep_pixel_delay_76_eol;
@@ -15822,6 +15752,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_76_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_76_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_76_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_76_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_76_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_76_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_76_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_76_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_77_vsync;
   reg  rt_cam_sweep_pixel_delay_77_req;
   reg  rt_cam_sweep_pixel_delay_77_eol;
@@ -15829,6 +15764,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_77_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_77_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_77_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_77_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_77_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_77_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_77_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_77_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_78_vsync;
   reg  rt_cam_sweep_pixel_delay_78_req;
   reg  rt_cam_sweep_pixel_delay_78_eol;
@@ -15836,6 +15776,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_78_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_78_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_78_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_78_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_78_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_78_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_78_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_78_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_79_vsync;
   reg  rt_cam_sweep_pixel_delay_79_req;
   reg  rt_cam_sweep_pixel_delay_79_eol;
@@ -15843,6 +15788,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_79_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_79_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_79_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_79_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_79_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_79_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_79_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_79_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_80_vsync;
   reg  rt_cam_sweep_pixel_delay_80_req;
   reg  rt_cam_sweep_pixel_delay_80_eol;
@@ -15850,6 +15800,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_80_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_80_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_80_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_80_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_80_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_80_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_80_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_80_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_81_vsync;
   reg  rt_cam_sweep_pixel_delay_81_req;
   reg  rt_cam_sweep_pixel_delay_81_eol;
@@ -15857,6 +15812,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_81_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_81_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_81_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_81_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_81_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_81_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_81_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_81_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_82_vsync;
   reg  rt_cam_sweep_pixel_delay_82_req;
   reg  rt_cam_sweep_pixel_delay_82_eol;
@@ -15864,6 +15824,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_82_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_82_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_82_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_82_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_82_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_82_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_82_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_82_vtg_vsync;
   reg  rt_cam_sweep_pixel_delay_83_vsync;
   reg  rt_cam_sweep_pixel_delay_83_req;
   reg  rt_cam_sweep_pixel_delay_83_eol;
@@ -15871,34 +15836,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delay_83_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delay_83_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delay_83_pixel_b;
-  reg  rt_cam_sweep_pixel_delay_84_vsync;
-  reg  rt_cam_sweep_pixel_delay_84_req;
-  reg  rt_cam_sweep_pixel_delay_84_eol;
-  reg  rt_cam_sweep_pixel_delay_84_eof;
-  reg [7:0] rt_cam_sweep_pixel_delay_84_pixel_r;
-  reg [7:0] rt_cam_sweep_pixel_delay_84_pixel_g;
-  reg [7:0] rt_cam_sweep_pixel_delay_84_pixel_b;
-  reg  rt_cam_sweep_pixel_delay_85_vsync;
-  reg  rt_cam_sweep_pixel_delay_85_req;
-  reg  rt_cam_sweep_pixel_delay_85_eol;
-  reg  rt_cam_sweep_pixel_delay_85_eof;
-  reg [7:0] rt_cam_sweep_pixel_delay_85_pixel_r;
-  reg [7:0] rt_cam_sweep_pixel_delay_85_pixel_g;
-  reg [7:0] rt_cam_sweep_pixel_delay_85_pixel_b;
-  reg  rt_cam_sweep_pixel_delay_86_vsync;
-  reg  rt_cam_sweep_pixel_delay_86_req;
-  reg  rt_cam_sweep_pixel_delay_86_eol;
-  reg  rt_cam_sweep_pixel_delay_86_eof;
-  reg [7:0] rt_cam_sweep_pixel_delay_86_pixel_r;
-  reg [7:0] rt_cam_sweep_pixel_delay_86_pixel_g;
-  reg [7:0] rt_cam_sweep_pixel_delay_86_pixel_b;
-  reg  rt_cam_sweep_pixel_delay_87_vsync;
-  reg  rt_cam_sweep_pixel_delay_87_req;
-  reg  rt_cam_sweep_pixel_delay_87_eol;
-  reg  rt_cam_sweep_pixel_delay_87_eof;
-  reg [7:0] rt_cam_sweep_pixel_delay_87_pixel_r;
-  reg [7:0] rt_cam_sweep_pixel_delay_87_pixel_g;
-  reg [7:0] rt_cam_sweep_pixel_delay_87_pixel_b;
+  reg  rt_cam_sweep_pixel_delay_83_vtg_valid;
+  reg  rt_cam_sweep_pixel_delay_83_vtg_last;
+  reg  rt_cam_sweep_pixel_delay_83_vtg_de;
+  reg  rt_cam_sweep_pixel_delay_83_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delay_83_vtg_vsync;
   reg  rt_cam_sweep_pixel_delayed_vsync;
   reg  rt_cam_sweep_pixel_delayed_req;
   reg  rt_cam_sweep_pixel_delayed_eol;
@@ -15906,6 +15848,11 @@ module RTCore (
   reg [7:0] rt_cam_sweep_pixel_delayed_pixel_r;
   reg [7:0] rt_cam_sweep_pixel_delayed_pixel_g;
   reg [7:0] rt_cam_sweep_pixel_delayed_pixel_b;
+  reg  rt_cam_sweep_pixel_delayed_vtg_valid;
+  reg  rt_cam_sweep_pixel_delayed_vtg_last;
+  reg  rt_cam_sweep_pixel_delayed_vtg_de;
+  reg  rt_cam_sweep_pixel_delayed_vtg_hsync;
+  reg  rt_cam_sweep_pixel_delayed_vtg_vsync;
   wire [7:0] rt_sky_r;
   wire [7:0] rt_sky_g;
   wire [7:0] rt_sky_b;
@@ -15946,6 +15893,11 @@ module RTCore (
   reg [7:0] rt_rt_pixel_pixel_r;
   reg [7:0] rt_rt_pixel_pixel_g;
   reg [7:0] rt_rt_pixel_pixel_b;
+  wire  rt_rt_pixel_vtg_valid;
+  wire  rt_rt_pixel_vtg_last;
+  wire  rt_rt_pixel_vtg_de;
+  wire  rt_rt_pixel_vtg_hsync;
+  wire  rt_rt_pixel_vtg_vsync;
   reg [7:0] _zz_1_;
   reg [7:0] _zz_2_;
   reg [7:0] _zz_3_;
@@ -15994,6 +15946,11 @@ module RTCore (
     .io_pixel_in_pixel_r(io_pixel_in_pixel_r),
     .io_pixel_in_pixel_g(io_pixel_in_pixel_g),
     .io_pixel_in_pixel_b(io_pixel_in_pixel_b),
+    .io_pixel_in_vtg_valid(io_pixel_in_vtg_valid),
+    .io_pixel_in_vtg_last(io_pixel_in_vtg_last),
+    .io_pixel_in_vtg_de(io_pixel_in_vtg_de),
+    .io_pixel_in_vtg_hsync(io_pixel_in_vtg_hsync),
+    .io_pixel_in_vtg_vsync(io_pixel_in_vtg_vsync),
     .io_pixel_out_vsync(rt_u_cam_sweep_io_pixel_out_vsync),
     .io_pixel_out_req(rt_u_cam_sweep_io_pixel_out_req),
     .io_pixel_out_eol(rt_u_cam_sweep_io_pixel_out_eol),
@@ -16001,6 +15958,11 @@ module RTCore (
     .io_pixel_out_pixel_r(rt_u_cam_sweep_io_pixel_out_pixel_r),
     .io_pixel_out_pixel_g(rt_u_cam_sweep_io_pixel_out_pixel_g),
     .io_pixel_out_pixel_b(rt_u_cam_sweep_io_pixel_out_pixel_b),
+    .io_pixel_out_vtg_valid(rt_u_cam_sweep_io_pixel_out_vtg_valid),
+    .io_pixel_out_vtg_last(rt_u_cam_sweep_io_pixel_out_vtg_last),
+    .io_pixel_out_vtg_de(rt_u_cam_sweep_io_pixel_out_vtg_de),
+    .io_pixel_out_vtg_hsync(rt_u_cam_sweep_io_pixel_out_vtg_hsync),
+    .io_pixel_out_vtg_vsync(rt_u_cam_sweep_io_pixel_out_vtg_vsync),
     .io_ray_origin_x_sign(rt_u_cam_sweep_io_ray_origin_x_sign),
     .io_ray_origin_x_exp(rt_u_cam_sweep_io_ray_origin_x_exp),
     .io_ray_origin_x_mant(rt_u_cam_sweep_io_ray_origin_x_mant),
@@ -16077,7 +16039,7 @@ module RTCore (
     .clk(clk),
     .reset(reset) 
   );
-  RotateX rt_u_ray_dir_rot_x ( 
+  Normalize_2_ rt_u_normalize_ray ( 
     .io_op_vld(rt_cam_sweep_pixel_req),
     .io_op_x_sign(rt_ray_direction_x_sign),
     .io_op_x_exp(rt_ray_direction_x_exp),
@@ -16088,66 +16050,6 @@ module RTCore (
     .io_op_z_sign(rt_ray_direction_z_sign),
     .io_op_z_exp(rt_ray_direction_z_exp),
     .io_op_z_mant(rt_ray_direction_z_mant),
-    .io_sin_sign(rt_rot_x_sin_sign),
-    .io_sin_exp(rt_rot_x_sin_exp),
-    .io_sin_mant(rt_rot_x_sin_mant),
-    .io_cos_sign(rt_rot_x_cos_sign),
-    .io_cos_exp(rt_rot_x_cos_exp),
-    .io_cos_mant(rt_rot_x_cos_mant),
-    .io_result_vld(rt_u_ray_dir_rot_x_io_result_vld),
-    .io_result_x_sign(rt_u_ray_dir_rot_x_io_result_x_sign),
-    .io_result_x_exp(rt_u_ray_dir_rot_x_io_result_x_exp),
-    .io_result_x_mant(rt_u_ray_dir_rot_x_io_result_x_mant),
-    .io_result_y_sign(rt_u_ray_dir_rot_x_io_result_y_sign),
-    .io_result_y_exp(rt_u_ray_dir_rot_x_io_result_y_exp),
-    .io_result_y_mant(rt_u_ray_dir_rot_x_io_result_y_mant),
-    .io_result_z_sign(rt_u_ray_dir_rot_x_io_result_z_sign),
-    .io_result_z_exp(rt_u_ray_dir_rot_x_io_result_z_exp),
-    .io_result_z_mant(rt_u_ray_dir_rot_x_io_result_z_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  RotateY rt_u_ray_dir_rot_y ( 
-    .io_op_vld(rt_ray_dir_rot_x_vld),
-    .io_op_x_sign(rt_ray_dir_rot_x_x_sign),
-    .io_op_x_exp(rt_ray_dir_rot_x_x_exp),
-    .io_op_x_mant(rt_ray_dir_rot_x_x_mant),
-    .io_op_y_sign(rt_ray_dir_rot_x_y_sign),
-    .io_op_y_exp(rt_ray_dir_rot_x_y_exp),
-    .io_op_y_mant(rt_ray_dir_rot_x_y_mant),
-    .io_op_z_sign(rt_ray_dir_rot_x_z_sign),
-    .io_op_z_exp(rt_ray_dir_rot_x_z_exp),
-    .io_op_z_mant(rt_ray_dir_rot_x_z_mant),
-    .io_sin_sign(rt_rot_y_sin_sign),
-    .io_sin_exp(rt_rot_y_sin_exp),
-    .io_sin_mant(rt_rot_y_sin_mant),
-    .io_cos_sign(rt_rot_y_cos_sign),
-    .io_cos_exp(rt_rot_y_cos_exp),
-    .io_cos_mant(rt_rot_y_cos_mant),
-    .io_result_vld(rt_u_ray_dir_rot_y_io_result_vld),
-    .io_result_x_sign(rt_u_ray_dir_rot_y_io_result_x_sign),
-    .io_result_x_exp(rt_u_ray_dir_rot_y_io_result_x_exp),
-    .io_result_x_mant(rt_u_ray_dir_rot_y_io_result_x_mant),
-    .io_result_y_sign(rt_u_ray_dir_rot_y_io_result_y_sign),
-    .io_result_y_exp(rt_u_ray_dir_rot_y_io_result_y_exp),
-    .io_result_y_mant(rt_u_ray_dir_rot_y_io_result_y_mant),
-    .io_result_z_sign(rt_u_ray_dir_rot_y_io_result_z_sign),
-    .io_result_z_exp(rt_u_ray_dir_rot_y_io_result_z_exp),
-    .io_result_z_mant(rt_u_ray_dir_rot_y_io_result_z_mant),
-    .clk(clk),
-    .reset(reset) 
-  );
-  Normalize_2_ rt_u_normalize_ray ( 
-    .io_op_vld(rt_ray_dir_rot_y_vld),
-    .io_op_x_sign(rt_ray_dir_rot_y_x_sign),
-    .io_op_x_exp(rt_ray_dir_rot_y_x_exp),
-    .io_op_x_mant(rt_ray_dir_rot_y_x_mant),
-    .io_op_y_sign(rt_ray_dir_rot_y_y_sign),
-    .io_op_y_exp(rt_ray_dir_rot_y_y_exp),
-    .io_op_y_mant(rt_ray_dir_rot_y_y_mant),
-    .io_op_z_sign(rt_ray_dir_rot_y_z_sign),
-    .io_op_z_exp(rt_ray_dir_rot_y_z_exp),
-    .io_op_z_mant(rt_ray_dir_rot_y_z_mant),
     .io_result_vld(rt_u_normalize_ray_io_result_vld),
     .io_result_x_sign(rt_u_normalize_ray_io_result_x_sign),
     .io_result_x_exp(rt_u_normalize_ray_io_result_x_exp),
@@ -16495,6 +16397,11 @@ module RTCore (
   assign rt_cam_sweep_pixel_pixel_r = rt_u_cam_sweep_io_pixel_out_pixel_r;
   assign rt_cam_sweep_pixel_pixel_g = rt_u_cam_sweep_io_pixel_out_pixel_g;
   assign rt_cam_sweep_pixel_pixel_b = rt_u_cam_sweep_io_pixel_out_pixel_b;
+  assign rt_cam_sweep_pixel_vtg_valid = rt_u_cam_sweep_io_pixel_out_vtg_valid;
+  assign rt_cam_sweep_pixel_vtg_last = rt_u_cam_sweep_io_pixel_out_vtg_last;
+  assign rt_cam_sweep_pixel_vtg_de = rt_u_cam_sweep_io_pixel_out_vtg_de;
+  assign rt_cam_sweep_pixel_vtg_hsync = rt_u_cam_sweep_io_pixel_out_vtg_hsync;
+  assign rt_cam_sweep_pixel_vtg_vsync = rt_u_cam_sweep_io_pixel_out_vtg_vsync;
   always @ (*) begin
     rt_ray_origin_x_sign = rt_u_cam_sweep_io_ray_origin_x_sign;
     rt_ray_origin_x_exp = rt_u_cam_sweep_io_ray_origin_x_exp;
@@ -16595,38 +16502,6 @@ module RTCore (
   assign rt_shadow_ray_direction_z_sign = 1'b0;
   assign rt_shadow_ray_direction_z_exp = (6'b011100);
   assign rt_shadow_ray_direction_z_mant = (13'b1011111011101);
-  assign rt_rot_x_sin_sign = 1'b0;
-  assign rt_rot_x_sin_exp = (6'b011101);
-  assign rt_rot_x_sin_mant = (13'b0101100011111);
-  assign rt_rot_x_cos_sign = 1'b0;
-  assign rt_rot_x_cos_exp = (6'b011110);
-  assign rt_rot_x_cos_mant = (13'b1110001000010);
-  assign rt_ray_dir_rot_x_vld = rt_u_ray_dir_rot_x_io_result_vld;
-  assign rt_ray_dir_rot_x_x_sign = rt_u_ray_dir_rot_x_io_result_x_sign;
-  assign rt_ray_dir_rot_x_x_exp = rt_u_ray_dir_rot_x_io_result_x_exp;
-  assign rt_ray_dir_rot_x_x_mant = rt_u_ray_dir_rot_x_io_result_x_mant;
-  assign rt_ray_dir_rot_x_y_sign = rt_u_ray_dir_rot_x_io_result_y_sign;
-  assign rt_ray_dir_rot_x_y_exp = rt_u_ray_dir_rot_x_io_result_y_exp;
-  assign rt_ray_dir_rot_x_y_mant = rt_u_ray_dir_rot_x_io_result_y_mant;
-  assign rt_ray_dir_rot_x_z_sign = rt_u_ray_dir_rot_x_io_result_z_sign;
-  assign rt_ray_dir_rot_x_z_exp = rt_u_ray_dir_rot_x_io_result_z_exp;
-  assign rt_ray_dir_rot_x_z_mant = rt_u_ray_dir_rot_x_io_result_z_mant;
-  assign rt_rot_y_sin_sign = 1'b1;
-  assign rt_rot_y_sin_exp = (6'b011100);
-  assign rt_rot_y_sin_mant = (13'b0101111000100);
-  assign rt_rot_y_cos_sign = 1'b0;
-  assign rt_rot_y_cos_exp = (6'b011110);
-  assign rt_rot_y_cos_mant = (13'b1111100001110);
-  assign rt_ray_dir_rot_y_vld = rt_u_ray_dir_rot_y_io_result_vld;
-  assign rt_ray_dir_rot_y_x_sign = rt_u_ray_dir_rot_y_io_result_x_sign;
-  assign rt_ray_dir_rot_y_x_exp = rt_u_ray_dir_rot_y_io_result_x_exp;
-  assign rt_ray_dir_rot_y_x_mant = rt_u_ray_dir_rot_y_io_result_x_mant;
-  assign rt_ray_dir_rot_y_y_sign = rt_u_ray_dir_rot_y_io_result_y_sign;
-  assign rt_ray_dir_rot_y_y_exp = rt_u_ray_dir_rot_y_io_result_y_exp;
-  assign rt_ray_dir_rot_y_y_mant = rt_u_ray_dir_rot_y_io_result_y_mant;
-  assign rt_ray_dir_rot_y_z_sign = rt_u_ray_dir_rot_y_io_result_z_sign;
-  assign rt_ray_dir_rot_y_z_exp = rt_u_ray_dir_rot_y_io_result_z_exp;
-  assign rt_ray_dir_rot_y_z_mant = rt_u_ray_dir_rot_y_io_result_z_mant;
   assign rt_ray_normalized_origin_x_sign = rt_ray_origin_x_sign;
   assign rt_ray_normalized_origin_x_exp = rt_ray_origin_x_exp;
   assign rt_ray_normalized_origin_x_mant = rt_ray_origin_x_mant;
@@ -16805,6 +16680,11 @@ module RTCore (
     end
   end
 
+  assign rt_rt_pixel_vtg_valid = rt_cam_sweep_pixel_delayed_vtg_valid;
+  assign rt_rt_pixel_vtg_last = rt_cam_sweep_pixel_delayed_vtg_last;
+  assign rt_rt_pixel_vtg_de = rt_cam_sweep_pixel_delayed_vtg_de;
+  assign rt_rt_pixel_vtg_hsync = rt_cam_sweep_pixel_delayed_vtg_hsync;
+  assign rt_rt_pixel_vtg_vsync = rt_cam_sweep_pixel_delayed_vtg_vsync;
   always @ (*) begin
     if((rt_sphere_intersects_delayed && (! rt_plane_intersects_final_delayed_1)))begin
       _zz_1_ = rt_yellow_sky_r;
@@ -16874,6 +16754,11 @@ module RTCore (
   assign io_pixel_out_pixel_r = rt_rt_pixel_pixel_r;
   assign io_pixel_out_pixel_g = rt_rt_pixel_pixel_g;
   assign io_pixel_out_pixel_b = rt_rt_pixel_pixel_b;
+  assign io_pixel_out_vtg_valid = rt_rt_pixel_vtg_valid;
+  assign io_pixel_out_vtg_last = rt_rt_pixel_vtg_last;
+  assign io_pixel_out_vtg_de = rt_rt_pixel_vtg_de;
+  assign io_pixel_out_vtg_hsync = rt_rt_pixel_vtg_hsync;
+  assign io_pixel_out_vtg_vsync = rt_rt_pixel_vtg_vsync;
   always @ (posedge clk or posedge reset) begin
     if (reset) begin
       rt_calc_sphere_pos_s_time <= (8'b00101101);
@@ -17010,6 +16895,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_1_pixel_r <= rt_cam_sweep_pixel_pixel_r;
     rt_cam_sweep_pixel_delay_1_pixel_g <= rt_cam_sweep_pixel_pixel_g;
     rt_cam_sweep_pixel_delay_1_pixel_b <= rt_cam_sweep_pixel_pixel_b;
+    rt_cam_sweep_pixel_delay_1_vtg_valid <= rt_cam_sweep_pixel_vtg_valid;
+    rt_cam_sweep_pixel_delay_1_vtg_last <= rt_cam_sweep_pixel_vtg_last;
+    rt_cam_sweep_pixel_delay_1_vtg_de <= rt_cam_sweep_pixel_vtg_de;
+    rt_cam_sweep_pixel_delay_1_vtg_hsync <= rt_cam_sweep_pixel_vtg_hsync;
+    rt_cam_sweep_pixel_delay_1_vtg_vsync <= rt_cam_sweep_pixel_vtg_vsync;
     rt_cam_sweep_pixel_delay_2_vsync <= rt_cam_sweep_pixel_delay_1_vsync;
     rt_cam_sweep_pixel_delay_2_req <= rt_cam_sweep_pixel_delay_1_req;
     rt_cam_sweep_pixel_delay_2_eol <= rt_cam_sweep_pixel_delay_1_eol;
@@ -17017,6 +16907,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_2_pixel_r <= rt_cam_sweep_pixel_delay_1_pixel_r;
     rt_cam_sweep_pixel_delay_2_pixel_g <= rt_cam_sweep_pixel_delay_1_pixel_g;
     rt_cam_sweep_pixel_delay_2_pixel_b <= rt_cam_sweep_pixel_delay_1_pixel_b;
+    rt_cam_sweep_pixel_delay_2_vtg_valid <= rt_cam_sweep_pixel_delay_1_vtg_valid;
+    rt_cam_sweep_pixel_delay_2_vtg_last <= rt_cam_sweep_pixel_delay_1_vtg_last;
+    rt_cam_sweep_pixel_delay_2_vtg_de <= rt_cam_sweep_pixel_delay_1_vtg_de;
+    rt_cam_sweep_pixel_delay_2_vtg_hsync <= rt_cam_sweep_pixel_delay_1_vtg_hsync;
+    rt_cam_sweep_pixel_delay_2_vtg_vsync <= rt_cam_sweep_pixel_delay_1_vtg_vsync;
     rt_cam_sweep_pixel_delay_3_vsync <= rt_cam_sweep_pixel_delay_2_vsync;
     rt_cam_sweep_pixel_delay_3_req <= rt_cam_sweep_pixel_delay_2_req;
     rt_cam_sweep_pixel_delay_3_eol <= rt_cam_sweep_pixel_delay_2_eol;
@@ -17024,6 +16919,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_3_pixel_r <= rt_cam_sweep_pixel_delay_2_pixel_r;
     rt_cam_sweep_pixel_delay_3_pixel_g <= rt_cam_sweep_pixel_delay_2_pixel_g;
     rt_cam_sweep_pixel_delay_3_pixel_b <= rt_cam_sweep_pixel_delay_2_pixel_b;
+    rt_cam_sweep_pixel_delay_3_vtg_valid <= rt_cam_sweep_pixel_delay_2_vtg_valid;
+    rt_cam_sweep_pixel_delay_3_vtg_last <= rt_cam_sweep_pixel_delay_2_vtg_last;
+    rt_cam_sweep_pixel_delay_3_vtg_de <= rt_cam_sweep_pixel_delay_2_vtg_de;
+    rt_cam_sweep_pixel_delay_3_vtg_hsync <= rt_cam_sweep_pixel_delay_2_vtg_hsync;
+    rt_cam_sweep_pixel_delay_3_vtg_vsync <= rt_cam_sweep_pixel_delay_2_vtg_vsync;
     rt_cam_sweep_pixel_delay_4_vsync <= rt_cam_sweep_pixel_delay_3_vsync;
     rt_cam_sweep_pixel_delay_4_req <= rt_cam_sweep_pixel_delay_3_req;
     rt_cam_sweep_pixel_delay_4_eol <= rt_cam_sweep_pixel_delay_3_eol;
@@ -17031,6 +16931,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_4_pixel_r <= rt_cam_sweep_pixel_delay_3_pixel_r;
     rt_cam_sweep_pixel_delay_4_pixel_g <= rt_cam_sweep_pixel_delay_3_pixel_g;
     rt_cam_sweep_pixel_delay_4_pixel_b <= rt_cam_sweep_pixel_delay_3_pixel_b;
+    rt_cam_sweep_pixel_delay_4_vtg_valid <= rt_cam_sweep_pixel_delay_3_vtg_valid;
+    rt_cam_sweep_pixel_delay_4_vtg_last <= rt_cam_sweep_pixel_delay_3_vtg_last;
+    rt_cam_sweep_pixel_delay_4_vtg_de <= rt_cam_sweep_pixel_delay_3_vtg_de;
+    rt_cam_sweep_pixel_delay_4_vtg_hsync <= rt_cam_sweep_pixel_delay_3_vtg_hsync;
+    rt_cam_sweep_pixel_delay_4_vtg_vsync <= rt_cam_sweep_pixel_delay_3_vtg_vsync;
     rt_cam_sweep_pixel_delay_5_vsync <= rt_cam_sweep_pixel_delay_4_vsync;
     rt_cam_sweep_pixel_delay_5_req <= rt_cam_sweep_pixel_delay_4_req;
     rt_cam_sweep_pixel_delay_5_eol <= rt_cam_sweep_pixel_delay_4_eol;
@@ -17038,6 +16943,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_5_pixel_r <= rt_cam_sweep_pixel_delay_4_pixel_r;
     rt_cam_sweep_pixel_delay_5_pixel_g <= rt_cam_sweep_pixel_delay_4_pixel_g;
     rt_cam_sweep_pixel_delay_5_pixel_b <= rt_cam_sweep_pixel_delay_4_pixel_b;
+    rt_cam_sweep_pixel_delay_5_vtg_valid <= rt_cam_sweep_pixel_delay_4_vtg_valid;
+    rt_cam_sweep_pixel_delay_5_vtg_last <= rt_cam_sweep_pixel_delay_4_vtg_last;
+    rt_cam_sweep_pixel_delay_5_vtg_de <= rt_cam_sweep_pixel_delay_4_vtg_de;
+    rt_cam_sweep_pixel_delay_5_vtg_hsync <= rt_cam_sweep_pixel_delay_4_vtg_hsync;
+    rt_cam_sweep_pixel_delay_5_vtg_vsync <= rt_cam_sweep_pixel_delay_4_vtg_vsync;
     rt_cam_sweep_pixel_delay_6_vsync <= rt_cam_sweep_pixel_delay_5_vsync;
     rt_cam_sweep_pixel_delay_6_req <= rt_cam_sweep_pixel_delay_5_req;
     rt_cam_sweep_pixel_delay_6_eol <= rt_cam_sweep_pixel_delay_5_eol;
@@ -17045,6 +16955,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_6_pixel_r <= rt_cam_sweep_pixel_delay_5_pixel_r;
     rt_cam_sweep_pixel_delay_6_pixel_g <= rt_cam_sweep_pixel_delay_5_pixel_g;
     rt_cam_sweep_pixel_delay_6_pixel_b <= rt_cam_sweep_pixel_delay_5_pixel_b;
+    rt_cam_sweep_pixel_delay_6_vtg_valid <= rt_cam_sweep_pixel_delay_5_vtg_valid;
+    rt_cam_sweep_pixel_delay_6_vtg_last <= rt_cam_sweep_pixel_delay_5_vtg_last;
+    rt_cam_sweep_pixel_delay_6_vtg_de <= rt_cam_sweep_pixel_delay_5_vtg_de;
+    rt_cam_sweep_pixel_delay_6_vtg_hsync <= rt_cam_sweep_pixel_delay_5_vtg_hsync;
+    rt_cam_sweep_pixel_delay_6_vtg_vsync <= rt_cam_sweep_pixel_delay_5_vtg_vsync;
     rt_cam_sweep_pixel_delay_7_vsync <= rt_cam_sweep_pixel_delay_6_vsync;
     rt_cam_sweep_pixel_delay_7_req <= rt_cam_sweep_pixel_delay_6_req;
     rt_cam_sweep_pixel_delay_7_eol <= rt_cam_sweep_pixel_delay_6_eol;
@@ -17052,6 +16967,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_7_pixel_r <= rt_cam_sweep_pixel_delay_6_pixel_r;
     rt_cam_sweep_pixel_delay_7_pixel_g <= rt_cam_sweep_pixel_delay_6_pixel_g;
     rt_cam_sweep_pixel_delay_7_pixel_b <= rt_cam_sweep_pixel_delay_6_pixel_b;
+    rt_cam_sweep_pixel_delay_7_vtg_valid <= rt_cam_sweep_pixel_delay_6_vtg_valid;
+    rt_cam_sweep_pixel_delay_7_vtg_last <= rt_cam_sweep_pixel_delay_6_vtg_last;
+    rt_cam_sweep_pixel_delay_7_vtg_de <= rt_cam_sweep_pixel_delay_6_vtg_de;
+    rt_cam_sweep_pixel_delay_7_vtg_hsync <= rt_cam_sweep_pixel_delay_6_vtg_hsync;
+    rt_cam_sweep_pixel_delay_7_vtg_vsync <= rt_cam_sweep_pixel_delay_6_vtg_vsync;
     rt_cam_sweep_pixel_delay_8_vsync <= rt_cam_sweep_pixel_delay_7_vsync;
     rt_cam_sweep_pixel_delay_8_req <= rt_cam_sweep_pixel_delay_7_req;
     rt_cam_sweep_pixel_delay_8_eol <= rt_cam_sweep_pixel_delay_7_eol;
@@ -17059,6 +16979,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_8_pixel_r <= rt_cam_sweep_pixel_delay_7_pixel_r;
     rt_cam_sweep_pixel_delay_8_pixel_g <= rt_cam_sweep_pixel_delay_7_pixel_g;
     rt_cam_sweep_pixel_delay_8_pixel_b <= rt_cam_sweep_pixel_delay_7_pixel_b;
+    rt_cam_sweep_pixel_delay_8_vtg_valid <= rt_cam_sweep_pixel_delay_7_vtg_valid;
+    rt_cam_sweep_pixel_delay_8_vtg_last <= rt_cam_sweep_pixel_delay_7_vtg_last;
+    rt_cam_sweep_pixel_delay_8_vtg_de <= rt_cam_sweep_pixel_delay_7_vtg_de;
+    rt_cam_sweep_pixel_delay_8_vtg_hsync <= rt_cam_sweep_pixel_delay_7_vtg_hsync;
+    rt_cam_sweep_pixel_delay_8_vtg_vsync <= rt_cam_sweep_pixel_delay_7_vtg_vsync;
     rt_cam_sweep_pixel_delay_9_vsync <= rt_cam_sweep_pixel_delay_8_vsync;
     rt_cam_sweep_pixel_delay_9_req <= rt_cam_sweep_pixel_delay_8_req;
     rt_cam_sweep_pixel_delay_9_eol <= rt_cam_sweep_pixel_delay_8_eol;
@@ -17066,6 +16991,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_9_pixel_r <= rt_cam_sweep_pixel_delay_8_pixel_r;
     rt_cam_sweep_pixel_delay_9_pixel_g <= rt_cam_sweep_pixel_delay_8_pixel_g;
     rt_cam_sweep_pixel_delay_9_pixel_b <= rt_cam_sweep_pixel_delay_8_pixel_b;
+    rt_cam_sweep_pixel_delay_9_vtg_valid <= rt_cam_sweep_pixel_delay_8_vtg_valid;
+    rt_cam_sweep_pixel_delay_9_vtg_last <= rt_cam_sweep_pixel_delay_8_vtg_last;
+    rt_cam_sweep_pixel_delay_9_vtg_de <= rt_cam_sweep_pixel_delay_8_vtg_de;
+    rt_cam_sweep_pixel_delay_9_vtg_hsync <= rt_cam_sweep_pixel_delay_8_vtg_hsync;
+    rt_cam_sweep_pixel_delay_9_vtg_vsync <= rt_cam_sweep_pixel_delay_8_vtg_vsync;
     rt_cam_sweep_pixel_delay_10_vsync <= rt_cam_sweep_pixel_delay_9_vsync;
     rt_cam_sweep_pixel_delay_10_req <= rt_cam_sweep_pixel_delay_9_req;
     rt_cam_sweep_pixel_delay_10_eol <= rt_cam_sweep_pixel_delay_9_eol;
@@ -17073,6 +17003,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_10_pixel_r <= rt_cam_sweep_pixel_delay_9_pixel_r;
     rt_cam_sweep_pixel_delay_10_pixel_g <= rt_cam_sweep_pixel_delay_9_pixel_g;
     rt_cam_sweep_pixel_delay_10_pixel_b <= rt_cam_sweep_pixel_delay_9_pixel_b;
+    rt_cam_sweep_pixel_delay_10_vtg_valid <= rt_cam_sweep_pixel_delay_9_vtg_valid;
+    rt_cam_sweep_pixel_delay_10_vtg_last <= rt_cam_sweep_pixel_delay_9_vtg_last;
+    rt_cam_sweep_pixel_delay_10_vtg_de <= rt_cam_sweep_pixel_delay_9_vtg_de;
+    rt_cam_sweep_pixel_delay_10_vtg_hsync <= rt_cam_sweep_pixel_delay_9_vtg_hsync;
+    rt_cam_sweep_pixel_delay_10_vtg_vsync <= rt_cam_sweep_pixel_delay_9_vtg_vsync;
     rt_cam_sweep_pixel_delay_11_vsync <= rt_cam_sweep_pixel_delay_10_vsync;
     rt_cam_sweep_pixel_delay_11_req <= rt_cam_sweep_pixel_delay_10_req;
     rt_cam_sweep_pixel_delay_11_eol <= rt_cam_sweep_pixel_delay_10_eol;
@@ -17080,6 +17015,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_11_pixel_r <= rt_cam_sweep_pixel_delay_10_pixel_r;
     rt_cam_sweep_pixel_delay_11_pixel_g <= rt_cam_sweep_pixel_delay_10_pixel_g;
     rt_cam_sweep_pixel_delay_11_pixel_b <= rt_cam_sweep_pixel_delay_10_pixel_b;
+    rt_cam_sweep_pixel_delay_11_vtg_valid <= rt_cam_sweep_pixel_delay_10_vtg_valid;
+    rt_cam_sweep_pixel_delay_11_vtg_last <= rt_cam_sweep_pixel_delay_10_vtg_last;
+    rt_cam_sweep_pixel_delay_11_vtg_de <= rt_cam_sweep_pixel_delay_10_vtg_de;
+    rt_cam_sweep_pixel_delay_11_vtg_hsync <= rt_cam_sweep_pixel_delay_10_vtg_hsync;
+    rt_cam_sweep_pixel_delay_11_vtg_vsync <= rt_cam_sweep_pixel_delay_10_vtg_vsync;
     rt_cam_sweep_pixel_delay_12_vsync <= rt_cam_sweep_pixel_delay_11_vsync;
     rt_cam_sweep_pixel_delay_12_req <= rt_cam_sweep_pixel_delay_11_req;
     rt_cam_sweep_pixel_delay_12_eol <= rt_cam_sweep_pixel_delay_11_eol;
@@ -17087,6 +17027,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_12_pixel_r <= rt_cam_sweep_pixel_delay_11_pixel_r;
     rt_cam_sweep_pixel_delay_12_pixel_g <= rt_cam_sweep_pixel_delay_11_pixel_g;
     rt_cam_sweep_pixel_delay_12_pixel_b <= rt_cam_sweep_pixel_delay_11_pixel_b;
+    rt_cam_sweep_pixel_delay_12_vtg_valid <= rt_cam_sweep_pixel_delay_11_vtg_valid;
+    rt_cam_sweep_pixel_delay_12_vtg_last <= rt_cam_sweep_pixel_delay_11_vtg_last;
+    rt_cam_sweep_pixel_delay_12_vtg_de <= rt_cam_sweep_pixel_delay_11_vtg_de;
+    rt_cam_sweep_pixel_delay_12_vtg_hsync <= rt_cam_sweep_pixel_delay_11_vtg_hsync;
+    rt_cam_sweep_pixel_delay_12_vtg_vsync <= rt_cam_sweep_pixel_delay_11_vtg_vsync;
     rt_cam_sweep_pixel_delay_13_vsync <= rt_cam_sweep_pixel_delay_12_vsync;
     rt_cam_sweep_pixel_delay_13_req <= rt_cam_sweep_pixel_delay_12_req;
     rt_cam_sweep_pixel_delay_13_eol <= rt_cam_sweep_pixel_delay_12_eol;
@@ -17094,6 +17039,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_13_pixel_r <= rt_cam_sweep_pixel_delay_12_pixel_r;
     rt_cam_sweep_pixel_delay_13_pixel_g <= rt_cam_sweep_pixel_delay_12_pixel_g;
     rt_cam_sweep_pixel_delay_13_pixel_b <= rt_cam_sweep_pixel_delay_12_pixel_b;
+    rt_cam_sweep_pixel_delay_13_vtg_valid <= rt_cam_sweep_pixel_delay_12_vtg_valid;
+    rt_cam_sweep_pixel_delay_13_vtg_last <= rt_cam_sweep_pixel_delay_12_vtg_last;
+    rt_cam_sweep_pixel_delay_13_vtg_de <= rt_cam_sweep_pixel_delay_12_vtg_de;
+    rt_cam_sweep_pixel_delay_13_vtg_hsync <= rt_cam_sweep_pixel_delay_12_vtg_hsync;
+    rt_cam_sweep_pixel_delay_13_vtg_vsync <= rt_cam_sweep_pixel_delay_12_vtg_vsync;
     rt_cam_sweep_pixel_delay_14_vsync <= rt_cam_sweep_pixel_delay_13_vsync;
     rt_cam_sweep_pixel_delay_14_req <= rt_cam_sweep_pixel_delay_13_req;
     rt_cam_sweep_pixel_delay_14_eol <= rt_cam_sweep_pixel_delay_13_eol;
@@ -17101,6 +17051,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_14_pixel_r <= rt_cam_sweep_pixel_delay_13_pixel_r;
     rt_cam_sweep_pixel_delay_14_pixel_g <= rt_cam_sweep_pixel_delay_13_pixel_g;
     rt_cam_sweep_pixel_delay_14_pixel_b <= rt_cam_sweep_pixel_delay_13_pixel_b;
+    rt_cam_sweep_pixel_delay_14_vtg_valid <= rt_cam_sweep_pixel_delay_13_vtg_valid;
+    rt_cam_sweep_pixel_delay_14_vtg_last <= rt_cam_sweep_pixel_delay_13_vtg_last;
+    rt_cam_sweep_pixel_delay_14_vtg_de <= rt_cam_sweep_pixel_delay_13_vtg_de;
+    rt_cam_sweep_pixel_delay_14_vtg_hsync <= rt_cam_sweep_pixel_delay_13_vtg_hsync;
+    rt_cam_sweep_pixel_delay_14_vtg_vsync <= rt_cam_sweep_pixel_delay_13_vtg_vsync;
     rt_cam_sweep_pixel_delay_15_vsync <= rt_cam_sweep_pixel_delay_14_vsync;
     rt_cam_sweep_pixel_delay_15_req <= rt_cam_sweep_pixel_delay_14_req;
     rt_cam_sweep_pixel_delay_15_eol <= rt_cam_sweep_pixel_delay_14_eol;
@@ -17108,6 +17063,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_15_pixel_r <= rt_cam_sweep_pixel_delay_14_pixel_r;
     rt_cam_sweep_pixel_delay_15_pixel_g <= rt_cam_sweep_pixel_delay_14_pixel_g;
     rt_cam_sweep_pixel_delay_15_pixel_b <= rt_cam_sweep_pixel_delay_14_pixel_b;
+    rt_cam_sweep_pixel_delay_15_vtg_valid <= rt_cam_sweep_pixel_delay_14_vtg_valid;
+    rt_cam_sweep_pixel_delay_15_vtg_last <= rt_cam_sweep_pixel_delay_14_vtg_last;
+    rt_cam_sweep_pixel_delay_15_vtg_de <= rt_cam_sweep_pixel_delay_14_vtg_de;
+    rt_cam_sweep_pixel_delay_15_vtg_hsync <= rt_cam_sweep_pixel_delay_14_vtg_hsync;
+    rt_cam_sweep_pixel_delay_15_vtg_vsync <= rt_cam_sweep_pixel_delay_14_vtg_vsync;
     rt_cam_sweep_pixel_delay_16_vsync <= rt_cam_sweep_pixel_delay_15_vsync;
     rt_cam_sweep_pixel_delay_16_req <= rt_cam_sweep_pixel_delay_15_req;
     rt_cam_sweep_pixel_delay_16_eol <= rt_cam_sweep_pixel_delay_15_eol;
@@ -17115,6 +17075,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_16_pixel_r <= rt_cam_sweep_pixel_delay_15_pixel_r;
     rt_cam_sweep_pixel_delay_16_pixel_g <= rt_cam_sweep_pixel_delay_15_pixel_g;
     rt_cam_sweep_pixel_delay_16_pixel_b <= rt_cam_sweep_pixel_delay_15_pixel_b;
+    rt_cam_sweep_pixel_delay_16_vtg_valid <= rt_cam_sweep_pixel_delay_15_vtg_valid;
+    rt_cam_sweep_pixel_delay_16_vtg_last <= rt_cam_sweep_pixel_delay_15_vtg_last;
+    rt_cam_sweep_pixel_delay_16_vtg_de <= rt_cam_sweep_pixel_delay_15_vtg_de;
+    rt_cam_sweep_pixel_delay_16_vtg_hsync <= rt_cam_sweep_pixel_delay_15_vtg_hsync;
+    rt_cam_sweep_pixel_delay_16_vtg_vsync <= rt_cam_sweep_pixel_delay_15_vtg_vsync;
     rt_cam_sweep_pixel_delay_17_vsync <= rt_cam_sweep_pixel_delay_16_vsync;
     rt_cam_sweep_pixel_delay_17_req <= rt_cam_sweep_pixel_delay_16_req;
     rt_cam_sweep_pixel_delay_17_eol <= rt_cam_sweep_pixel_delay_16_eol;
@@ -17122,6 +17087,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_17_pixel_r <= rt_cam_sweep_pixel_delay_16_pixel_r;
     rt_cam_sweep_pixel_delay_17_pixel_g <= rt_cam_sweep_pixel_delay_16_pixel_g;
     rt_cam_sweep_pixel_delay_17_pixel_b <= rt_cam_sweep_pixel_delay_16_pixel_b;
+    rt_cam_sweep_pixel_delay_17_vtg_valid <= rt_cam_sweep_pixel_delay_16_vtg_valid;
+    rt_cam_sweep_pixel_delay_17_vtg_last <= rt_cam_sweep_pixel_delay_16_vtg_last;
+    rt_cam_sweep_pixel_delay_17_vtg_de <= rt_cam_sweep_pixel_delay_16_vtg_de;
+    rt_cam_sweep_pixel_delay_17_vtg_hsync <= rt_cam_sweep_pixel_delay_16_vtg_hsync;
+    rt_cam_sweep_pixel_delay_17_vtg_vsync <= rt_cam_sweep_pixel_delay_16_vtg_vsync;
     rt_cam_sweep_pixel_delay_18_vsync <= rt_cam_sweep_pixel_delay_17_vsync;
     rt_cam_sweep_pixel_delay_18_req <= rt_cam_sweep_pixel_delay_17_req;
     rt_cam_sweep_pixel_delay_18_eol <= rt_cam_sweep_pixel_delay_17_eol;
@@ -17129,6 +17099,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_18_pixel_r <= rt_cam_sweep_pixel_delay_17_pixel_r;
     rt_cam_sweep_pixel_delay_18_pixel_g <= rt_cam_sweep_pixel_delay_17_pixel_g;
     rt_cam_sweep_pixel_delay_18_pixel_b <= rt_cam_sweep_pixel_delay_17_pixel_b;
+    rt_cam_sweep_pixel_delay_18_vtg_valid <= rt_cam_sweep_pixel_delay_17_vtg_valid;
+    rt_cam_sweep_pixel_delay_18_vtg_last <= rt_cam_sweep_pixel_delay_17_vtg_last;
+    rt_cam_sweep_pixel_delay_18_vtg_de <= rt_cam_sweep_pixel_delay_17_vtg_de;
+    rt_cam_sweep_pixel_delay_18_vtg_hsync <= rt_cam_sweep_pixel_delay_17_vtg_hsync;
+    rt_cam_sweep_pixel_delay_18_vtg_vsync <= rt_cam_sweep_pixel_delay_17_vtg_vsync;
     rt_cam_sweep_pixel_delay_19_vsync <= rt_cam_sweep_pixel_delay_18_vsync;
     rt_cam_sweep_pixel_delay_19_req <= rt_cam_sweep_pixel_delay_18_req;
     rt_cam_sweep_pixel_delay_19_eol <= rt_cam_sweep_pixel_delay_18_eol;
@@ -17136,6 +17111,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_19_pixel_r <= rt_cam_sweep_pixel_delay_18_pixel_r;
     rt_cam_sweep_pixel_delay_19_pixel_g <= rt_cam_sweep_pixel_delay_18_pixel_g;
     rt_cam_sweep_pixel_delay_19_pixel_b <= rt_cam_sweep_pixel_delay_18_pixel_b;
+    rt_cam_sweep_pixel_delay_19_vtg_valid <= rt_cam_sweep_pixel_delay_18_vtg_valid;
+    rt_cam_sweep_pixel_delay_19_vtg_last <= rt_cam_sweep_pixel_delay_18_vtg_last;
+    rt_cam_sweep_pixel_delay_19_vtg_de <= rt_cam_sweep_pixel_delay_18_vtg_de;
+    rt_cam_sweep_pixel_delay_19_vtg_hsync <= rt_cam_sweep_pixel_delay_18_vtg_hsync;
+    rt_cam_sweep_pixel_delay_19_vtg_vsync <= rt_cam_sweep_pixel_delay_18_vtg_vsync;
     rt_cam_sweep_pixel_delay_20_vsync <= rt_cam_sweep_pixel_delay_19_vsync;
     rt_cam_sweep_pixel_delay_20_req <= rt_cam_sweep_pixel_delay_19_req;
     rt_cam_sweep_pixel_delay_20_eol <= rt_cam_sweep_pixel_delay_19_eol;
@@ -17143,6 +17123,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_20_pixel_r <= rt_cam_sweep_pixel_delay_19_pixel_r;
     rt_cam_sweep_pixel_delay_20_pixel_g <= rt_cam_sweep_pixel_delay_19_pixel_g;
     rt_cam_sweep_pixel_delay_20_pixel_b <= rt_cam_sweep_pixel_delay_19_pixel_b;
+    rt_cam_sweep_pixel_delay_20_vtg_valid <= rt_cam_sweep_pixel_delay_19_vtg_valid;
+    rt_cam_sweep_pixel_delay_20_vtg_last <= rt_cam_sweep_pixel_delay_19_vtg_last;
+    rt_cam_sweep_pixel_delay_20_vtg_de <= rt_cam_sweep_pixel_delay_19_vtg_de;
+    rt_cam_sweep_pixel_delay_20_vtg_hsync <= rt_cam_sweep_pixel_delay_19_vtg_hsync;
+    rt_cam_sweep_pixel_delay_20_vtg_vsync <= rt_cam_sweep_pixel_delay_19_vtg_vsync;
     rt_cam_sweep_pixel_delay_21_vsync <= rt_cam_sweep_pixel_delay_20_vsync;
     rt_cam_sweep_pixel_delay_21_req <= rt_cam_sweep_pixel_delay_20_req;
     rt_cam_sweep_pixel_delay_21_eol <= rt_cam_sweep_pixel_delay_20_eol;
@@ -17150,6 +17135,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_21_pixel_r <= rt_cam_sweep_pixel_delay_20_pixel_r;
     rt_cam_sweep_pixel_delay_21_pixel_g <= rt_cam_sweep_pixel_delay_20_pixel_g;
     rt_cam_sweep_pixel_delay_21_pixel_b <= rt_cam_sweep_pixel_delay_20_pixel_b;
+    rt_cam_sweep_pixel_delay_21_vtg_valid <= rt_cam_sweep_pixel_delay_20_vtg_valid;
+    rt_cam_sweep_pixel_delay_21_vtg_last <= rt_cam_sweep_pixel_delay_20_vtg_last;
+    rt_cam_sweep_pixel_delay_21_vtg_de <= rt_cam_sweep_pixel_delay_20_vtg_de;
+    rt_cam_sweep_pixel_delay_21_vtg_hsync <= rt_cam_sweep_pixel_delay_20_vtg_hsync;
+    rt_cam_sweep_pixel_delay_21_vtg_vsync <= rt_cam_sweep_pixel_delay_20_vtg_vsync;
     rt_cam_sweep_pixel_delay_22_vsync <= rt_cam_sweep_pixel_delay_21_vsync;
     rt_cam_sweep_pixel_delay_22_req <= rt_cam_sweep_pixel_delay_21_req;
     rt_cam_sweep_pixel_delay_22_eol <= rt_cam_sweep_pixel_delay_21_eol;
@@ -17157,6 +17147,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_22_pixel_r <= rt_cam_sweep_pixel_delay_21_pixel_r;
     rt_cam_sweep_pixel_delay_22_pixel_g <= rt_cam_sweep_pixel_delay_21_pixel_g;
     rt_cam_sweep_pixel_delay_22_pixel_b <= rt_cam_sweep_pixel_delay_21_pixel_b;
+    rt_cam_sweep_pixel_delay_22_vtg_valid <= rt_cam_sweep_pixel_delay_21_vtg_valid;
+    rt_cam_sweep_pixel_delay_22_vtg_last <= rt_cam_sweep_pixel_delay_21_vtg_last;
+    rt_cam_sweep_pixel_delay_22_vtg_de <= rt_cam_sweep_pixel_delay_21_vtg_de;
+    rt_cam_sweep_pixel_delay_22_vtg_hsync <= rt_cam_sweep_pixel_delay_21_vtg_hsync;
+    rt_cam_sweep_pixel_delay_22_vtg_vsync <= rt_cam_sweep_pixel_delay_21_vtg_vsync;
     rt_cam_sweep_pixel_delay_23_vsync <= rt_cam_sweep_pixel_delay_22_vsync;
     rt_cam_sweep_pixel_delay_23_req <= rt_cam_sweep_pixel_delay_22_req;
     rt_cam_sweep_pixel_delay_23_eol <= rt_cam_sweep_pixel_delay_22_eol;
@@ -17164,6 +17159,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_23_pixel_r <= rt_cam_sweep_pixel_delay_22_pixel_r;
     rt_cam_sweep_pixel_delay_23_pixel_g <= rt_cam_sweep_pixel_delay_22_pixel_g;
     rt_cam_sweep_pixel_delay_23_pixel_b <= rt_cam_sweep_pixel_delay_22_pixel_b;
+    rt_cam_sweep_pixel_delay_23_vtg_valid <= rt_cam_sweep_pixel_delay_22_vtg_valid;
+    rt_cam_sweep_pixel_delay_23_vtg_last <= rt_cam_sweep_pixel_delay_22_vtg_last;
+    rt_cam_sweep_pixel_delay_23_vtg_de <= rt_cam_sweep_pixel_delay_22_vtg_de;
+    rt_cam_sweep_pixel_delay_23_vtg_hsync <= rt_cam_sweep_pixel_delay_22_vtg_hsync;
+    rt_cam_sweep_pixel_delay_23_vtg_vsync <= rt_cam_sweep_pixel_delay_22_vtg_vsync;
     rt_cam_sweep_pixel_delay_24_vsync <= rt_cam_sweep_pixel_delay_23_vsync;
     rt_cam_sweep_pixel_delay_24_req <= rt_cam_sweep_pixel_delay_23_req;
     rt_cam_sweep_pixel_delay_24_eol <= rt_cam_sweep_pixel_delay_23_eol;
@@ -17171,6 +17171,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_24_pixel_r <= rt_cam_sweep_pixel_delay_23_pixel_r;
     rt_cam_sweep_pixel_delay_24_pixel_g <= rt_cam_sweep_pixel_delay_23_pixel_g;
     rt_cam_sweep_pixel_delay_24_pixel_b <= rt_cam_sweep_pixel_delay_23_pixel_b;
+    rt_cam_sweep_pixel_delay_24_vtg_valid <= rt_cam_sweep_pixel_delay_23_vtg_valid;
+    rt_cam_sweep_pixel_delay_24_vtg_last <= rt_cam_sweep_pixel_delay_23_vtg_last;
+    rt_cam_sweep_pixel_delay_24_vtg_de <= rt_cam_sweep_pixel_delay_23_vtg_de;
+    rt_cam_sweep_pixel_delay_24_vtg_hsync <= rt_cam_sweep_pixel_delay_23_vtg_hsync;
+    rt_cam_sweep_pixel_delay_24_vtg_vsync <= rt_cam_sweep_pixel_delay_23_vtg_vsync;
     rt_cam_sweep_pixel_delay_25_vsync <= rt_cam_sweep_pixel_delay_24_vsync;
     rt_cam_sweep_pixel_delay_25_req <= rt_cam_sweep_pixel_delay_24_req;
     rt_cam_sweep_pixel_delay_25_eol <= rt_cam_sweep_pixel_delay_24_eol;
@@ -17178,6 +17183,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_25_pixel_r <= rt_cam_sweep_pixel_delay_24_pixel_r;
     rt_cam_sweep_pixel_delay_25_pixel_g <= rt_cam_sweep_pixel_delay_24_pixel_g;
     rt_cam_sweep_pixel_delay_25_pixel_b <= rt_cam_sweep_pixel_delay_24_pixel_b;
+    rt_cam_sweep_pixel_delay_25_vtg_valid <= rt_cam_sweep_pixel_delay_24_vtg_valid;
+    rt_cam_sweep_pixel_delay_25_vtg_last <= rt_cam_sweep_pixel_delay_24_vtg_last;
+    rt_cam_sweep_pixel_delay_25_vtg_de <= rt_cam_sweep_pixel_delay_24_vtg_de;
+    rt_cam_sweep_pixel_delay_25_vtg_hsync <= rt_cam_sweep_pixel_delay_24_vtg_hsync;
+    rt_cam_sweep_pixel_delay_25_vtg_vsync <= rt_cam_sweep_pixel_delay_24_vtg_vsync;
     rt_cam_sweep_pixel_delay_26_vsync <= rt_cam_sweep_pixel_delay_25_vsync;
     rt_cam_sweep_pixel_delay_26_req <= rt_cam_sweep_pixel_delay_25_req;
     rt_cam_sweep_pixel_delay_26_eol <= rt_cam_sweep_pixel_delay_25_eol;
@@ -17185,6 +17195,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_26_pixel_r <= rt_cam_sweep_pixel_delay_25_pixel_r;
     rt_cam_sweep_pixel_delay_26_pixel_g <= rt_cam_sweep_pixel_delay_25_pixel_g;
     rt_cam_sweep_pixel_delay_26_pixel_b <= rt_cam_sweep_pixel_delay_25_pixel_b;
+    rt_cam_sweep_pixel_delay_26_vtg_valid <= rt_cam_sweep_pixel_delay_25_vtg_valid;
+    rt_cam_sweep_pixel_delay_26_vtg_last <= rt_cam_sweep_pixel_delay_25_vtg_last;
+    rt_cam_sweep_pixel_delay_26_vtg_de <= rt_cam_sweep_pixel_delay_25_vtg_de;
+    rt_cam_sweep_pixel_delay_26_vtg_hsync <= rt_cam_sweep_pixel_delay_25_vtg_hsync;
+    rt_cam_sweep_pixel_delay_26_vtg_vsync <= rt_cam_sweep_pixel_delay_25_vtg_vsync;
     rt_cam_sweep_pixel_delay_27_vsync <= rt_cam_sweep_pixel_delay_26_vsync;
     rt_cam_sweep_pixel_delay_27_req <= rt_cam_sweep_pixel_delay_26_req;
     rt_cam_sweep_pixel_delay_27_eol <= rt_cam_sweep_pixel_delay_26_eol;
@@ -17192,6 +17207,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_27_pixel_r <= rt_cam_sweep_pixel_delay_26_pixel_r;
     rt_cam_sweep_pixel_delay_27_pixel_g <= rt_cam_sweep_pixel_delay_26_pixel_g;
     rt_cam_sweep_pixel_delay_27_pixel_b <= rt_cam_sweep_pixel_delay_26_pixel_b;
+    rt_cam_sweep_pixel_delay_27_vtg_valid <= rt_cam_sweep_pixel_delay_26_vtg_valid;
+    rt_cam_sweep_pixel_delay_27_vtg_last <= rt_cam_sweep_pixel_delay_26_vtg_last;
+    rt_cam_sweep_pixel_delay_27_vtg_de <= rt_cam_sweep_pixel_delay_26_vtg_de;
+    rt_cam_sweep_pixel_delay_27_vtg_hsync <= rt_cam_sweep_pixel_delay_26_vtg_hsync;
+    rt_cam_sweep_pixel_delay_27_vtg_vsync <= rt_cam_sweep_pixel_delay_26_vtg_vsync;
     rt_cam_sweep_pixel_delay_28_vsync <= rt_cam_sweep_pixel_delay_27_vsync;
     rt_cam_sweep_pixel_delay_28_req <= rt_cam_sweep_pixel_delay_27_req;
     rt_cam_sweep_pixel_delay_28_eol <= rt_cam_sweep_pixel_delay_27_eol;
@@ -17199,6 +17219,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_28_pixel_r <= rt_cam_sweep_pixel_delay_27_pixel_r;
     rt_cam_sweep_pixel_delay_28_pixel_g <= rt_cam_sweep_pixel_delay_27_pixel_g;
     rt_cam_sweep_pixel_delay_28_pixel_b <= rt_cam_sweep_pixel_delay_27_pixel_b;
+    rt_cam_sweep_pixel_delay_28_vtg_valid <= rt_cam_sweep_pixel_delay_27_vtg_valid;
+    rt_cam_sweep_pixel_delay_28_vtg_last <= rt_cam_sweep_pixel_delay_27_vtg_last;
+    rt_cam_sweep_pixel_delay_28_vtg_de <= rt_cam_sweep_pixel_delay_27_vtg_de;
+    rt_cam_sweep_pixel_delay_28_vtg_hsync <= rt_cam_sweep_pixel_delay_27_vtg_hsync;
+    rt_cam_sweep_pixel_delay_28_vtg_vsync <= rt_cam_sweep_pixel_delay_27_vtg_vsync;
     rt_cam_sweep_pixel_delay_29_vsync <= rt_cam_sweep_pixel_delay_28_vsync;
     rt_cam_sweep_pixel_delay_29_req <= rt_cam_sweep_pixel_delay_28_req;
     rt_cam_sweep_pixel_delay_29_eol <= rt_cam_sweep_pixel_delay_28_eol;
@@ -17206,6 +17231,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_29_pixel_r <= rt_cam_sweep_pixel_delay_28_pixel_r;
     rt_cam_sweep_pixel_delay_29_pixel_g <= rt_cam_sweep_pixel_delay_28_pixel_g;
     rt_cam_sweep_pixel_delay_29_pixel_b <= rt_cam_sweep_pixel_delay_28_pixel_b;
+    rt_cam_sweep_pixel_delay_29_vtg_valid <= rt_cam_sweep_pixel_delay_28_vtg_valid;
+    rt_cam_sweep_pixel_delay_29_vtg_last <= rt_cam_sweep_pixel_delay_28_vtg_last;
+    rt_cam_sweep_pixel_delay_29_vtg_de <= rt_cam_sweep_pixel_delay_28_vtg_de;
+    rt_cam_sweep_pixel_delay_29_vtg_hsync <= rt_cam_sweep_pixel_delay_28_vtg_hsync;
+    rt_cam_sweep_pixel_delay_29_vtg_vsync <= rt_cam_sweep_pixel_delay_28_vtg_vsync;
     rt_cam_sweep_pixel_delay_30_vsync <= rt_cam_sweep_pixel_delay_29_vsync;
     rt_cam_sweep_pixel_delay_30_req <= rt_cam_sweep_pixel_delay_29_req;
     rt_cam_sweep_pixel_delay_30_eol <= rt_cam_sweep_pixel_delay_29_eol;
@@ -17213,6 +17243,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_30_pixel_r <= rt_cam_sweep_pixel_delay_29_pixel_r;
     rt_cam_sweep_pixel_delay_30_pixel_g <= rt_cam_sweep_pixel_delay_29_pixel_g;
     rt_cam_sweep_pixel_delay_30_pixel_b <= rt_cam_sweep_pixel_delay_29_pixel_b;
+    rt_cam_sweep_pixel_delay_30_vtg_valid <= rt_cam_sweep_pixel_delay_29_vtg_valid;
+    rt_cam_sweep_pixel_delay_30_vtg_last <= rt_cam_sweep_pixel_delay_29_vtg_last;
+    rt_cam_sweep_pixel_delay_30_vtg_de <= rt_cam_sweep_pixel_delay_29_vtg_de;
+    rt_cam_sweep_pixel_delay_30_vtg_hsync <= rt_cam_sweep_pixel_delay_29_vtg_hsync;
+    rt_cam_sweep_pixel_delay_30_vtg_vsync <= rt_cam_sweep_pixel_delay_29_vtg_vsync;
     rt_cam_sweep_pixel_delay_31_vsync <= rt_cam_sweep_pixel_delay_30_vsync;
     rt_cam_sweep_pixel_delay_31_req <= rt_cam_sweep_pixel_delay_30_req;
     rt_cam_sweep_pixel_delay_31_eol <= rt_cam_sweep_pixel_delay_30_eol;
@@ -17220,6 +17255,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_31_pixel_r <= rt_cam_sweep_pixel_delay_30_pixel_r;
     rt_cam_sweep_pixel_delay_31_pixel_g <= rt_cam_sweep_pixel_delay_30_pixel_g;
     rt_cam_sweep_pixel_delay_31_pixel_b <= rt_cam_sweep_pixel_delay_30_pixel_b;
+    rt_cam_sweep_pixel_delay_31_vtg_valid <= rt_cam_sweep_pixel_delay_30_vtg_valid;
+    rt_cam_sweep_pixel_delay_31_vtg_last <= rt_cam_sweep_pixel_delay_30_vtg_last;
+    rt_cam_sweep_pixel_delay_31_vtg_de <= rt_cam_sweep_pixel_delay_30_vtg_de;
+    rt_cam_sweep_pixel_delay_31_vtg_hsync <= rt_cam_sweep_pixel_delay_30_vtg_hsync;
+    rt_cam_sweep_pixel_delay_31_vtg_vsync <= rt_cam_sweep_pixel_delay_30_vtg_vsync;
     rt_cam_sweep_pixel_delay_32_vsync <= rt_cam_sweep_pixel_delay_31_vsync;
     rt_cam_sweep_pixel_delay_32_req <= rt_cam_sweep_pixel_delay_31_req;
     rt_cam_sweep_pixel_delay_32_eol <= rt_cam_sweep_pixel_delay_31_eol;
@@ -17227,6 +17267,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_32_pixel_r <= rt_cam_sweep_pixel_delay_31_pixel_r;
     rt_cam_sweep_pixel_delay_32_pixel_g <= rt_cam_sweep_pixel_delay_31_pixel_g;
     rt_cam_sweep_pixel_delay_32_pixel_b <= rt_cam_sweep_pixel_delay_31_pixel_b;
+    rt_cam_sweep_pixel_delay_32_vtg_valid <= rt_cam_sweep_pixel_delay_31_vtg_valid;
+    rt_cam_sweep_pixel_delay_32_vtg_last <= rt_cam_sweep_pixel_delay_31_vtg_last;
+    rt_cam_sweep_pixel_delay_32_vtg_de <= rt_cam_sweep_pixel_delay_31_vtg_de;
+    rt_cam_sweep_pixel_delay_32_vtg_hsync <= rt_cam_sweep_pixel_delay_31_vtg_hsync;
+    rt_cam_sweep_pixel_delay_32_vtg_vsync <= rt_cam_sweep_pixel_delay_31_vtg_vsync;
     rt_cam_sweep_pixel_delay_33_vsync <= rt_cam_sweep_pixel_delay_32_vsync;
     rt_cam_sweep_pixel_delay_33_req <= rt_cam_sweep_pixel_delay_32_req;
     rt_cam_sweep_pixel_delay_33_eol <= rt_cam_sweep_pixel_delay_32_eol;
@@ -17234,6 +17279,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_33_pixel_r <= rt_cam_sweep_pixel_delay_32_pixel_r;
     rt_cam_sweep_pixel_delay_33_pixel_g <= rt_cam_sweep_pixel_delay_32_pixel_g;
     rt_cam_sweep_pixel_delay_33_pixel_b <= rt_cam_sweep_pixel_delay_32_pixel_b;
+    rt_cam_sweep_pixel_delay_33_vtg_valid <= rt_cam_sweep_pixel_delay_32_vtg_valid;
+    rt_cam_sweep_pixel_delay_33_vtg_last <= rt_cam_sweep_pixel_delay_32_vtg_last;
+    rt_cam_sweep_pixel_delay_33_vtg_de <= rt_cam_sweep_pixel_delay_32_vtg_de;
+    rt_cam_sweep_pixel_delay_33_vtg_hsync <= rt_cam_sweep_pixel_delay_32_vtg_hsync;
+    rt_cam_sweep_pixel_delay_33_vtg_vsync <= rt_cam_sweep_pixel_delay_32_vtg_vsync;
     rt_cam_sweep_pixel_delay_34_vsync <= rt_cam_sweep_pixel_delay_33_vsync;
     rt_cam_sweep_pixel_delay_34_req <= rt_cam_sweep_pixel_delay_33_req;
     rt_cam_sweep_pixel_delay_34_eol <= rt_cam_sweep_pixel_delay_33_eol;
@@ -17241,6 +17291,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_34_pixel_r <= rt_cam_sweep_pixel_delay_33_pixel_r;
     rt_cam_sweep_pixel_delay_34_pixel_g <= rt_cam_sweep_pixel_delay_33_pixel_g;
     rt_cam_sweep_pixel_delay_34_pixel_b <= rt_cam_sweep_pixel_delay_33_pixel_b;
+    rt_cam_sweep_pixel_delay_34_vtg_valid <= rt_cam_sweep_pixel_delay_33_vtg_valid;
+    rt_cam_sweep_pixel_delay_34_vtg_last <= rt_cam_sweep_pixel_delay_33_vtg_last;
+    rt_cam_sweep_pixel_delay_34_vtg_de <= rt_cam_sweep_pixel_delay_33_vtg_de;
+    rt_cam_sweep_pixel_delay_34_vtg_hsync <= rt_cam_sweep_pixel_delay_33_vtg_hsync;
+    rt_cam_sweep_pixel_delay_34_vtg_vsync <= rt_cam_sweep_pixel_delay_33_vtg_vsync;
     rt_cam_sweep_pixel_delay_35_vsync <= rt_cam_sweep_pixel_delay_34_vsync;
     rt_cam_sweep_pixel_delay_35_req <= rt_cam_sweep_pixel_delay_34_req;
     rt_cam_sweep_pixel_delay_35_eol <= rt_cam_sweep_pixel_delay_34_eol;
@@ -17248,6 +17303,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_35_pixel_r <= rt_cam_sweep_pixel_delay_34_pixel_r;
     rt_cam_sweep_pixel_delay_35_pixel_g <= rt_cam_sweep_pixel_delay_34_pixel_g;
     rt_cam_sweep_pixel_delay_35_pixel_b <= rt_cam_sweep_pixel_delay_34_pixel_b;
+    rt_cam_sweep_pixel_delay_35_vtg_valid <= rt_cam_sweep_pixel_delay_34_vtg_valid;
+    rt_cam_sweep_pixel_delay_35_vtg_last <= rt_cam_sweep_pixel_delay_34_vtg_last;
+    rt_cam_sweep_pixel_delay_35_vtg_de <= rt_cam_sweep_pixel_delay_34_vtg_de;
+    rt_cam_sweep_pixel_delay_35_vtg_hsync <= rt_cam_sweep_pixel_delay_34_vtg_hsync;
+    rt_cam_sweep_pixel_delay_35_vtg_vsync <= rt_cam_sweep_pixel_delay_34_vtg_vsync;
     rt_cam_sweep_pixel_delay_36_vsync <= rt_cam_sweep_pixel_delay_35_vsync;
     rt_cam_sweep_pixel_delay_36_req <= rt_cam_sweep_pixel_delay_35_req;
     rt_cam_sweep_pixel_delay_36_eol <= rt_cam_sweep_pixel_delay_35_eol;
@@ -17255,6 +17315,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_36_pixel_r <= rt_cam_sweep_pixel_delay_35_pixel_r;
     rt_cam_sweep_pixel_delay_36_pixel_g <= rt_cam_sweep_pixel_delay_35_pixel_g;
     rt_cam_sweep_pixel_delay_36_pixel_b <= rt_cam_sweep_pixel_delay_35_pixel_b;
+    rt_cam_sweep_pixel_delay_36_vtg_valid <= rt_cam_sweep_pixel_delay_35_vtg_valid;
+    rt_cam_sweep_pixel_delay_36_vtg_last <= rt_cam_sweep_pixel_delay_35_vtg_last;
+    rt_cam_sweep_pixel_delay_36_vtg_de <= rt_cam_sweep_pixel_delay_35_vtg_de;
+    rt_cam_sweep_pixel_delay_36_vtg_hsync <= rt_cam_sweep_pixel_delay_35_vtg_hsync;
+    rt_cam_sweep_pixel_delay_36_vtg_vsync <= rt_cam_sweep_pixel_delay_35_vtg_vsync;
     rt_cam_sweep_pixel_delay_37_vsync <= rt_cam_sweep_pixel_delay_36_vsync;
     rt_cam_sweep_pixel_delay_37_req <= rt_cam_sweep_pixel_delay_36_req;
     rt_cam_sweep_pixel_delay_37_eol <= rt_cam_sweep_pixel_delay_36_eol;
@@ -17262,6 +17327,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_37_pixel_r <= rt_cam_sweep_pixel_delay_36_pixel_r;
     rt_cam_sweep_pixel_delay_37_pixel_g <= rt_cam_sweep_pixel_delay_36_pixel_g;
     rt_cam_sweep_pixel_delay_37_pixel_b <= rt_cam_sweep_pixel_delay_36_pixel_b;
+    rt_cam_sweep_pixel_delay_37_vtg_valid <= rt_cam_sweep_pixel_delay_36_vtg_valid;
+    rt_cam_sweep_pixel_delay_37_vtg_last <= rt_cam_sweep_pixel_delay_36_vtg_last;
+    rt_cam_sweep_pixel_delay_37_vtg_de <= rt_cam_sweep_pixel_delay_36_vtg_de;
+    rt_cam_sweep_pixel_delay_37_vtg_hsync <= rt_cam_sweep_pixel_delay_36_vtg_hsync;
+    rt_cam_sweep_pixel_delay_37_vtg_vsync <= rt_cam_sweep_pixel_delay_36_vtg_vsync;
     rt_cam_sweep_pixel_delay_38_vsync <= rt_cam_sweep_pixel_delay_37_vsync;
     rt_cam_sweep_pixel_delay_38_req <= rt_cam_sweep_pixel_delay_37_req;
     rt_cam_sweep_pixel_delay_38_eol <= rt_cam_sweep_pixel_delay_37_eol;
@@ -17269,6 +17339,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_38_pixel_r <= rt_cam_sweep_pixel_delay_37_pixel_r;
     rt_cam_sweep_pixel_delay_38_pixel_g <= rt_cam_sweep_pixel_delay_37_pixel_g;
     rt_cam_sweep_pixel_delay_38_pixel_b <= rt_cam_sweep_pixel_delay_37_pixel_b;
+    rt_cam_sweep_pixel_delay_38_vtg_valid <= rt_cam_sweep_pixel_delay_37_vtg_valid;
+    rt_cam_sweep_pixel_delay_38_vtg_last <= rt_cam_sweep_pixel_delay_37_vtg_last;
+    rt_cam_sweep_pixel_delay_38_vtg_de <= rt_cam_sweep_pixel_delay_37_vtg_de;
+    rt_cam_sweep_pixel_delay_38_vtg_hsync <= rt_cam_sweep_pixel_delay_37_vtg_hsync;
+    rt_cam_sweep_pixel_delay_38_vtg_vsync <= rt_cam_sweep_pixel_delay_37_vtg_vsync;
     rt_cam_sweep_pixel_delay_39_vsync <= rt_cam_sweep_pixel_delay_38_vsync;
     rt_cam_sweep_pixel_delay_39_req <= rt_cam_sweep_pixel_delay_38_req;
     rt_cam_sweep_pixel_delay_39_eol <= rt_cam_sweep_pixel_delay_38_eol;
@@ -17276,6 +17351,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_39_pixel_r <= rt_cam_sweep_pixel_delay_38_pixel_r;
     rt_cam_sweep_pixel_delay_39_pixel_g <= rt_cam_sweep_pixel_delay_38_pixel_g;
     rt_cam_sweep_pixel_delay_39_pixel_b <= rt_cam_sweep_pixel_delay_38_pixel_b;
+    rt_cam_sweep_pixel_delay_39_vtg_valid <= rt_cam_sweep_pixel_delay_38_vtg_valid;
+    rt_cam_sweep_pixel_delay_39_vtg_last <= rt_cam_sweep_pixel_delay_38_vtg_last;
+    rt_cam_sweep_pixel_delay_39_vtg_de <= rt_cam_sweep_pixel_delay_38_vtg_de;
+    rt_cam_sweep_pixel_delay_39_vtg_hsync <= rt_cam_sweep_pixel_delay_38_vtg_hsync;
+    rt_cam_sweep_pixel_delay_39_vtg_vsync <= rt_cam_sweep_pixel_delay_38_vtg_vsync;
     rt_cam_sweep_pixel_delay_40_vsync <= rt_cam_sweep_pixel_delay_39_vsync;
     rt_cam_sweep_pixel_delay_40_req <= rt_cam_sweep_pixel_delay_39_req;
     rt_cam_sweep_pixel_delay_40_eol <= rt_cam_sweep_pixel_delay_39_eol;
@@ -17283,6 +17363,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_40_pixel_r <= rt_cam_sweep_pixel_delay_39_pixel_r;
     rt_cam_sweep_pixel_delay_40_pixel_g <= rt_cam_sweep_pixel_delay_39_pixel_g;
     rt_cam_sweep_pixel_delay_40_pixel_b <= rt_cam_sweep_pixel_delay_39_pixel_b;
+    rt_cam_sweep_pixel_delay_40_vtg_valid <= rt_cam_sweep_pixel_delay_39_vtg_valid;
+    rt_cam_sweep_pixel_delay_40_vtg_last <= rt_cam_sweep_pixel_delay_39_vtg_last;
+    rt_cam_sweep_pixel_delay_40_vtg_de <= rt_cam_sweep_pixel_delay_39_vtg_de;
+    rt_cam_sweep_pixel_delay_40_vtg_hsync <= rt_cam_sweep_pixel_delay_39_vtg_hsync;
+    rt_cam_sweep_pixel_delay_40_vtg_vsync <= rt_cam_sweep_pixel_delay_39_vtg_vsync;
     rt_cam_sweep_pixel_delay_41_vsync <= rt_cam_sweep_pixel_delay_40_vsync;
     rt_cam_sweep_pixel_delay_41_req <= rt_cam_sweep_pixel_delay_40_req;
     rt_cam_sweep_pixel_delay_41_eol <= rt_cam_sweep_pixel_delay_40_eol;
@@ -17290,6 +17375,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_41_pixel_r <= rt_cam_sweep_pixel_delay_40_pixel_r;
     rt_cam_sweep_pixel_delay_41_pixel_g <= rt_cam_sweep_pixel_delay_40_pixel_g;
     rt_cam_sweep_pixel_delay_41_pixel_b <= rt_cam_sweep_pixel_delay_40_pixel_b;
+    rt_cam_sweep_pixel_delay_41_vtg_valid <= rt_cam_sweep_pixel_delay_40_vtg_valid;
+    rt_cam_sweep_pixel_delay_41_vtg_last <= rt_cam_sweep_pixel_delay_40_vtg_last;
+    rt_cam_sweep_pixel_delay_41_vtg_de <= rt_cam_sweep_pixel_delay_40_vtg_de;
+    rt_cam_sweep_pixel_delay_41_vtg_hsync <= rt_cam_sweep_pixel_delay_40_vtg_hsync;
+    rt_cam_sweep_pixel_delay_41_vtg_vsync <= rt_cam_sweep_pixel_delay_40_vtg_vsync;
     rt_cam_sweep_pixel_delay_42_vsync <= rt_cam_sweep_pixel_delay_41_vsync;
     rt_cam_sweep_pixel_delay_42_req <= rt_cam_sweep_pixel_delay_41_req;
     rt_cam_sweep_pixel_delay_42_eol <= rt_cam_sweep_pixel_delay_41_eol;
@@ -17297,6 +17387,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_42_pixel_r <= rt_cam_sweep_pixel_delay_41_pixel_r;
     rt_cam_sweep_pixel_delay_42_pixel_g <= rt_cam_sweep_pixel_delay_41_pixel_g;
     rt_cam_sweep_pixel_delay_42_pixel_b <= rt_cam_sweep_pixel_delay_41_pixel_b;
+    rt_cam_sweep_pixel_delay_42_vtg_valid <= rt_cam_sweep_pixel_delay_41_vtg_valid;
+    rt_cam_sweep_pixel_delay_42_vtg_last <= rt_cam_sweep_pixel_delay_41_vtg_last;
+    rt_cam_sweep_pixel_delay_42_vtg_de <= rt_cam_sweep_pixel_delay_41_vtg_de;
+    rt_cam_sweep_pixel_delay_42_vtg_hsync <= rt_cam_sweep_pixel_delay_41_vtg_hsync;
+    rt_cam_sweep_pixel_delay_42_vtg_vsync <= rt_cam_sweep_pixel_delay_41_vtg_vsync;
     rt_cam_sweep_pixel_delay_43_vsync <= rt_cam_sweep_pixel_delay_42_vsync;
     rt_cam_sweep_pixel_delay_43_req <= rt_cam_sweep_pixel_delay_42_req;
     rt_cam_sweep_pixel_delay_43_eol <= rt_cam_sweep_pixel_delay_42_eol;
@@ -17304,6 +17399,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_43_pixel_r <= rt_cam_sweep_pixel_delay_42_pixel_r;
     rt_cam_sweep_pixel_delay_43_pixel_g <= rt_cam_sweep_pixel_delay_42_pixel_g;
     rt_cam_sweep_pixel_delay_43_pixel_b <= rt_cam_sweep_pixel_delay_42_pixel_b;
+    rt_cam_sweep_pixel_delay_43_vtg_valid <= rt_cam_sweep_pixel_delay_42_vtg_valid;
+    rt_cam_sweep_pixel_delay_43_vtg_last <= rt_cam_sweep_pixel_delay_42_vtg_last;
+    rt_cam_sweep_pixel_delay_43_vtg_de <= rt_cam_sweep_pixel_delay_42_vtg_de;
+    rt_cam_sweep_pixel_delay_43_vtg_hsync <= rt_cam_sweep_pixel_delay_42_vtg_hsync;
+    rt_cam_sweep_pixel_delay_43_vtg_vsync <= rt_cam_sweep_pixel_delay_42_vtg_vsync;
     rt_cam_sweep_pixel_delay_44_vsync <= rt_cam_sweep_pixel_delay_43_vsync;
     rt_cam_sweep_pixel_delay_44_req <= rt_cam_sweep_pixel_delay_43_req;
     rt_cam_sweep_pixel_delay_44_eol <= rt_cam_sweep_pixel_delay_43_eol;
@@ -17311,6 +17411,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_44_pixel_r <= rt_cam_sweep_pixel_delay_43_pixel_r;
     rt_cam_sweep_pixel_delay_44_pixel_g <= rt_cam_sweep_pixel_delay_43_pixel_g;
     rt_cam_sweep_pixel_delay_44_pixel_b <= rt_cam_sweep_pixel_delay_43_pixel_b;
+    rt_cam_sweep_pixel_delay_44_vtg_valid <= rt_cam_sweep_pixel_delay_43_vtg_valid;
+    rt_cam_sweep_pixel_delay_44_vtg_last <= rt_cam_sweep_pixel_delay_43_vtg_last;
+    rt_cam_sweep_pixel_delay_44_vtg_de <= rt_cam_sweep_pixel_delay_43_vtg_de;
+    rt_cam_sweep_pixel_delay_44_vtg_hsync <= rt_cam_sweep_pixel_delay_43_vtg_hsync;
+    rt_cam_sweep_pixel_delay_44_vtg_vsync <= rt_cam_sweep_pixel_delay_43_vtg_vsync;
     rt_cam_sweep_pixel_delay_45_vsync <= rt_cam_sweep_pixel_delay_44_vsync;
     rt_cam_sweep_pixel_delay_45_req <= rt_cam_sweep_pixel_delay_44_req;
     rt_cam_sweep_pixel_delay_45_eol <= rt_cam_sweep_pixel_delay_44_eol;
@@ -17318,6 +17423,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_45_pixel_r <= rt_cam_sweep_pixel_delay_44_pixel_r;
     rt_cam_sweep_pixel_delay_45_pixel_g <= rt_cam_sweep_pixel_delay_44_pixel_g;
     rt_cam_sweep_pixel_delay_45_pixel_b <= rt_cam_sweep_pixel_delay_44_pixel_b;
+    rt_cam_sweep_pixel_delay_45_vtg_valid <= rt_cam_sweep_pixel_delay_44_vtg_valid;
+    rt_cam_sweep_pixel_delay_45_vtg_last <= rt_cam_sweep_pixel_delay_44_vtg_last;
+    rt_cam_sweep_pixel_delay_45_vtg_de <= rt_cam_sweep_pixel_delay_44_vtg_de;
+    rt_cam_sweep_pixel_delay_45_vtg_hsync <= rt_cam_sweep_pixel_delay_44_vtg_hsync;
+    rt_cam_sweep_pixel_delay_45_vtg_vsync <= rt_cam_sweep_pixel_delay_44_vtg_vsync;
     rt_cam_sweep_pixel_delay_46_vsync <= rt_cam_sweep_pixel_delay_45_vsync;
     rt_cam_sweep_pixel_delay_46_req <= rt_cam_sweep_pixel_delay_45_req;
     rt_cam_sweep_pixel_delay_46_eol <= rt_cam_sweep_pixel_delay_45_eol;
@@ -17325,6 +17435,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_46_pixel_r <= rt_cam_sweep_pixel_delay_45_pixel_r;
     rt_cam_sweep_pixel_delay_46_pixel_g <= rt_cam_sweep_pixel_delay_45_pixel_g;
     rt_cam_sweep_pixel_delay_46_pixel_b <= rt_cam_sweep_pixel_delay_45_pixel_b;
+    rt_cam_sweep_pixel_delay_46_vtg_valid <= rt_cam_sweep_pixel_delay_45_vtg_valid;
+    rt_cam_sweep_pixel_delay_46_vtg_last <= rt_cam_sweep_pixel_delay_45_vtg_last;
+    rt_cam_sweep_pixel_delay_46_vtg_de <= rt_cam_sweep_pixel_delay_45_vtg_de;
+    rt_cam_sweep_pixel_delay_46_vtg_hsync <= rt_cam_sweep_pixel_delay_45_vtg_hsync;
+    rt_cam_sweep_pixel_delay_46_vtg_vsync <= rt_cam_sweep_pixel_delay_45_vtg_vsync;
     rt_cam_sweep_pixel_delay_47_vsync <= rt_cam_sweep_pixel_delay_46_vsync;
     rt_cam_sweep_pixel_delay_47_req <= rt_cam_sweep_pixel_delay_46_req;
     rt_cam_sweep_pixel_delay_47_eol <= rt_cam_sweep_pixel_delay_46_eol;
@@ -17332,6 +17447,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_47_pixel_r <= rt_cam_sweep_pixel_delay_46_pixel_r;
     rt_cam_sweep_pixel_delay_47_pixel_g <= rt_cam_sweep_pixel_delay_46_pixel_g;
     rt_cam_sweep_pixel_delay_47_pixel_b <= rt_cam_sweep_pixel_delay_46_pixel_b;
+    rt_cam_sweep_pixel_delay_47_vtg_valid <= rt_cam_sweep_pixel_delay_46_vtg_valid;
+    rt_cam_sweep_pixel_delay_47_vtg_last <= rt_cam_sweep_pixel_delay_46_vtg_last;
+    rt_cam_sweep_pixel_delay_47_vtg_de <= rt_cam_sweep_pixel_delay_46_vtg_de;
+    rt_cam_sweep_pixel_delay_47_vtg_hsync <= rt_cam_sweep_pixel_delay_46_vtg_hsync;
+    rt_cam_sweep_pixel_delay_47_vtg_vsync <= rt_cam_sweep_pixel_delay_46_vtg_vsync;
     rt_cam_sweep_pixel_delay_48_vsync <= rt_cam_sweep_pixel_delay_47_vsync;
     rt_cam_sweep_pixel_delay_48_req <= rt_cam_sweep_pixel_delay_47_req;
     rt_cam_sweep_pixel_delay_48_eol <= rt_cam_sweep_pixel_delay_47_eol;
@@ -17339,6 +17459,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_48_pixel_r <= rt_cam_sweep_pixel_delay_47_pixel_r;
     rt_cam_sweep_pixel_delay_48_pixel_g <= rt_cam_sweep_pixel_delay_47_pixel_g;
     rt_cam_sweep_pixel_delay_48_pixel_b <= rt_cam_sweep_pixel_delay_47_pixel_b;
+    rt_cam_sweep_pixel_delay_48_vtg_valid <= rt_cam_sweep_pixel_delay_47_vtg_valid;
+    rt_cam_sweep_pixel_delay_48_vtg_last <= rt_cam_sweep_pixel_delay_47_vtg_last;
+    rt_cam_sweep_pixel_delay_48_vtg_de <= rt_cam_sweep_pixel_delay_47_vtg_de;
+    rt_cam_sweep_pixel_delay_48_vtg_hsync <= rt_cam_sweep_pixel_delay_47_vtg_hsync;
+    rt_cam_sweep_pixel_delay_48_vtg_vsync <= rt_cam_sweep_pixel_delay_47_vtg_vsync;
     rt_cam_sweep_pixel_delay_49_vsync <= rt_cam_sweep_pixel_delay_48_vsync;
     rt_cam_sweep_pixel_delay_49_req <= rt_cam_sweep_pixel_delay_48_req;
     rt_cam_sweep_pixel_delay_49_eol <= rt_cam_sweep_pixel_delay_48_eol;
@@ -17346,6 +17471,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_49_pixel_r <= rt_cam_sweep_pixel_delay_48_pixel_r;
     rt_cam_sweep_pixel_delay_49_pixel_g <= rt_cam_sweep_pixel_delay_48_pixel_g;
     rt_cam_sweep_pixel_delay_49_pixel_b <= rt_cam_sweep_pixel_delay_48_pixel_b;
+    rt_cam_sweep_pixel_delay_49_vtg_valid <= rt_cam_sweep_pixel_delay_48_vtg_valid;
+    rt_cam_sweep_pixel_delay_49_vtg_last <= rt_cam_sweep_pixel_delay_48_vtg_last;
+    rt_cam_sweep_pixel_delay_49_vtg_de <= rt_cam_sweep_pixel_delay_48_vtg_de;
+    rt_cam_sweep_pixel_delay_49_vtg_hsync <= rt_cam_sweep_pixel_delay_48_vtg_hsync;
+    rt_cam_sweep_pixel_delay_49_vtg_vsync <= rt_cam_sweep_pixel_delay_48_vtg_vsync;
     rt_cam_sweep_pixel_delay_50_vsync <= rt_cam_sweep_pixel_delay_49_vsync;
     rt_cam_sweep_pixel_delay_50_req <= rt_cam_sweep_pixel_delay_49_req;
     rt_cam_sweep_pixel_delay_50_eol <= rt_cam_sweep_pixel_delay_49_eol;
@@ -17353,6 +17483,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_50_pixel_r <= rt_cam_sweep_pixel_delay_49_pixel_r;
     rt_cam_sweep_pixel_delay_50_pixel_g <= rt_cam_sweep_pixel_delay_49_pixel_g;
     rt_cam_sweep_pixel_delay_50_pixel_b <= rt_cam_sweep_pixel_delay_49_pixel_b;
+    rt_cam_sweep_pixel_delay_50_vtg_valid <= rt_cam_sweep_pixel_delay_49_vtg_valid;
+    rt_cam_sweep_pixel_delay_50_vtg_last <= rt_cam_sweep_pixel_delay_49_vtg_last;
+    rt_cam_sweep_pixel_delay_50_vtg_de <= rt_cam_sweep_pixel_delay_49_vtg_de;
+    rt_cam_sweep_pixel_delay_50_vtg_hsync <= rt_cam_sweep_pixel_delay_49_vtg_hsync;
+    rt_cam_sweep_pixel_delay_50_vtg_vsync <= rt_cam_sweep_pixel_delay_49_vtg_vsync;
     rt_cam_sweep_pixel_delay_51_vsync <= rt_cam_sweep_pixel_delay_50_vsync;
     rt_cam_sweep_pixel_delay_51_req <= rt_cam_sweep_pixel_delay_50_req;
     rt_cam_sweep_pixel_delay_51_eol <= rt_cam_sweep_pixel_delay_50_eol;
@@ -17360,6 +17495,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_51_pixel_r <= rt_cam_sweep_pixel_delay_50_pixel_r;
     rt_cam_sweep_pixel_delay_51_pixel_g <= rt_cam_sweep_pixel_delay_50_pixel_g;
     rt_cam_sweep_pixel_delay_51_pixel_b <= rt_cam_sweep_pixel_delay_50_pixel_b;
+    rt_cam_sweep_pixel_delay_51_vtg_valid <= rt_cam_sweep_pixel_delay_50_vtg_valid;
+    rt_cam_sweep_pixel_delay_51_vtg_last <= rt_cam_sweep_pixel_delay_50_vtg_last;
+    rt_cam_sweep_pixel_delay_51_vtg_de <= rt_cam_sweep_pixel_delay_50_vtg_de;
+    rt_cam_sweep_pixel_delay_51_vtg_hsync <= rt_cam_sweep_pixel_delay_50_vtg_hsync;
+    rt_cam_sweep_pixel_delay_51_vtg_vsync <= rt_cam_sweep_pixel_delay_50_vtg_vsync;
     rt_cam_sweep_pixel_delay_52_vsync <= rt_cam_sweep_pixel_delay_51_vsync;
     rt_cam_sweep_pixel_delay_52_req <= rt_cam_sweep_pixel_delay_51_req;
     rt_cam_sweep_pixel_delay_52_eol <= rt_cam_sweep_pixel_delay_51_eol;
@@ -17367,6 +17507,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_52_pixel_r <= rt_cam_sweep_pixel_delay_51_pixel_r;
     rt_cam_sweep_pixel_delay_52_pixel_g <= rt_cam_sweep_pixel_delay_51_pixel_g;
     rt_cam_sweep_pixel_delay_52_pixel_b <= rt_cam_sweep_pixel_delay_51_pixel_b;
+    rt_cam_sweep_pixel_delay_52_vtg_valid <= rt_cam_sweep_pixel_delay_51_vtg_valid;
+    rt_cam_sweep_pixel_delay_52_vtg_last <= rt_cam_sweep_pixel_delay_51_vtg_last;
+    rt_cam_sweep_pixel_delay_52_vtg_de <= rt_cam_sweep_pixel_delay_51_vtg_de;
+    rt_cam_sweep_pixel_delay_52_vtg_hsync <= rt_cam_sweep_pixel_delay_51_vtg_hsync;
+    rt_cam_sweep_pixel_delay_52_vtg_vsync <= rt_cam_sweep_pixel_delay_51_vtg_vsync;
     rt_cam_sweep_pixel_delay_53_vsync <= rt_cam_sweep_pixel_delay_52_vsync;
     rt_cam_sweep_pixel_delay_53_req <= rt_cam_sweep_pixel_delay_52_req;
     rt_cam_sweep_pixel_delay_53_eol <= rt_cam_sweep_pixel_delay_52_eol;
@@ -17374,6 +17519,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_53_pixel_r <= rt_cam_sweep_pixel_delay_52_pixel_r;
     rt_cam_sweep_pixel_delay_53_pixel_g <= rt_cam_sweep_pixel_delay_52_pixel_g;
     rt_cam_sweep_pixel_delay_53_pixel_b <= rt_cam_sweep_pixel_delay_52_pixel_b;
+    rt_cam_sweep_pixel_delay_53_vtg_valid <= rt_cam_sweep_pixel_delay_52_vtg_valid;
+    rt_cam_sweep_pixel_delay_53_vtg_last <= rt_cam_sweep_pixel_delay_52_vtg_last;
+    rt_cam_sweep_pixel_delay_53_vtg_de <= rt_cam_sweep_pixel_delay_52_vtg_de;
+    rt_cam_sweep_pixel_delay_53_vtg_hsync <= rt_cam_sweep_pixel_delay_52_vtg_hsync;
+    rt_cam_sweep_pixel_delay_53_vtg_vsync <= rt_cam_sweep_pixel_delay_52_vtg_vsync;
     rt_cam_sweep_pixel_delay_54_vsync <= rt_cam_sweep_pixel_delay_53_vsync;
     rt_cam_sweep_pixel_delay_54_req <= rt_cam_sweep_pixel_delay_53_req;
     rt_cam_sweep_pixel_delay_54_eol <= rt_cam_sweep_pixel_delay_53_eol;
@@ -17381,6 +17531,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_54_pixel_r <= rt_cam_sweep_pixel_delay_53_pixel_r;
     rt_cam_sweep_pixel_delay_54_pixel_g <= rt_cam_sweep_pixel_delay_53_pixel_g;
     rt_cam_sweep_pixel_delay_54_pixel_b <= rt_cam_sweep_pixel_delay_53_pixel_b;
+    rt_cam_sweep_pixel_delay_54_vtg_valid <= rt_cam_sweep_pixel_delay_53_vtg_valid;
+    rt_cam_sweep_pixel_delay_54_vtg_last <= rt_cam_sweep_pixel_delay_53_vtg_last;
+    rt_cam_sweep_pixel_delay_54_vtg_de <= rt_cam_sweep_pixel_delay_53_vtg_de;
+    rt_cam_sweep_pixel_delay_54_vtg_hsync <= rt_cam_sweep_pixel_delay_53_vtg_hsync;
+    rt_cam_sweep_pixel_delay_54_vtg_vsync <= rt_cam_sweep_pixel_delay_53_vtg_vsync;
     rt_cam_sweep_pixel_delay_55_vsync <= rt_cam_sweep_pixel_delay_54_vsync;
     rt_cam_sweep_pixel_delay_55_req <= rt_cam_sweep_pixel_delay_54_req;
     rt_cam_sweep_pixel_delay_55_eol <= rt_cam_sweep_pixel_delay_54_eol;
@@ -17388,6 +17543,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_55_pixel_r <= rt_cam_sweep_pixel_delay_54_pixel_r;
     rt_cam_sweep_pixel_delay_55_pixel_g <= rt_cam_sweep_pixel_delay_54_pixel_g;
     rt_cam_sweep_pixel_delay_55_pixel_b <= rt_cam_sweep_pixel_delay_54_pixel_b;
+    rt_cam_sweep_pixel_delay_55_vtg_valid <= rt_cam_sweep_pixel_delay_54_vtg_valid;
+    rt_cam_sweep_pixel_delay_55_vtg_last <= rt_cam_sweep_pixel_delay_54_vtg_last;
+    rt_cam_sweep_pixel_delay_55_vtg_de <= rt_cam_sweep_pixel_delay_54_vtg_de;
+    rt_cam_sweep_pixel_delay_55_vtg_hsync <= rt_cam_sweep_pixel_delay_54_vtg_hsync;
+    rt_cam_sweep_pixel_delay_55_vtg_vsync <= rt_cam_sweep_pixel_delay_54_vtg_vsync;
     rt_cam_sweep_pixel_delay_56_vsync <= rt_cam_sweep_pixel_delay_55_vsync;
     rt_cam_sweep_pixel_delay_56_req <= rt_cam_sweep_pixel_delay_55_req;
     rt_cam_sweep_pixel_delay_56_eol <= rt_cam_sweep_pixel_delay_55_eol;
@@ -17395,6 +17555,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_56_pixel_r <= rt_cam_sweep_pixel_delay_55_pixel_r;
     rt_cam_sweep_pixel_delay_56_pixel_g <= rt_cam_sweep_pixel_delay_55_pixel_g;
     rt_cam_sweep_pixel_delay_56_pixel_b <= rt_cam_sweep_pixel_delay_55_pixel_b;
+    rt_cam_sweep_pixel_delay_56_vtg_valid <= rt_cam_sweep_pixel_delay_55_vtg_valid;
+    rt_cam_sweep_pixel_delay_56_vtg_last <= rt_cam_sweep_pixel_delay_55_vtg_last;
+    rt_cam_sweep_pixel_delay_56_vtg_de <= rt_cam_sweep_pixel_delay_55_vtg_de;
+    rt_cam_sweep_pixel_delay_56_vtg_hsync <= rt_cam_sweep_pixel_delay_55_vtg_hsync;
+    rt_cam_sweep_pixel_delay_56_vtg_vsync <= rt_cam_sweep_pixel_delay_55_vtg_vsync;
     rt_cam_sweep_pixel_delay_57_vsync <= rt_cam_sweep_pixel_delay_56_vsync;
     rt_cam_sweep_pixel_delay_57_req <= rt_cam_sweep_pixel_delay_56_req;
     rt_cam_sweep_pixel_delay_57_eol <= rt_cam_sweep_pixel_delay_56_eol;
@@ -17402,6 +17567,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_57_pixel_r <= rt_cam_sweep_pixel_delay_56_pixel_r;
     rt_cam_sweep_pixel_delay_57_pixel_g <= rt_cam_sweep_pixel_delay_56_pixel_g;
     rt_cam_sweep_pixel_delay_57_pixel_b <= rt_cam_sweep_pixel_delay_56_pixel_b;
+    rt_cam_sweep_pixel_delay_57_vtg_valid <= rt_cam_sweep_pixel_delay_56_vtg_valid;
+    rt_cam_sweep_pixel_delay_57_vtg_last <= rt_cam_sweep_pixel_delay_56_vtg_last;
+    rt_cam_sweep_pixel_delay_57_vtg_de <= rt_cam_sweep_pixel_delay_56_vtg_de;
+    rt_cam_sweep_pixel_delay_57_vtg_hsync <= rt_cam_sweep_pixel_delay_56_vtg_hsync;
+    rt_cam_sweep_pixel_delay_57_vtg_vsync <= rt_cam_sweep_pixel_delay_56_vtg_vsync;
     rt_cam_sweep_pixel_delay_58_vsync <= rt_cam_sweep_pixel_delay_57_vsync;
     rt_cam_sweep_pixel_delay_58_req <= rt_cam_sweep_pixel_delay_57_req;
     rt_cam_sweep_pixel_delay_58_eol <= rt_cam_sweep_pixel_delay_57_eol;
@@ -17409,6 +17579,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_58_pixel_r <= rt_cam_sweep_pixel_delay_57_pixel_r;
     rt_cam_sweep_pixel_delay_58_pixel_g <= rt_cam_sweep_pixel_delay_57_pixel_g;
     rt_cam_sweep_pixel_delay_58_pixel_b <= rt_cam_sweep_pixel_delay_57_pixel_b;
+    rt_cam_sweep_pixel_delay_58_vtg_valid <= rt_cam_sweep_pixel_delay_57_vtg_valid;
+    rt_cam_sweep_pixel_delay_58_vtg_last <= rt_cam_sweep_pixel_delay_57_vtg_last;
+    rt_cam_sweep_pixel_delay_58_vtg_de <= rt_cam_sweep_pixel_delay_57_vtg_de;
+    rt_cam_sweep_pixel_delay_58_vtg_hsync <= rt_cam_sweep_pixel_delay_57_vtg_hsync;
+    rt_cam_sweep_pixel_delay_58_vtg_vsync <= rt_cam_sweep_pixel_delay_57_vtg_vsync;
     rt_cam_sweep_pixel_delay_59_vsync <= rt_cam_sweep_pixel_delay_58_vsync;
     rt_cam_sweep_pixel_delay_59_req <= rt_cam_sweep_pixel_delay_58_req;
     rt_cam_sweep_pixel_delay_59_eol <= rt_cam_sweep_pixel_delay_58_eol;
@@ -17416,6 +17591,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_59_pixel_r <= rt_cam_sweep_pixel_delay_58_pixel_r;
     rt_cam_sweep_pixel_delay_59_pixel_g <= rt_cam_sweep_pixel_delay_58_pixel_g;
     rt_cam_sweep_pixel_delay_59_pixel_b <= rt_cam_sweep_pixel_delay_58_pixel_b;
+    rt_cam_sweep_pixel_delay_59_vtg_valid <= rt_cam_sweep_pixel_delay_58_vtg_valid;
+    rt_cam_sweep_pixel_delay_59_vtg_last <= rt_cam_sweep_pixel_delay_58_vtg_last;
+    rt_cam_sweep_pixel_delay_59_vtg_de <= rt_cam_sweep_pixel_delay_58_vtg_de;
+    rt_cam_sweep_pixel_delay_59_vtg_hsync <= rt_cam_sweep_pixel_delay_58_vtg_hsync;
+    rt_cam_sweep_pixel_delay_59_vtg_vsync <= rt_cam_sweep_pixel_delay_58_vtg_vsync;
     rt_cam_sweep_pixel_delay_60_vsync <= rt_cam_sweep_pixel_delay_59_vsync;
     rt_cam_sweep_pixel_delay_60_req <= rt_cam_sweep_pixel_delay_59_req;
     rt_cam_sweep_pixel_delay_60_eol <= rt_cam_sweep_pixel_delay_59_eol;
@@ -17423,6 +17603,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_60_pixel_r <= rt_cam_sweep_pixel_delay_59_pixel_r;
     rt_cam_sweep_pixel_delay_60_pixel_g <= rt_cam_sweep_pixel_delay_59_pixel_g;
     rt_cam_sweep_pixel_delay_60_pixel_b <= rt_cam_sweep_pixel_delay_59_pixel_b;
+    rt_cam_sweep_pixel_delay_60_vtg_valid <= rt_cam_sweep_pixel_delay_59_vtg_valid;
+    rt_cam_sweep_pixel_delay_60_vtg_last <= rt_cam_sweep_pixel_delay_59_vtg_last;
+    rt_cam_sweep_pixel_delay_60_vtg_de <= rt_cam_sweep_pixel_delay_59_vtg_de;
+    rt_cam_sweep_pixel_delay_60_vtg_hsync <= rt_cam_sweep_pixel_delay_59_vtg_hsync;
+    rt_cam_sweep_pixel_delay_60_vtg_vsync <= rt_cam_sweep_pixel_delay_59_vtg_vsync;
     rt_cam_sweep_pixel_delay_61_vsync <= rt_cam_sweep_pixel_delay_60_vsync;
     rt_cam_sweep_pixel_delay_61_req <= rt_cam_sweep_pixel_delay_60_req;
     rt_cam_sweep_pixel_delay_61_eol <= rt_cam_sweep_pixel_delay_60_eol;
@@ -17430,6 +17615,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_61_pixel_r <= rt_cam_sweep_pixel_delay_60_pixel_r;
     rt_cam_sweep_pixel_delay_61_pixel_g <= rt_cam_sweep_pixel_delay_60_pixel_g;
     rt_cam_sweep_pixel_delay_61_pixel_b <= rt_cam_sweep_pixel_delay_60_pixel_b;
+    rt_cam_sweep_pixel_delay_61_vtg_valid <= rt_cam_sweep_pixel_delay_60_vtg_valid;
+    rt_cam_sweep_pixel_delay_61_vtg_last <= rt_cam_sweep_pixel_delay_60_vtg_last;
+    rt_cam_sweep_pixel_delay_61_vtg_de <= rt_cam_sweep_pixel_delay_60_vtg_de;
+    rt_cam_sweep_pixel_delay_61_vtg_hsync <= rt_cam_sweep_pixel_delay_60_vtg_hsync;
+    rt_cam_sweep_pixel_delay_61_vtg_vsync <= rt_cam_sweep_pixel_delay_60_vtg_vsync;
     rt_cam_sweep_pixel_delay_62_vsync <= rt_cam_sweep_pixel_delay_61_vsync;
     rt_cam_sweep_pixel_delay_62_req <= rt_cam_sweep_pixel_delay_61_req;
     rt_cam_sweep_pixel_delay_62_eol <= rt_cam_sweep_pixel_delay_61_eol;
@@ -17437,6 +17627,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_62_pixel_r <= rt_cam_sweep_pixel_delay_61_pixel_r;
     rt_cam_sweep_pixel_delay_62_pixel_g <= rt_cam_sweep_pixel_delay_61_pixel_g;
     rt_cam_sweep_pixel_delay_62_pixel_b <= rt_cam_sweep_pixel_delay_61_pixel_b;
+    rt_cam_sweep_pixel_delay_62_vtg_valid <= rt_cam_sweep_pixel_delay_61_vtg_valid;
+    rt_cam_sweep_pixel_delay_62_vtg_last <= rt_cam_sweep_pixel_delay_61_vtg_last;
+    rt_cam_sweep_pixel_delay_62_vtg_de <= rt_cam_sweep_pixel_delay_61_vtg_de;
+    rt_cam_sweep_pixel_delay_62_vtg_hsync <= rt_cam_sweep_pixel_delay_61_vtg_hsync;
+    rt_cam_sweep_pixel_delay_62_vtg_vsync <= rt_cam_sweep_pixel_delay_61_vtg_vsync;
     rt_cam_sweep_pixel_delay_63_vsync <= rt_cam_sweep_pixel_delay_62_vsync;
     rt_cam_sweep_pixel_delay_63_req <= rt_cam_sweep_pixel_delay_62_req;
     rt_cam_sweep_pixel_delay_63_eol <= rt_cam_sweep_pixel_delay_62_eol;
@@ -17444,6 +17639,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_63_pixel_r <= rt_cam_sweep_pixel_delay_62_pixel_r;
     rt_cam_sweep_pixel_delay_63_pixel_g <= rt_cam_sweep_pixel_delay_62_pixel_g;
     rt_cam_sweep_pixel_delay_63_pixel_b <= rt_cam_sweep_pixel_delay_62_pixel_b;
+    rt_cam_sweep_pixel_delay_63_vtg_valid <= rt_cam_sweep_pixel_delay_62_vtg_valid;
+    rt_cam_sweep_pixel_delay_63_vtg_last <= rt_cam_sweep_pixel_delay_62_vtg_last;
+    rt_cam_sweep_pixel_delay_63_vtg_de <= rt_cam_sweep_pixel_delay_62_vtg_de;
+    rt_cam_sweep_pixel_delay_63_vtg_hsync <= rt_cam_sweep_pixel_delay_62_vtg_hsync;
+    rt_cam_sweep_pixel_delay_63_vtg_vsync <= rt_cam_sweep_pixel_delay_62_vtg_vsync;
     rt_cam_sweep_pixel_delay_64_vsync <= rt_cam_sweep_pixel_delay_63_vsync;
     rt_cam_sweep_pixel_delay_64_req <= rt_cam_sweep_pixel_delay_63_req;
     rt_cam_sweep_pixel_delay_64_eol <= rt_cam_sweep_pixel_delay_63_eol;
@@ -17451,6 +17651,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_64_pixel_r <= rt_cam_sweep_pixel_delay_63_pixel_r;
     rt_cam_sweep_pixel_delay_64_pixel_g <= rt_cam_sweep_pixel_delay_63_pixel_g;
     rt_cam_sweep_pixel_delay_64_pixel_b <= rt_cam_sweep_pixel_delay_63_pixel_b;
+    rt_cam_sweep_pixel_delay_64_vtg_valid <= rt_cam_sweep_pixel_delay_63_vtg_valid;
+    rt_cam_sweep_pixel_delay_64_vtg_last <= rt_cam_sweep_pixel_delay_63_vtg_last;
+    rt_cam_sweep_pixel_delay_64_vtg_de <= rt_cam_sweep_pixel_delay_63_vtg_de;
+    rt_cam_sweep_pixel_delay_64_vtg_hsync <= rt_cam_sweep_pixel_delay_63_vtg_hsync;
+    rt_cam_sweep_pixel_delay_64_vtg_vsync <= rt_cam_sweep_pixel_delay_63_vtg_vsync;
     rt_cam_sweep_pixel_delay_65_vsync <= rt_cam_sweep_pixel_delay_64_vsync;
     rt_cam_sweep_pixel_delay_65_req <= rt_cam_sweep_pixel_delay_64_req;
     rt_cam_sweep_pixel_delay_65_eol <= rt_cam_sweep_pixel_delay_64_eol;
@@ -17458,6 +17663,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_65_pixel_r <= rt_cam_sweep_pixel_delay_64_pixel_r;
     rt_cam_sweep_pixel_delay_65_pixel_g <= rt_cam_sweep_pixel_delay_64_pixel_g;
     rt_cam_sweep_pixel_delay_65_pixel_b <= rt_cam_sweep_pixel_delay_64_pixel_b;
+    rt_cam_sweep_pixel_delay_65_vtg_valid <= rt_cam_sweep_pixel_delay_64_vtg_valid;
+    rt_cam_sweep_pixel_delay_65_vtg_last <= rt_cam_sweep_pixel_delay_64_vtg_last;
+    rt_cam_sweep_pixel_delay_65_vtg_de <= rt_cam_sweep_pixel_delay_64_vtg_de;
+    rt_cam_sweep_pixel_delay_65_vtg_hsync <= rt_cam_sweep_pixel_delay_64_vtg_hsync;
+    rt_cam_sweep_pixel_delay_65_vtg_vsync <= rt_cam_sweep_pixel_delay_64_vtg_vsync;
     rt_cam_sweep_pixel_delay_66_vsync <= rt_cam_sweep_pixel_delay_65_vsync;
     rt_cam_sweep_pixel_delay_66_req <= rt_cam_sweep_pixel_delay_65_req;
     rt_cam_sweep_pixel_delay_66_eol <= rt_cam_sweep_pixel_delay_65_eol;
@@ -17465,6 +17675,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_66_pixel_r <= rt_cam_sweep_pixel_delay_65_pixel_r;
     rt_cam_sweep_pixel_delay_66_pixel_g <= rt_cam_sweep_pixel_delay_65_pixel_g;
     rt_cam_sweep_pixel_delay_66_pixel_b <= rt_cam_sweep_pixel_delay_65_pixel_b;
+    rt_cam_sweep_pixel_delay_66_vtg_valid <= rt_cam_sweep_pixel_delay_65_vtg_valid;
+    rt_cam_sweep_pixel_delay_66_vtg_last <= rt_cam_sweep_pixel_delay_65_vtg_last;
+    rt_cam_sweep_pixel_delay_66_vtg_de <= rt_cam_sweep_pixel_delay_65_vtg_de;
+    rt_cam_sweep_pixel_delay_66_vtg_hsync <= rt_cam_sweep_pixel_delay_65_vtg_hsync;
+    rt_cam_sweep_pixel_delay_66_vtg_vsync <= rt_cam_sweep_pixel_delay_65_vtg_vsync;
     rt_cam_sweep_pixel_delay_67_vsync <= rt_cam_sweep_pixel_delay_66_vsync;
     rt_cam_sweep_pixel_delay_67_req <= rt_cam_sweep_pixel_delay_66_req;
     rt_cam_sweep_pixel_delay_67_eol <= rt_cam_sweep_pixel_delay_66_eol;
@@ -17472,6 +17687,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_67_pixel_r <= rt_cam_sweep_pixel_delay_66_pixel_r;
     rt_cam_sweep_pixel_delay_67_pixel_g <= rt_cam_sweep_pixel_delay_66_pixel_g;
     rt_cam_sweep_pixel_delay_67_pixel_b <= rt_cam_sweep_pixel_delay_66_pixel_b;
+    rt_cam_sweep_pixel_delay_67_vtg_valid <= rt_cam_sweep_pixel_delay_66_vtg_valid;
+    rt_cam_sweep_pixel_delay_67_vtg_last <= rt_cam_sweep_pixel_delay_66_vtg_last;
+    rt_cam_sweep_pixel_delay_67_vtg_de <= rt_cam_sweep_pixel_delay_66_vtg_de;
+    rt_cam_sweep_pixel_delay_67_vtg_hsync <= rt_cam_sweep_pixel_delay_66_vtg_hsync;
+    rt_cam_sweep_pixel_delay_67_vtg_vsync <= rt_cam_sweep_pixel_delay_66_vtg_vsync;
     rt_cam_sweep_pixel_delay_68_vsync <= rt_cam_sweep_pixel_delay_67_vsync;
     rt_cam_sweep_pixel_delay_68_req <= rt_cam_sweep_pixel_delay_67_req;
     rt_cam_sweep_pixel_delay_68_eol <= rt_cam_sweep_pixel_delay_67_eol;
@@ -17479,6 +17699,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_68_pixel_r <= rt_cam_sweep_pixel_delay_67_pixel_r;
     rt_cam_sweep_pixel_delay_68_pixel_g <= rt_cam_sweep_pixel_delay_67_pixel_g;
     rt_cam_sweep_pixel_delay_68_pixel_b <= rt_cam_sweep_pixel_delay_67_pixel_b;
+    rt_cam_sweep_pixel_delay_68_vtg_valid <= rt_cam_sweep_pixel_delay_67_vtg_valid;
+    rt_cam_sweep_pixel_delay_68_vtg_last <= rt_cam_sweep_pixel_delay_67_vtg_last;
+    rt_cam_sweep_pixel_delay_68_vtg_de <= rt_cam_sweep_pixel_delay_67_vtg_de;
+    rt_cam_sweep_pixel_delay_68_vtg_hsync <= rt_cam_sweep_pixel_delay_67_vtg_hsync;
+    rt_cam_sweep_pixel_delay_68_vtg_vsync <= rt_cam_sweep_pixel_delay_67_vtg_vsync;
     rt_cam_sweep_pixel_delay_69_vsync <= rt_cam_sweep_pixel_delay_68_vsync;
     rt_cam_sweep_pixel_delay_69_req <= rt_cam_sweep_pixel_delay_68_req;
     rt_cam_sweep_pixel_delay_69_eol <= rt_cam_sweep_pixel_delay_68_eol;
@@ -17486,6 +17711,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_69_pixel_r <= rt_cam_sweep_pixel_delay_68_pixel_r;
     rt_cam_sweep_pixel_delay_69_pixel_g <= rt_cam_sweep_pixel_delay_68_pixel_g;
     rt_cam_sweep_pixel_delay_69_pixel_b <= rt_cam_sweep_pixel_delay_68_pixel_b;
+    rt_cam_sweep_pixel_delay_69_vtg_valid <= rt_cam_sweep_pixel_delay_68_vtg_valid;
+    rt_cam_sweep_pixel_delay_69_vtg_last <= rt_cam_sweep_pixel_delay_68_vtg_last;
+    rt_cam_sweep_pixel_delay_69_vtg_de <= rt_cam_sweep_pixel_delay_68_vtg_de;
+    rt_cam_sweep_pixel_delay_69_vtg_hsync <= rt_cam_sweep_pixel_delay_68_vtg_hsync;
+    rt_cam_sweep_pixel_delay_69_vtg_vsync <= rt_cam_sweep_pixel_delay_68_vtg_vsync;
     rt_cam_sweep_pixel_delay_70_vsync <= rt_cam_sweep_pixel_delay_69_vsync;
     rt_cam_sweep_pixel_delay_70_req <= rt_cam_sweep_pixel_delay_69_req;
     rt_cam_sweep_pixel_delay_70_eol <= rt_cam_sweep_pixel_delay_69_eol;
@@ -17493,6 +17723,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_70_pixel_r <= rt_cam_sweep_pixel_delay_69_pixel_r;
     rt_cam_sweep_pixel_delay_70_pixel_g <= rt_cam_sweep_pixel_delay_69_pixel_g;
     rt_cam_sweep_pixel_delay_70_pixel_b <= rt_cam_sweep_pixel_delay_69_pixel_b;
+    rt_cam_sweep_pixel_delay_70_vtg_valid <= rt_cam_sweep_pixel_delay_69_vtg_valid;
+    rt_cam_sweep_pixel_delay_70_vtg_last <= rt_cam_sweep_pixel_delay_69_vtg_last;
+    rt_cam_sweep_pixel_delay_70_vtg_de <= rt_cam_sweep_pixel_delay_69_vtg_de;
+    rt_cam_sweep_pixel_delay_70_vtg_hsync <= rt_cam_sweep_pixel_delay_69_vtg_hsync;
+    rt_cam_sweep_pixel_delay_70_vtg_vsync <= rt_cam_sweep_pixel_delay_69_vtg_vsync;
     rt_cam_sweep_pixel_delay_71_vsync <= rt_cam_sweep_pixel_delay_70_vsync;
     rt_cam_sweep_pixel_delay_71_req <= rt_cam_sweep_pixel_delay_70_req;
     rt_cam_sweep_pixel_delay_71_eol <= rt_cam_sweep_pixel_delay_70_eol;
@@ -17500,6 +17735,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_71_pixel_r <= rt_cam_sweep_pixel_delay_70_pixel_r;
     rt_cam_sweep_pixel_delay_71_pixel_g <= rt_cam_sweep_pixel_delay_70_pixel_g;
     rt_cam_sweep_pixel_delay_71_pixel_b <= rt_cam_sweep_pixel_delay_70_pixel_b;
+    rt_cam_sweep_pixel_delay_71_vtg_valid <= rt_cam_sweep_pixel_delay_70_vtg_valid;
+    rt_cam_sweep_pixel_delay_71_vtg_last <= rt_cam_sweep_pixel_delay_70_vtg_last;
+    rt_cam_sweep_pixel_delay_71_vtg_de <= rt_cam_sweep_pixel_delay_70_vtg_de;
+    rt_cam_sweep_pixel_delay_71_vtg_hsync <= rt_cam_sweep_pixel_delay_70_vtg_hsync;
+    rt_cam_sweep_pixel_delay_71_vtg_vsync <= rt_cam_sweep_pixel_delay_70_vtg_vsync;
     rt_cam_sweep_pixel_delay_72_vsync <= rt_cam_sweep_pixel_delay_71_vsync;
     rt_cam_sweep_pixel_delay_72_req <= rt_cam_sweep_pixel_delay_71_req;
     rt_cam_sweep_pixel_delay_72_eol <= rt_cam_sweep_pixel_delay_71_eol;
@@ -17507,6 +17747,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_72_pixel_r <= rt_cam_sweep_pixel_delay_71_pixel_r;
     rt_cam_sweep_pixel_delay_72_pixel_g <= rt_cam_sweep_pixel_delay_71_pixel_g;
     rt_cam_sweep_pixel_delay_72_pixel_b <= rt_cam_sweep_pixel_delay_71_pixel_b;
+    rt_cam_sweep_pixel_delay_72_vtg_valid <= rt_cam_sweep_pixel_delay_71_vtg_valid;
+    rt_cam_sweep_pixel_delay_72_vtg_last <= rt_cam_sweep_pixel_delay_71_vtg_last;
+    rt_cam_sweep_pixel_delay_72_vtg_de <= rt_cam_sweep_pixel_delay_71_vtg_de;
+    rt_cam_sweep_pixel_delay_72_vtg_hsync <= rt_cam_sweep_pixel_delay_71_vtg_hsync;
+    rt_cam_sweep_pixel_delay_72_vtg_vsync <= rt_cam_sweep_pixel_delay_71_vtg_vsync;
     rt_cam_sweep_pixel_delay_73_vsync <= rt_cam_sweep_pixel_delay_72_vsync;
     rt_cam_sweep_pixel_delay_73_req <= rt_cam_sweep_pixel_delay_72_req;
     rt_cam_sweep_pixel_delay_73_eol <= rt_cam_sweep_pixel_delay_72_eol;
@@ -17514,6 +17759,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_73_pixel_r <= rt_cam_sweep_pixel_delay_72_pixel_r;
     rt_cam_sweep_pixel_delay_73_pixel_g <= rt_cam_sweep_pixel_delay_72_pixel_g;
     rt_cam_sweep_pixel_delay_73_pixel_b <= rt_cam_sweep_pixel_delay_72_pixel_b;
+    rt_cam_sweep_pixel_delay_73_vtg_valid <= rt_cam_sweep_pixel_delay_72_vtg_valid;
+    rt_cam_sweep_pixel_delay_73_vtg_last <= rt_cam_sweep_pixel_delay_72_vtg_last;
+    rt_cam_sweep_pixel_delay_73_vtg_de <= rt_cam_sweep_pixel_delay_72_vtg_de;
+    rt_cam_sweep_pixel_delay_73_vtg_hsync <= rt_cam_sweep_pixel_delay_72_vtg_hsync;
+    rt_cam_sweep_pixel_delay_73_vtg_vsync <= rt_cam_sweep_pixel_delay_72_vtg_vsync;
     rt_cam_sweep_pixel_delay_74_vsync <= rt_cam_sweep_pixel_delay_73_vsync;
     rt_cam_sweep_pixel_delay_74_req <= rt_cam_sweep_pixel_delay_73_req;
     rt_cam_sweep_pixel_delay_74_eol <= rt_cam_sweep_pixel_delay_73_eol;
@@ -17521,6 +17771,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_74_pixel_r <= rt_cam_sweep_pixel_delay_73_pixel_r;
     rt_cam_sweep_pixel_delay_74_pixel_g <= rt_cam_sweep_pixel_delay_73_pixel_g;
     rt_cam_sweep_pixel_delay_74_pixel_b <= rt_cam_sweep_pixel_delay_73_pixel_b;
+    rt_cam_sweep_pixel_delay_74_vtg_valid <= rt_cam_sweep_pixel_delay_73_vtg_valid;
+    rt_cam_sweep_pixel_delay_74_vtg_last <= rt_cam_sweep_pixel_delay_73_vtg_last;
+    rt_cam_sweep_pixel_delay_74_vtg_de <= rt_cam_sweep_pixel_delay_73_vtg_de;
+    rt_cam_sweep_pixel_delay_74_vtg_hsync <= rt_cam_sweep_pixel_delay_73_vtg_hsync;
+    rt_cam_sweep_pixel_delay_74_vtg_vsync <= rt_cam_sweep_pixel_delay_73_vtg_vsync;
     rt_cam_sweep_pixel_delay_75_vsync <= rt_cam_sweep_pixel_delay_74_vsync;
     rt_cam_sweep_pixel_delay_75_req <= rt_cam_sweep_pixel_delay_74_req;
     rt_cam_sweep_pixel_delay_75_eol <= rt_cam_sweep_pixel_delay_74_eol;
@@ -17528,6 +17783,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_75_pixel_r <= rt_cam_sweep_pixel_delay_74_pixel_r;
     rt_cam_sweep_pixel_delay_75_pixel_g <= rt_cam_sweep_pixel_delay_74_pixel_g;
     rt_cam_sweep_pixel_delay_75_pixel_b <= rt_cam_sweep_pixel_delay_74_pixel_b;
+    rt_cam_sweep_pixel_delay_75_vtg_valid <= rt_cam_sweep_pixel_delay_74_vtg_valid;
+    rt_cam_sweep_pixel_delay_75_vtg_last <= rt_cam_sweep_pixel_delay_74_vtg_last;
+    rt_cam_sweep_pixel_delay_75_vtg_de <= rt_cam_sweep_pixel_delay_74_vtg_de;
+    rt_cam_sweep_pixel_delay_75_vtg_hsync <= rt_cam_sweep_pixel_delay_74_vtg_hsync;
+    rt_cam_sweep_pixel_delay_75_vtg_vsync <= rt_cam_sweep_pixel_delay_74_vtg_vsync;
     rt_cam_sweep_pixel_delay_76_vsync <= rt_cam_sweep_pixel_delay_75_vsync;
     rt_cam_sweep_pixel_delay_76_req <= rt_cam_sweep_pixel_delay_75_req;
     rt_cam_sweep_pixel_delay_76_eol <= rt_cam_sweep_pixel_delay_75_eol;
@@ -17535,6 +17795,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_76_pixel_r <= rt_cam_sweep_pixel_delay_75_pixel_r;
     rt_cam_sweep_pixel_delay_76_pixel_g <= rt_cam_sweep_pixel_delay_75_pixel_g;
     rt_cam_sweep_pixel_delay_76_pixel_b <= rt_cam_sweep_pixel_delay_75_pixel_b;
+    rt_cam_sweep_pixel_delay_76_vtg_valid <= rt_cam_sweep_pixel_delay_75_vtg_valid;
+    rt_cam_sweep_pixel_delay_76_vtg_last <= rt_cam_sweep_pixel_delay_75_vtg_last;
+    rt_cam_sweep_pixel_delay_76_vtg_de <= rt_cam_sweep_pixel_delay_75_vtg_de;
+    rt_cam_sweep_pixel_delay_76_vtg_hsync <= rt_cam_sweep_pixel_delay_75_vtg_hsync;
+    rt_cam_sweep_pixel_delay_76_vtg_vsync <= rt_cam_sweep_pixel_delay_75_vtg_vsync;
     rt_cam_sweep_pixel_delay_77_vsync <= rt_cam_sweep_pixel_delay_76_vsync;
     rt_cam_sweep_pixel_delay_77_req <= rt_cam_sweep_pixel_delay_76_req;
     rt_cam_sweep_pixel_delay_77_eol <= rt_cam_sweep_pixel_delay_76_eol;
@@ -17542,6 +17807,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_77_pixel_r <= rt_cam_sweep_pixel_delay_76_pixel_r;
     rt_cam_sweep_pixel_delay_77_pixel_g <= rt_cam_sweep_pixel_delay_76_pixel_g;
     rt_cam_sweep_pixel_delay_77_pixel_b <= rt_cam_sweep_pixel_delay_76_pixel_b;
+    rt_cam_sweep_pixel_delay_77_vtg_valid <= rt_cam_sweep_pixel_delay_76_vtg_valid;
+    rt_cam_sweep_pixel_delay_77_vtg_last <= rt_cam_sweep_pixel_delay_76_vtg_last;
+    rt_cam_sweep_pixel_delay_77_vtg_de <= rt_cam_sweep_pixel_delay_76_vtg_de;
+    rt_cam_sweep_pixel_delay_77_vtg_hsync <= rt_cam_sweep_pixel_delay_76_vtg_hsync;
+    rt_cam_sweep_pixel_delay_77_vtg_vsync <= rt_cam_sweep_pixel_delay_76_vtg_vsync;
     rt_cam_sweep_pixel_delay_78_vsync <= rt_cam_sweep_pixel_delay_77_vsync;
     rt_cam_sweep_pixel_delay_78_req <= rt_cam_sweep_pixel_delay_77_req;
     rt_cam_sweep_pixel_delay_78_eol <= rt_cam_sweep_pixel_delay_77_eol;
@@ -17549,6 +17819,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_78_pixel_r <= rt_cam_sweep_pixel_delay_77_pixel_r;
     rt_cam_sweep_pixel_delay_78_pixel_g <= rt_cam_sweep_pixel_delay_77_pixel_g;
     rt_cam_sweep_pixel_delay_78_pixel_b <= rt_cam_sweep_pixel_delay_77_pixel_b;
+    rt_cam_sweep_pixel_delay_78_vtg_valid <= rt_cam_sweep_pixel_delay_77_vtg_valid;
+    rt_cam_sweep_pixel_delay_78_vtg_last <= rt_cam_sweep_pixel_delay_77_vtg_last;
+    rt_cam_sweep_pixel_delay_78_vtg_de <= rt_cam_sweep_pixel_delay_77_vtg_de;
+    rt_cam_sweep_pixel_delay_78_vtg_hsync <= rt_cam_sweep_pixel_delay_77_vtg_hsync;
+    rt_cam_sweep_pixel_delay_78_vtg_vsync <= rt_cam_sweep_pixel_delay_77_vtg_vsync;
     rt_cam_sweep_pixel_delay_79_vsync <= rt_cam_sweep_pixel_delay_78_vsync;
     rt_cam_sweep_pixel_delay_79_req <= rt_cam_sweep_pixel_delay_78_req;
     rt_cam_sweep_pixel_delay_79_eol <= rt_cam_sweep_pixel_delay_78_eol;
@@ -17556,6 +17831,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_79_pixel_r <= rt_cam_sweep_pixel_delay_78_pixel_r;
     rt_cam_sweep_pixel_delay_79_pixel_g <= rt_cam_sweep_pixel_delay_78_pixel_g;
     rt_cam_sweep_pixel_delay_79_pixel_b <= rt_cam_sweep_pixel_delay_78_pixel_b;
+    rt_cam_sweep_pixel_delay_79_vtg_valid <= rt_cam_sweep_pixel_delay_78_vtg_valid;
+    rt_cam_sweep_pixel_delay_79_vtg_last <= rt_cam_sweep_pixel_delay_78_vtg_last;
+    rt_cam_sweep_pixel_delay_79_vtg_de <= rt_cam_sweep_pixel_delay_78_vtg_de;
+    rt_cam_sweep_pixel_delay_79_vtg_hsync <= rt_cam_sweep_pixel_delay_78_vtg_hsync;
+    rt_cam_sweep_pixel_delay_79_vtg_vsync <= rt_cam_sweep_pixel_delay_78_vtg_vsync;
     rt_cam_sweep_pixel_delay_80_vsync <= rt_cam_sweep_pixel_delay_79_vsync;
     rt_cam_sweep_pixel_delay_80_req <= rt_cam_sweep_pixel_delay_79_req;
     rt_cam_sweep_pixel_delay_80_eol <= rt_cam_sweep_pixel_delay_79_eol;
@@ -17563,6 +17843,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_80_pixel_r <= rt_cam_sweep_pixel_delay_79_pixel_r;
     rt_cam_sweep_pixel_delay_80_pixel_g <= rt_cam_sweep_pixel_delay_79_pixel_g;
     rt_cam_sweep_pixel_delay_80_pixel_b <= rt_cam_sweep_pixel_delay_79_pixel_b;
+    rt_cam_sweep_pixel_delay_80_vtg_valid <= rt_cam_sweep_pixel_delay_79_vtg_valid;
+    rt_cam_sweep_pixel_delay_80_vtg_last <= rt_cam_sweep_pixel_delay_79_vtg_last;
+    rt_cam_sweep_pixel_delay_80_vtg_de <= rt_cam_sweep_pixel_delay_79_vtg_de;
+    rt_cam_sweep_pixel_delay_80_vtg_hsync <= rt_cam_sweep_pixel_delay_79_vtg_hsync;
+    rt_cam_sweep_pixel_delay_80_vtg_vsync <= rt_cam_sweep_pixel_delay_79_vtg_vsync;
     rt_cam_sweep_pixel_delay_81_vsync <= rt_cam_sweep_pixel_delay_80_vsync;
     rt_cam_sweep_pixel_delay_81_req <= rt_cam_sweep_pixel_delay_80_req;
     rt_cam_sweep_pixel_delay_81_eol <= rt_cam_sweep_pixel_delay_80_eol;
@@ -17570,6 +17855,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_81_pixel_r <= rt_cam_sweep_pixel_delay_80_pixel_r;
     rt_cam_sweep_pixel_delay_81_pixel_g <= rt_cam_sweep_pixel_delay_80_pixel_g;
     rt_cam_sweep_pixel_delay_81_pixel_b <= rt_cam_sweep_pixel_delay_80_pixel_b;
+    rt_cam_sweep_pixel_delay_81_vtg_valid <= rt_cam_sweep_pixel_delay_80_vtg_valid;
+    rt_cam_sweep_pixel_delay_81_vtg_last <= rt_cam_sweep_pixel_delay_80_vtg_last;
+    rt_cam_sweep_pixel_delay_81_vtg_de <= rt_cam_sweep_pixel_delay_80_vtg_de;
+    rt_cam_sweep_pixel_delay_81_vtg_hsync <= rt_cam_sweep_pixel_delay_80_vtg_hsync;
+    rt_cam_sweep_pixel_delay_81_vtg_vsync <= rt_cam_sweep_pixel_delay_80_vtg_vsync;
     rt_cam_sweep_pixel_delay_82_vsync <= rt_cam_sweep_pixel_delay_81_vsync;
     rt_cam_sweep_pixel_delay_82_req <= rt_cam_sweep_pixel_delay_81_req;
     rt_cam_sweep_pixel_delay_82_eol <= rt_cam_sweep_pixel_delay_81_eol;
@@ -17577,6 +17867,11 @@ module RTCore (
     rt_cam_sweep_pixel_delay_82_pixel_r <= rt_cam_sweep_pixel_delay_81_pixel_r;
     rt_cam_sweep_pixel_delay_82_pixel_g <= rt_cam_sweep_pixel_delay_81_pixel_g;
     rt_cam_sweep_pixel_delay_82_pixel_b <= rt_cam_sweep_pixel_delay_81_pixel_b;
+    rt_cam_sweep_pixel_delay_82_vtg_valid <= rt_cam_sweep_pixel_delay_81_vtg_valid;
+    rt_cam_sweep_pixel_delay_82_vtg_last <= rt_cam_sweep_pixel_delay_81_vtg_last;
+    rt_cam_sweep_pixel_delay_82_vtg_de <= rt_cam_sweep_pixel_delay_81_vtg_de;
+    rt_cam_sweep_pixel_delay_82_vtg_hsync <= rt_cam_sweep_pixel_delay_81_vtg_hsync;
+    rt_cam_sweep_pixel_delay_82_vtg_vsync <= rt_cam_sweep_pixel_delay_81_vtg_vsync;
     rt_cam_sweep_pixel_delay_83_vsync <= rt_cam_sweep_pixel_delay_82_vsync;
     rt_cam_sweep_pixel_delay_83_req <= rt_cam_sweep_pixel_delay_82_req;
     rt_cam_sweep_pixel_delay_83_eol <= rt_cam_sweep_pixel_delay_82_eol;
@@ -17584,41 +17879,23 @@ module RTCore (
     rt_cam_sweep_pixel_delay_83_pixel_r <= rt_cam_sweep_pixel_delay_82_pixel_r;
     rt_cam_sweep_pixel_delay_83_pixel_g <= rt_cam_sweep_pixel_delay_82_pixel_g;
     rt_cam_sweep_pixel_delay_83_pixel_b <= rt_cam_sweep_pixel_delay_82_pixel_b;
-    rt_cam_sweep_pixel_delay_84_vsync <= rt_cam_sweep_pixel_delay_83_vsync;
-    rt_cam_sweep_pixel_delay_84_req <= rt_cam_sweep_pixel_delay_83_req;
-    rt_cam_sweep_pixel_delay_84_eol <= rt_cam_sweep_pixel_delay_83_eol;
-    rt_cam_sweep_pixel_delay_84_eof <= rt_cam_sweep_pixel_delay_83_eof;
-    rt_cam_sweep_pixel_delay_84_pixel_r <= rt_cam_sweep_pixel_delay_83_pixel_r;
-    rt_cam_sweep_pixel_delay_84_pixel_g <= rt_cam_sweep_pixel_delay_83_pixel_g;
-    rt_cam_sweep_pixel_delay_84_pixel_b <= rt_cam_sweep_pixel_delay_83_pixel_b;
-    rt_cam_sweep_pixel_delay_85_vsync <= rt_cam_sweep_pixel_delay_84_vsync;
-    rt_cam_sweep_pixel_delay_85_req <= rt_cam_sweep_pixel_delay_84_req;
-    rt_cam_sweep_pixel_delay_85_eol <= rt_cam_sweep_pixel_delay_84_eol;
-    rt_cam_sweep_pixel_delay_85_eof <= rt_cam_sweep_pixel_delay_84_eof;
-    rt_cam_sweep_pixel_delay_85_pixel_r <= rt_cam_sweep_pixel_delay_84_pixel_r;
-    rt_cam_sweep_pixel_delay_85_pixel_g <= rt_cam_sweep_pixel_delay_84_pixel_g;
-    rt_cam_sweep_pixel_delay_85_pixel_b <= rt_cam_sweep_pixel_delay_84_pixel_b;
-    rt_cam_sweep_pixel_delay_86_vsync <= rt_cam_sweep_pixel_delay_85_vsync;
-    rt_cam_sweep_pixel_delay_86_req <= rt_cam_sweep_pixel_delay_85_req;
-    rt_cam_sweep_pixel_delay_86_eol <= rt_cam_sweep_pixel_delay_85_eol;
-    rt_cam_sweep_pixel_delay_86_eof <= rt_cam_sweep_pixel_delay_85_eof;
-    rt_cam_sweep_pixel_delay_86_pixel_r <= rt_cam_sweep_pixel_delay_85_pixel_r;
-    rt_cam_sweep_pixel_delay_86_pixel_g <= rt_cam_sweep_pixel_delay_85_pixel_g;
-    rt_cam_sweep_pixel_delay_86_pixel_b <= rt_cam_sweep_pixel_delay_85_pixel_b;
-    rt_cam_sweep_pixel_delay_87_vsync <= rt_cam_sweep_pixel_delay_86_vsync;
-    rt_cam_sweep_pixel_delay_87_req <= rt_cam_sweep_pixel_delay_86_req;
-    rt_cam_sweep_pixel_delay_87_eol <= rt_cam_sweep_pixel_delay_86_eol;
-    rt_cam_sweep_pixel_delay_87_eof <= rt_cam_sweep_pixel_delay_86_eof;
-    rt_cam_sweep_pixel_delay_87_pixel_r <= rt_cam_sweep_pixel_delay_86_pixel_r;
-    rt_cam_sweep_pixel_delay_87_pixel_g <= rt_cam_sweep_pixel_delay_86_pixel_g;
-    rt_cam_sweep_pixel_delay_87_pixel_b <= rt_cam_sweep_pixel_delay_86_pixel_b;
-    rt_cam_sweep_pixel_delayed_vsync <= rt_cam_sweep_pixel_delay_87_vsync;
-    rt_cam_sweep_pixel_delayed_req <= rt_cam_sweep_pixel_delay_87_req;
-    rt_cam_sweep_pixel_delayed_eol <= rt_cam_sweep_pixel_delay_87_eol;
-    rt_cam_sweep_pixel_delayed_eof <= rt_cam_sweep_pixel_delay_87_eof;
-    rt_cam_sweep_pixel_delayed_pixel_r <= rt_cam_sweep_pixel_delay_87_pixel_r;
-    rt_cam_sweep_pixel_delayed_pixel_g <= rt_cam_sweep_pixel_delay_87_pixel_g;
-    rt_cam_sweep_pixel_delayed_pixel_b <= rt_cam_sweep_pixel_delay_87_pixel_b;
+    rt_cam_sweep_pixel_delay_83_vtg_valid <= rt_cam_sweep_pixel_delay_82_vtg_valid;
+    rt_cam_sweep_pixel_delay_83_vtg_last <= rt_cam_sweep_pixel_delay_82_vtg_last;
+    rt_cam_sweep_pixel_delay_83_vtg_de <= rt_cam_sweep_pixel_delay_82_vtg_de;
+    rt_cam_sweep_pixel_delay_83_vtg_hsync <= rt_cam_sweep_pixel_delay_82_vtg_hsync;
+    rt_cam_sweep_pixel_delay_83_vtg_vsync <= rt_cam_sweep_pixel_delay_82_vtg_vsync;
+    rt_cam_sweep_pixel_delayed_vsync <= rt_cam_sweep_pixel_delay_83_vsync;
+    rt_cam_sweep_pixel_delayed_req <= rt_cam_sweep_pixel_delay_83_req;
+    rt_cam_sweep_pixel_delayed_eol <= rt_cam_sweep_pixel_delay_83_eol;
+    rt_cam_sweep_pixel_delayed_eof <= rt_cam_sweep_pixel_delay_83_eof;
+    rt_cam_sweep_pixel_delayed_pixel_r <= rt_cam_sweep_pixel_delay_83_pixel_r;
+    rt_cam_sweep_pixel_delayed_pixel_g <= rt_cam_sweep_pixel_delay_83_pixel_g;
+    rt_cam_sweep_pixel_delayed_pixel_b <= rt_cam_sweep_pixel_delay_83_pixel_b;
+    rt_cam_sweep_pixel_delayed_vtg_valid <= rt_cam_sweep_pixel_delay_83_vtg_valid;
+    rt_cam_sweep_pixel_delayed_vtg_last <= rt_cam_sweep_pixel_delay_83_vtg_last;
+    rt_cam_sweep_pixel_delayed_vtg_de <= rt_cam_sweep_pixel_delay_83_vtg_de;
+    rt_cam_sweep_pixel_delayed_vtg_hsync <= rt_cam_sweep_pixel_delay_83_vtg_hsync;
+    rt_cam_sweep_pixel_delayed_vtg_vsync <= rt_cam_sweep_pixel_delay_83_vtg_vsync;
   end
 
   always @ (posedge clk) begin

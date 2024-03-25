@@ -212,6 +212,7 @@ class RTCore extends Component {
             ray.origin.y := RegNext(sphere.center.y)
         }
 
+        /*
         //============================================================
         // Tilt camera up or down
         //============================================================
@@ -257,6 +258,7 @@ class RTCore extends Component {
 
         u_ray_dir_rot_y.io.result_vld   <> ray_dir_rot_y_vld
         u_ray_dir_rot_y.io.result       <> ray_dir_rot_y
+        */
 
 
         //============================================================
@@ -269,8 +271,8 @@ class RTCore extends Component {
         ray_normalized.origin := ray.origin
 
         val u_normalize_ray = new Normalize(rtConfig)
-        u_normalize_ray.io.op_vld      <> ray_dir_rot_y_vld
-        u_normalize_ray.io.op          <> ray_dir_rot_y
+        u_normalize_ray.io.op_vld      <> cam_sweep_pixel.req
+        u_normalize_ray.io.op          <> ray.direction
 
         u_normalize_ray.io.result_vld  <> ray_normalized_vld
         u_normalize_ray.io.result      <> ray_normalized.direction
