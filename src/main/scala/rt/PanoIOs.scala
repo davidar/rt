@@ -35,13 +35,13 @@ case class Pixel() extends Bundle {
 
 }
 
-// case class PixelStream() extends Bundle {
-//     val vsync   = Bool
-//     val req     = Bool
-//     val eol     = Bool
-//     val eof     = Bool
-//     val pixel   = Pixel()
-// }
+case class PixelStream() extends Bundle {
+    val vsync   = Bool
+    val req     = Bool
+    val eol     = Bool
+    val eof     = Bool
+    val pixel   = Pixel()
+}
 
 
 /*
